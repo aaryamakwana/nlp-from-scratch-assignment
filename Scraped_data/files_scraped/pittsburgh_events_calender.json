@@ -1,0 +1,1382 @@
+[
+    {
+        "event_name": "Louisville Cardinals Basketball",
+        "event_date": "2025-01-01",
+        "event_url": "https://pittsburgh.events/tickets/louisville-cardinals-basketball/",
+        "event_location": "Petersen Events Center"
+    },
+    {
+        "event_name": "Syracuse Orange Basketball",
+        "event_date": "2025-01-02",
+        "event_url": "https://pittsburgh.events/tickets/syracuse-orange-basketball/",
+        "event_location": "Petersen Events Center"
+    },
+    {
+        "event_name": "North Carolina Tar Heels Basketball",
+        "event_date": "2025-01-03",
+        "event_url": "https://pittsburgh.events/tickets/north-carolina-tar-heels-basketball/",
+        "event_location": "Petersen Events Center"
+    },
+    {
+        "event_name": "Robert Morris Colonials Womens Hockey",
+        "event_date": "2025-01-03",
+        "event_url": "https://pittsburgh.events/tickets/robert-morris-colonials-womens-hockey/",
+        "event_location": "Clearview Arena (Formerly RMU Island Sports Center)"
+    },
+    {
+        "event_name": "Boston College Eagles Basketball",
+        "event_date": "2025-01-04",
+        "event_url": "https://pittsburgh.events/tickets/boston-college-eagles-basketball/",
+        "event_location": "Petersen Events Center"
+    },
+    {
+        "event_name": "California Golden Bears Basketball",
+        "event_date": "2025-01-05",
+        "event_url": "https://pittsburgh.events/tickets/california-golden-bears-basketball/",
+        "event_location": "Petersen Events Center"
+    },
+    {
+        "event_name": "Bengals vs Steelers",
+        "event_date": "2025-01-05",
+        "event_url": "https://pittsburgh.events/tickets/bengals-vs-steelers/",
+        "event_location": "Acrisure Stadium (formerly Heinz Field)"
+    },
+    {
+        "event_name": "Tailgate Party",
+        "event_date": "2025-01-05",
+        "event_url": "https://pittsburgh.events/tickets/tailgate-party/",
+        "event_location": "Premium Tailgate Tent - Pittsburgh (InActive)"
+    },
+    {
+        "event_name": "Clemson Tigers Basketball",
+        "event_date": "2025-01-06",
+        "event_url": "https://pittsburgh.events/tickets/clemson-tigers-basketball/",
+        "event_location": "Petersen Events Center"
+    },
+    {
+        "event_name": "Georgia Tech Yellow Jackets Basketball",
+        "event_date": "2025-01-07",
+        "event_url": "https://pittsburgh.events/tickets/georgia-tech-yellow-jackets-basketball/",
+        "event_location": "Petersen Events Center"
+    },
+    {
+        "event_name": "Columbus Blue Jackets",
+        "event_date": "2025-01-07",
+        "event_url": "https://pittsburgh.events/tickets/columbus-blue-jackets/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Saint Joseph's Hawks Basketball",
+        "event_date": "2025-01-08",
+        "event_url": "https://pittsburgh.events/tickets/saint-josephs-hawks-basketball/",
+        "event_location": "UPMC Cooper Fieldhouse"
+    },
+    {
+        "event_name": "Miami Hurricanes Basketball",
+        "event_date": "2025-01-08",
+        "event_url": "https://pittsburgh.events/tickets/miami-hurricanes-basketball/",
+        "event_location": "Petersen Events Center"
+    },
+    {
+        "event_name": "Stanford Cardinal Basketball",
+        "event_date": "2025-01-09",
+        "event_url": "https://pittsburgh.events/tickets/stanford-cardinal-basketball/",
+        "event_location": "Petersen Events Center"
+    },
+    {
+        "event_name": "Edmonton Oilers",
+        "event_date": "2025-01-09",
+        "event_url": "https://pittsburgh.events/tickets/edmonton-oilers/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Phil Hanley",
+        "event_date": "2025-01-09",
+        "event_url": "https://pittsburgh.events/tickets/phil-hanley/",
+        "event_location": "Pittsburgh Improv"
+    },
+    {
+        "event_name": "Virginia Cavaliers Basketball",
+        "event_date": "2025-01-10",
+        "event_url": "https://pittsburgh.events/tickets/virginia-cavaliers-basketball/",
+        "event_location": "Petersen Events Center"
+    },
+    {
+        "event_name": "Debussy's La Mer",
+        "event_date": "2025-01-10",
+        "event_url": "https://pittsburgh.events/tickets/debussys-la-mer/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "Ottawa Senators",
+        "event_date": "2025-01-11",
+        "event_url": "https://pittsburgh.events/tickets/ottawa-senators/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Funny Girl",
+        "event_date": "2025-01-11",
+        "event_url": "https://pittsburgh.events/tickets/funny-girl/",
+        "event_location": "Benedum Center"
+    },
+    {
+        "event_name": "Tampa Bay Lightning",
+        "event_date": "2025-01-12",
+        "event_url": "https://pittsburgh.events/tickets/tampa-bay-lightning/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Seattle Kraken",
+        "event_date": "2025-01-14",
+        "event_url": "https://pittsburgh.events/tickets/seattle-kraken/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Canisius Golden Griffins Men's Hockey",
+        "event_date": "2025-01-14",
+        "event_url": "https://pittsburgh.events/tickets/canisius-golden-griffins-mens-hockey/",
+        "event_location": "Clearview Arena (Formerly RMU Island Sports Center)"
+    },
+    {
+        "event_name": "Silverstein",
+        "event_date": "2025-01-17",
+        "event_url": "https://pittsburgh.events/tickets/silverstein/",
+        "event_location": "Stage AE"
+    },
+    {
+        "event_name": "RIT Tigers Men's Hockey",
+        "event_date": "2025-01-17",
+        "event_url": "https://pittsburgh.events/tickets/rit-tigers-mens-hockey/",
+        "event_location": "Clearview Arena (Formerly RMU Island Sports Center)"
+    },
+    {
+        "event_name": "Tchaikovsky & Rachmaninov",
+        "event_date": "2025-01-17",
+        "event_url": "https://pittsburgh.events/tickets/tchaikovsky-rachmaninov/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "St. Bonaventure Bonnies Basketball",
+        "event_date": "2025-01-18",
+        "event_url": "https://pittsburgh.events/tickets/st-bonaventure-bonnies-basketball/",
+        "event_location": "UPMC Cooper Fieldhouse"
+    },
+    {
+        "event_name": "The Secret of Skinwalker Ranch Live",
+        "event_date": "2025-01-23",
+        "event_url": "https://pittsburgh.events/tickets/the-secret-of-skinwalker-ranch-live/",
+        "event_location": "Carnegie of Homestead Music Hall"
+    },
+    {
+        "event_name": "Professional Bull Riders (PBR)",
+        "event_date": "2025-01-24",
+        "event_url": "https://pittsburgh.events/tickets/professional-bull-riders-pbr/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Army Black Knights Men's Hockey",
+        "event_date": "2025-01-24",
+        "event_url": "https://pittsburgh.events/tickets/army-black-knights-mens-hockey/",
+        "event_location": "Clearview Arena (Formerly RMU Island Sports Center)"
+    },
+    {
+        "event_name": "PBR - Unleash the Beast",
+        "event_date": "2025-01-24",
+        "event_url": "https://pittsburgh.events/tickets/pbr-unleash-the-beast/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "One Piece Music Symphony",
+        "event_date": "2025-01-26",
+        "event_url": "https://pittsburgh.events/tickets/one-piece-music-symphony/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "Blind Pilot",
+        "event_date": "2025-01-27",
+        "event_url": "https://pittsburgh.events/tickets/blind-pilot/",
+        "event_location": "Music Hall at Thunderbird Caf\u00e9 & Music Hall"
+    },
+    {
+        "event_name": "Life of Pi",
+        "event_date": "2025-01-28",
+        "event_url": "https://pittsburgh.events/tickets/life-of-pi/",
+        "event_location": "Benedum Center"
+    },
+    {
+        "event_name": "Two Friends",
+        "event_date": "2025-01-29",
+        "event_url": "https://pittsburgh.events/tickets/two-friends/",
+        "event_location": "Stage AE"
+    },
+    {
+        "event_name": "Austin Nasso",
+        "event_date": "2025-01-30",
+        "event_url": "https://pittsburgh.events/tickets/austin-nasso/",
+        "event_location": "Pittsburgh Improv"
+    },
+    {
+        "event_name": "Penn State Nittany Lions Women's hockey",
+        "event_date": "2025-01-31",
+        "event_url": "https://pittsburgh.events/tickets/penn-state-nittany-lions-womens-hockey/",
+        "event_location": "Clearview Arena (Formerly RMU Island Sports Center)"
+    },
+    {
+        "event_name": "Mercyhurst Lakers Men's Hockey",
+        "event_date": "2025-01-31",
+        "event_url": "https://pittsburgh.events/tickets/mercyhurst-lakers-mens-hockey/",
+        "event_location": "Clearview Arena (Formerly RMU Island Sports Center)"
+    },
+    {
+        "event_name": "Pittsburgh Symphony Orchestra",
+        "event_date": "2025-01-31",
+        "event_url": "https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "UMass Minutemen Basketball",
+        "event_date": "2025-02-01",
+        "event_url": "https://pittsburgh.events/tickets/umass-minutemen-basketball/",
+        "event_location": "UPMC Cooper Fieldhouse"
+    },
+    {
+        "event_name": "Life of Pi",
+        "event_date": "2025-02-01",
+        "event_url": "https://pittsburgh.events/tickets/life-of-pi/",
+        "event_location": "Benedum Center"
+    },
+    {
+        "event_name": "Penn State Nittany Lions Women's hockey",
+        "event_date": "2025-02-01",
+        "event_url": "https://pittsburgh.events/tickets/penn-state-nittany-lions-womens-hockey/",
+        "event_location": "Clearview Arena (Formerly RMU Island Sports Center)"
+    },
+    {
+        "event_name": "Mercyhurst Lakers Men's Hockey",
+        "event_date": "2025-02-01",
+        "event_url": "https://pittsburgh.events/tickets/mercyhurst-lakers-mens-hockey/",
+        "event_location": "Clearview Arena (Formerly RMU Island Sports Center)"
+    },
+    {
+        "event_name": "Nashville Predators",
+        "event_date": "2025-02-01",
+        "event_url": "https://pittsburgh.events/tickets/nashville-predators/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Petey",
+        "event_date": "2025-02-02",
+        "event_url": "https://pittsburgh.events/tickets/petey/",
+        "event_location": "Stage AE"
+    },
+    {
+        "event_name": "Virginia Cavaliers Basketball",
+        "event_date": "2025-02-03",
+        "event_url": "https://pittsburgh.events/tickets/virginia-cavaliers-basketball/",
+        "event_location": "Petersen Events Center"
+    },
+    {
+        "event_name": "New Jersey Devils",
+        "event_date": "2025-02-04",
+        "event_url": "https://pittsburgh.events/tickets/new-jersey-devils/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Babyface Ray",
+        "event_date": "2025-02-04",
+        "event_url": "https://pittsburgh.events/tickets/babyface-ray/",
+        "event_location": "Stage AE"
+    },
+    {
+        "event_name": "Tim Heidecker",
+        "event_date": "2025-02-06",
+        "event_url": "https://pittsburgh.events/tickets/tim-heidecker/",
+        "event_location": "Spirit Hall"
+    },
+    {
+        "event_name": "Syracuse Orange Women's Ice Hockey",
+        "event_date": "2025-02-07",
+        "event_url": "https://pittsburgh.events/tickets/syracuse-orange-womens-ice-hockey/",
+        "event_location": "Clearview Arena (Formerly RMU Island Sports Center)"
+    },
+    {
+        "event_name": "Loyola Chicago Ramblers Basketball",
+        "event_date": "2025-02-08",
+        "event_url": "https://pittsburgh.events/tickets/loyola-chicago-ramblers-basketball/",
+        "event_location": "UPMC Cooper Fieldhouse"
+    },
+    {
+        "event_name": "Star Wars A New Hope in Concert",
+        "event_date": "2025-02-08",
+        "event_url": "https://pittsburgh.events/tickets/star-wars-a-new-hope-in-concert/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "Alan Walker",
+        "event_date": "2025-02-13",
+        "event_url": "https://pittsburgh.events/tickets/alan-walker/",
+        "event_location": "Stage AE"
+    },
+    {
+        "event_name": "Robert Morris Colonials Women's Ice Hockey",
+        "event_date": "2025-02-14",
+        "event_url": "https://pittsburgh.events/tickets/robert-morris-colonials-womens-ice-hockey/",
+        "event_location": "Clearview Arena (Formerly RMU Island Sports Center)"
+    },
+    {
+        "event_name": "Monster Jam",
+        "event_date": "2025-02-14",
+        "event_url": "https://pittsburgh.events/tickets/monster-jam/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Miami Hurricanes Basketball",
+        "event_date": "2025-02-15",
+        "event_url": "https://pittsburgh.events/tickets/miami-hurricanes-basketball/",
+        "event_location": "Petersen Events Center"
+    },
+    {
+        "event_name": "Niagara Purple Eagles Men's Hockey",
+        "event_date": "2025-02-15",
+        "event_url": "https://pittsburgh.events/tickets/niagara-purple-eagles-mens-hockey/",
+        "event_location": "Clearview Arena (Formerly RMU Island Sports Center)"
+    },
+    {
+        "event_name": "Monster Jam Pit Party",
+        "event_date": "2025-02-16",
+        "event_url": "https://pittsburgh.events/tickets/monster-jam-pit-party/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Pittsburgh Symphony Orchestra",
+        "event_date": "2025-02-16",
+        "event_url": "https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "Syracuse Orange Basketball",
+        "event_date": "2025-02-18",
+        "event_url": "https://pittsburgh.events/tickets/syracuse-orange-basketball/",
+        "event_location": "Petersen Events Center"
+    },
+    {
+        "event_name": "Air Force Falcons Men's Hockey",
+        "event_date": "2025-02-21",
+        "event_url": "https://pittsburgh.events/tickets/air-force-falcons-mens-hockey/",
+        "event_location": "Clearview Arena (Formerly RMU Island Sports Center)"
+    },
+    {
+        "event_name": "Emanuel Ax",
+        "event_date": "2025-02-21",
+        "event_url": "https://pittsburgh.events/tickets/emanuel-ax/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "Washington Capitals",
+        "event_date": "2025-02-22",
+        "event_url": "https://pittsburgh.events/tickets/washington-capitals/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Sal Vulcano",
+        "event_date": "2025-02-22",
+        "event_url": "https://pittsburgh.events/tickets/sal-vulcano/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "New York Rangers",
+        "event_date": "2025-02-23",
+        "event_url": "https://pittsburgh.events/tickets/new-york-rangers/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Ollie Wride",
+        "event_date": "2025-02-23",
+        "event_url": "https://pittsburgh.events/tickets/ollie-wride/",
+        "event_location": "Crafthouse Stage & Grill"
+    },
+    {
+        "event_name": "Georgia Tech Yellow Jackets Basketball",
+        "event_date": "2025-02-25",
+        "event_url": "https://pittsburgh.events/tickets/georgia-tech-yellow-jackets-basketball/",
+        "event_location": "Petersen Events Center"
+    },
+    {
+        "event_name": "Philadelphia Flyers",
+        "event_date": "2025-02-27",
+        "event_url": "https://pittsburgh.events/tickets/philadelphia-flyers/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Chris Porter",
+        "event_date": "2025-02-27",
+        "event_url": "https://pittsburgh.events/tickets/chris-porter/",
+        "event_location": "Pittsburgh Improv"
+    },
+    {
+        "event_name": "Pastor Steven Furtick",
+        "event_date": "2025-02-28",
+        "event_url": "https://pittsburgh.events/tickets/pastor-steven-furtick/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "George Mason Patriots Basketball",
+        "event_date": "2025-03-01",
+        "event_url": "https://pittsburgh.events/tickets/george-mason-patriots-basketball/",
+        "event_location": "UPMC Cooper Fieldhouse"
+    },
+    {
+        "event_name": "Boston Bruins",
+        "event_date": "2025-03-01",
+        "event_url": "https://pittsburgh.events/tickets/boston-bruins/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Ashley Cooke (US)",
+        "event_date": "2025-03-01",
+        "event_url": "https://pittsburgh.events/tickets/ashley-cooke-us/",
+        "event_location": "Stage AE"
+    },
+    {
+        "event_name": "Toronto Maple Leafs",
+        "event_date": "2025-03-02",
+        "event_url": "https://pittsburgh.events/tickets/toronto-maple-leafs/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Pittsburgh Symphony Orchestra",
+        "event_date": "2025-03-02",
+        "event_url": "https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "Virginia Commonwealth Rams Basketball",
+        "event_date": "2025-03-04",
+        "event_url": "https://pittsburgh.events/tickets/virginia-commonwealth-rams-basketball/",
+        "event_location": "UPMC Cooper Fieldhouse"
+    },
+    {
+        "event_name": "Sheng Wang",
+        "event_date": "2025-03-06",
+        "event_url": "https://pittsburgh.events/tickets/sheng-wang/",
+        "event_location": "Carnegie of Homestead Music Hall"
+    },
+    {
+        "event_name": "Jan Lisiecki",
+        "event_date": "2025-03-07",
+        "event_url": "https://pittsburgh.events/tickets/jan-lisiecki/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "Kimberly Akimbo",
+        "event_date": "2025-03-08",
+        "event_url": "https://pittsburgh.events/tickets/kimberly-akimbo/",
+        "event_location": "Benedum Center"
+    },
+    {
+        "event_name": "Boston College Eagles Basketball",
+        "event_date": "2025-03-08",
+        "event_url": "https://pittsburgh.events/tickets/boston-college-eagles-basketball/",
+        "event_location": "Petersen Events Center"
+    },
+    {
+        "event_name": "Mozart's Piano Concerto No. 22",
+        "event_date": "2025-03-09",
+        "event_url": "https://pittsburgh.events/tickets/mozarts-piano-concerto-no-22/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "Vegas Golden Knights",
+        "event_date": "2025-03-11",
+        "event_url": "https://pittsburgh.events/tickets/vegas-golden-knights/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "St. Louis Blues",
+        "event_date": "2025-03-13",
+        "event_url": "https://pittsburgh.events/tickets/st-louis-blues/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "New Jersey Devils",
+        "event_date": "2025-03-15",
+        "event_url": "https://pittsburgh.events/tickets/new-jersey-devils/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Quicksand",
+        "event_date": "2025-03-16",
+        "event_url": "https://pittsburgh.events/tickets/quicksand/",
+        "event_location": "Music Hall at Thunderbird Caf\u00e9 & Music Hall"
+    },
+    {
+        "event_name": "Foil Arms and Hog",
+        "event_date": "2025-03-16",
+        "event_url": "https://pittsburgh.events/tickets/foil-arms-and-hog/",
+        "event_location": "Carnegie of Homestead Music Hall"
+    },
+    {
+        "event_name": "New York Islanders",
+        "event_date": "2025-03-18",
+        "event_url": "https://pittsburgh.events/tickets/new-york-islanders/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Lang Lang",
+        "event_date": "2025-03-19",
+        "event_url": "https://pittsburgh.events/tickets/lang-lang/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "Columbus Blue Jackets",
+        "event_date": "2025-03-21",
+        "event_url": "https://pittsburgh.events/tickets/columbus-blue-jackets/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Modi Rosenfeld",
+        "event_date": "2025-03-26",
+        "event_url": "https://pittsburgh.events/tickets/modi-rosenfeld/",
+        "event_location": "Pittsburgh Improv"
+    },
+    {
+        "event_name": "Greg Fitzsimmons",
+        "event_date": "2025-03-28",
+        "event_url": "https://pittsburgh.events/tickets/greg-fitzsimmons/",
+        "event_location": "Pittsburgh Improv"
+    },
+    {
+        "event_name": "Ottawa Senators",
+        "event_date": "2025-03-30",
+        "event_url": "https://pittsburgh.events/tickets/ottawa-senators/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Kimberly Akimbo",
+        "event_date": "2025-04-01",
+        "event_url": "https://pittsburgh.events/tickets/kimberly-akimbo/",
+        "event_location": "Benedum Center"
+    },
+    {
+        "event_name": "New York Yankees",
+        "event_date": "2025-04-04",
+        "event_url": "https://pittsburgh.events/tickets/new-york-yankees/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Reggie Watts",
+        "event_date": "2025-04-05",
+        "event_url": "https://pittsburgh.events/tickets/reggie-watts/",
+        "event_location": "Spirit Hall"
+    },
+    {
+        "event_name": "Total Eclipse of the Chart: Music of the 80s",
+        "event_date": "2025-04-05",
+        "event_url": "https://pittsburgh.events/tickets/total-eclipse-of-the-chart-music-of-the-80s/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "Peter Pan",
+        "event_date": "2025-04-06",
+        "event_url": "https://pittsburgh.events/tickets/peter-pan/",
+        "event_location": "Benedum Center"
+    },
+    {
+        "event_name": "St. Louis Cardinals",
+        "event_date": "2025-04-07",
+        "event_url": "https://pittsburgh.events/tickets/st-louis-cardinals/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Chicago Blackhawks",
+        "event_date": "2025-04-08",
+        "event_url": "https://pittsburgh.events/tickets/chicago-blackhawks/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Explosions In the Sky",
+        "event_date": "2025-04-08",
+        "event_url": "https://pittsburgh.events/tickets/explosions-in-the-sky/",
+        "event_location": "Stage AE"
+    },
+    {
+        "event_name": "Pittsburgh Symphony Orchestra",
+        "event_date": "2025-04-12",
+        "event_url": "https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "Boston Bruins",
+        "event_date": "2025-04-13",
+        "event_url": "https://pittsburgh.events/tickets/boston-bruins/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Washington Nationals",
+        "event_date": "2025-04-14",
+        "event_url": "https://pittsburgh.events/tickets/washington-nationals/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Some Like It Hot",
+        "event_date": "2025-04-15",
+        "event_url": "https://pittsburgh.events/tickets/some-like-it-hot/",
+        "event_location": "Benedum Center"
+    },
+    {
+        "event_name": "Washington Capitals",
+        "event_date": "2025-04-17",
+        "event_url": "https://pittsburgh.events/tickets/washington-capitals/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Cleveland Guardians",
+        "event_date": "2025-04-18",
+        "event_url": "https://pittsburgh.events/tickets/cleveland-guardians/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Monster Energy AMA Supercross",
+        "event_date": "2025-04-26",
+        "event_url": "https://pittsburgh.events/tickets/monster-energy-ama-supercross/",
+        "event_location": "Acrisure Stadium (formerly Heinz Field)"
+    },
+    {
+        "event_name": "Brahms & Beethoven",
+        "event_date": "2025-04-26",
+        "event_url": "https://pittsburgh.events/tickets/brahms-beethoven/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "Chicago Cubs",
+        "event_date": "2025-04-29",
+        "event_url": "https://pittsburgh.events/tickets/chicago-cubs/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Trivium",
+        "event_date": "2025-04-29",
+        "event_url": "https://pittsburgh.events/tickets/trivium/",
+        "event_location": "Stage AE"
+    },
+    {
+        "event_name": "Chicago Cubs",
+        "event_date": "2025-05-01",
+        "event_url": "https://pittsburgh.events/tickets/chicago-cubs/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "San Diego Padres",
+        "event_date": "2025-05-02",
+        "event_url": "https://pittsburgh.events/tickets/san-diego-padres/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Come from Away",
+        "event_date": "2025-05-02",
+        "event_url": "https://pittsburgh.events/tickets/come-from-away/",
+        "event_location": "Benedum Center"
+    },
+    {
+        "event_name": "Atlanta Braves",
+        "event_date": "2025-05-09",
+        "event_url": "https://pittsburgh.events/tickets/atlanta-braves/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Larry Fleet",
+        "event_date": "2025-05-09",
+        "event_url": "https://pittsburgh.events/tickets/larry-fleet/",
+        "event_location": "Stage AE"
+    },
+    {
+        "event_name": "Warren Zeiders",
+        "event_date": "2025-05-15",
+        "event_url": "https://pittsburgh.events/tickets/warren-zeiders/",
+        "event_location": "Stage AE"
+    },
+    {
+        "event_name": "Bruce Cockburn",
+        "event_date": "2025-05-16",
+        "event_url": "https://pittsburgh.events/tickets/bruce-cockburn/",
+        "event_location": "City Winery Pittsburgh"
+    },
+    {
+        "event_name": "Pittsburgh Symphony Orchestra",
+        "event_date": "2025-05-18",
+        "event_url": "https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "Cincinnati Reds",
+        "event_date": "2025-05-19",
+        "event_url": "https://pittsburgh.events/tickets/cincinnati-reds/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Puscifer",
+        "event_date": "2025-05-20",
+        "event_url": "https://pittsburgh.events/tickets/puscifer/",
+        "event_location": "Petersen Events Center"
+    },
+    {
+        "event_name": "Milwaukee Brewers",
+        "event_date": "2025-05-22",
+        "event_url": "https://pittsburgh.events/tickets/milwaukee-brewers/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Houston Astros",
+        "event_date": "2025-06-03",
+        "event_url": "https://pittsburgh.events/tickets/houston-astros/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Yo-Yo Ma",
+        "event_date": "2025-06-04",
+        "event_url": "https://pittsburgh.events/tickets/yo-yo-ma/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "Philadelphia Phillies",
+        "event_date": "2025-06-06",
+        "event_url": "https://pittsburgh.events/tickets/philadelphia-phillies/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Teddy Swims",
+        "event_date": "2025-06-06",
+        "event_url": "https://pittsburgh.events/tickets/teddy-swims/",
+        "event_location": "Stage AE"
+    },
+    {
+        "event_name": "Pittsburgh Symphony Orchestra",
+        "event_date": "2025-06-08",
+        "event_url": "https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "Miami Marlins",
+        "event_date": "2025-06-09",
+        "event_url": "https://pittsburgh.events/tickets/miami-marlins/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Sarah Millican",
+        "event_date": "2025-06-11",
+        "event_url": "https://pittsburgh.events/tickets/sarah-millican/",
+        "event_location": "Byham Theater"
+    },
+    {
+        "event_name": "Beatrice Rana",
+        "event_date": "2025-06-13",
+        "event_url": "https://pittsburgh.events/tickets/beatrice-rana/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "Texas Rangers",
+        "event_date": "2025-06-20",
+        "event_url": "https://pittsburgh.events/tickets/texas-rangers/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Megan Moroney",
+        "event_date": "2025-06-20",
+        "event_url": "https://pittsburgh.events/tickets/megan-moroney/",
+        "event_location": "Stage AE"
+    },
+    {
+        "event_name": "New York Mets",
+        "event_date": "2025-06-27",
+        "event_url": "https://pittsburgh.events/tickets/new-york-mets/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "St. Louis Cardinals",
+        "event_date": "2025-06-30",
+        "event_url": "https://pittsburgh.events/tickets/st-louis-cardinals/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "St. Louis Cardinals",
+        "event_date": "2025-07-01",
+        "event_url": "https://pittsburgh.events/tickets/st-louis-cardinals/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Chicago White Sox",
+        "event_date": "2025-07-18",
+        "event_url": "https://pittsburgh.events/tickets/chicago-white-sox/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Detroit Tigers",
+        "event_date": "2025-07-21",
+        "event_url": "https://pittsburgh.events/tickets/detroit-tigers/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Dude Perfect",
+        "event_date": "2025-07-24",
+        "event_url": "https://pittsburgh.events/tickets/dude-perfect/",
+        "event_location": "Petersen Events Center"
+    },
+    {
+        "event_name": "Arizona Diamondbacks",
+        "event_date": "2025-07-25",
+        "event_url": "https://pittsburgh.events/tickets/arizona-diamondbacks/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "San Francisco Giants",
+        "event_date": "2025-08-04",
+        "event_url": "https://pittsburgh.events/tickets/san-francisco-giants/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Cincinnati Reds",
+        "event_date": "2025-08-07",
+        "event_url": "https://pittsburgh.events/tickets/cincinnati-reds/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Toronto Blue Jays",
+        "event_date": "2025-08-18",
+        "event_url": "https://pittsburgh.events/tickets/toronto-blue-jays/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Colorado Rockies",
+        "event_date": "2025-08-22",
+        "event_url": "https://pittsburgh.events/tickets/colorado-rockies/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Texas Tailgaters",
+        "event_date": "2025-08-29",
+        "event_url": "https://pittsburgh.events/tickets/texas-tailgaters/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Los Angeles Dodgers",
+        "event_date": "2025-09-02",
+        "event_url": "https://pittsburgh.events/tickets/los-angeles-dodgers/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Milwaukee Brewers",
+        "event_date": "2025-09-05",
+        "event_url": "https://pittsburgh.events/tickets/milwaukee-brewers/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Chicago Cubs",
+        "event_date": "2025-09-15",
+        "event_url": "https://pittsburgh.events/tickets/chicago-cubs/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Athletics",
+        "event_date": "2025-09-19",
+        "event_url": "https://pittsburgh.events/tickets/athletics/",
+        "event_location": "PNC Park"
+    },
+    {
+        "event_name": "Mephiskapheles",
+        "event_date": "2024-10-28",
+        "event_url": "https://pittsburgh.events/tickets/mephiskapheles/",
+        "event_location": "15203, Pittsburgh, PA, US"
+    },
+    {
+        "event_name": "Pink Martini",
+        "event_date": "2024-10-29",
+        "event_url": "https://pittsburgh.events/tickets/pink-martini/",
+        "event_location": "Carnegie of Homestead Music Hall"
+    },
+    {
+        "event_name": "Pink Martini",
+        "event_date": "2024-10-29",
+        "event_url": "https://pittsburgh.events/tickets/pink-martini/",
+        "event_location": "Carnegie Music Hall"
+    },
+    {
+        "event_name": "Matt Mathews",
+        "event_date": "2024-11-01",
+        "event_url": "https://pittsburgh.events/tickets/matt-mathews/",
+        "event_location": "Carnegie of Homestead Music Hall"
+    },
+    {
+        "event_name": "Lindenwood Lions Men's Hockey",
+        "event_date": "2024-11-01",
+        "event_url": "https://pittsburgh.events/tickets/lindenwood-lions-mens-hockey/",
+        "event_location": "Clearview Arena (Formerly RMU Island Sports Center)"
+    },
+    {
+        "event_name": "Dexter and The Moonrocks",
+        "event_date": "2024-11-01",
+        "event_url": "https://pittsburgh.events/tickets/dexter-and-the-moonrocks/",
+        "event_location": "Stage AE"
+    },
+    {
+        "event_name": "Sugarland",
+        "event_date": "2024-11-01",
+        "event_url": "https://pittsburgh.events/tickets/sugarland/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Brahms & Schumann",
+        "event_date": "2024-11-01",
+        "event_url": "https://pittsburgh.events/tickets/brahms-schumann/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "Samuel Comroe",
+        "event_date": "2024-11-01",
+        "event_url": "https://pittsburgh.events/tickets/samuel-comroe/",
+        "event_location": "Pittsburgh Improv"
+    },
+    {
+        "event_name": "Desperado A Celebration of the Eagles",
+        "event_date": "2024-11-01",
+        "event_url": "https://pittsburgh.events/tickets/desperado-a-celebration-of-the-eagles/",
+        "event_location": "City Winery Pittsburgh"
+    },
+    {
+        "event_name": "Boney James",
+        "event_date": "2024-11-01",
+        "event_url": "https://pittsburgh.events/tickets/boney-james/",
+        "event_location": "Byham Theater"
+    },
+    {
+        "event_name": "Pink Skies",
+        "event_date": "2024-11-01",
+        "event_url": "https://pittsburgh.events/tickets/pink-skies/",
+        "event_location": "Club Cafe"
+    },
+    {
+        "event_name": "Mercyhurst Lakers Football",
+        "event_date": "2024-11-02",
+        "event_url": "https://pittsburgh.events/tickets/mercyhurst-lakers-football/",
+        "event_location": "Arthur J. Rooney Athletic Field"
+    },
+    {
+        "event_name": "Billy Ocean",
+        "event_date": "2024-11-02",
+        "event_url": "https://pittsburgh.events/tickets/billy-ocean/",
+        "event_location": "Event Center at Rivers Casino Pittsburgh"
+    },
+    {
+        "event_name": "Montreal Canadiens",
+        "event_date": "2024-11-02",
+        "event_url": "https://pittsburgh.events/tickets/montreal-canadiens/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Atsuko Okatsuka",
+        "event_date": "2024-11-02",
+        "event_url": "https://pittsburgh.events/tickets/atsuko-okatsuka/",
+        "event_location": "Byham Theater"
+    },
+    {
+        "event_name": "Nate Smith",
+        "event_date": "2024-11-02",
+        "event_url": "https://pittsburgh.events/tickets/nate-smith/",
+        "event_location": "Stage AE"
+    },
+    {
+        "event_name": "& Juliet",
+        "event_date": "2024-11-02",
+        "event_url": "https://pittsburgh.events/tickets/juliet/",
+        "event_location": "Benedum Center"
+    },
+    {
+        "event_name": "Shwayze",
+        "event_date": "2024-11-02",
+        "event_url": "https://pittsburgh.events/tickets/shwayze/",
+        "event_location": "Cafe at Thunderbird Cafe & Music Hall"
+    },
+    {
+        "event_name": "Wheelwright",
+        "event_date": "2024-11-02",
+        "event_url": "https://pittsburgh.events/tickets/wheelwright/",
+        "event_location": "Club Cafe"
+    },
+    {
+        "event_name": "Nick Carter",
+        "event_date": "2024-11-02",
+        "event_url": "https://pittsburgh.events/tickets/nick-carter/",
+        "event_location": "Carnegie of Homestead Music Hall"
+    },
+    {
+        "event_name": "Najee",
+        "event_date": "2024-11-02",
+        "event_url": "https://pittsburgh.events/tickets/najee/",
+        "event_location": "City Winery Pittsburgh"
+    },
+    {
+        "event_name": "Luann de Lesseps",
+        "event_date": "2024-11-03",
+        "event_url": "https://pittsburgh.events/tickets/luann-de-lesseps/",
+        "event_location": "City Winery Pittsburgh"
+    },
+    {
+        "event_name": "Bailey Spinn",
+        "event_date": "2024-11-03",
+        "event_url": "https://pittsburgh.events/tickets/bailey-spinn/",
+        "event_location": "Crafthouse Stage & Grill"
+    },
+    {
+        "event_name": "Don Toliver",
+        "event_date": "2024-11-03",
+        "event_url": "https://pittsburgh.events/tickets/don-toliver/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Cold Case Live",
+        "event_date": "2024-11-03",
+        "event_url": "https://pittsburgh.events/tickets/cold-case-live/",
+        "event_location": "Carnegie of Homestead Music Hall"
+    },
+    {
+        "event_name": "Cold Case",
+        "event_date": "2024-11-03",
+        "event_url": "https://pittsburgh.events/tickets/cold-case/",
+        "event_location": "Carnegie Music Hall"
+    },
+    {
+        "event_name": "Ruby Waters",
+        "event_date": "2024-11-03",
+        "event_url": "https://pittsburgh.events/tickets/ruby-waters/",
+        "event_location": "Cafe at Thunderbird Cafe & Music Hall"
+    },
+    {
+        "event_name": "Mark Dignam",
+        "event_date": "2024-11-03",
+        "event_url": "https://pittsburgh.events/tickets/mark-dignam/",
+        "event_location": "Club Cafe"
+    },
+    {
+        "event_name": "Radford Highlanders Basketball",
+        "event_date": "2024-11-04",
+        "event_url": "https://pittsburgh.events/tickets/radford-highlanders-basketball/",
+        "event_location": "Petersen Events Center"
+    },
+    {
+        "event_name": "Jonathan Butler",
+        "event_date": "2024-11-04",
+        "event_url": "https://pittsburgh.events/tickets/jonathan-butler/",
+        "event_location": "City Winery Pittsburgh"
+    },
+    {
+        "event_name": "The Dickies",
+        "event_date": "2024-11-04",
+        "event_url": "https://pittsburgh.events/tickets/the-dickies/",
+        "event_location": "Crafthouse Stage & Grill"
+    },
+    {
+        "event_name": "Lipscomb Bisons Basketball",
+        "event_date": "2024-11-04",
+        "event_url": "https://pittsburgh.events/tickets/lipscomb-bisons-basketball/",
+        "event_location": "UPMC Cooper Fieldhouse"
+    },
+    {
+        "event_name": "Microwaves",
+        "event_date": "2024-11-04",
+        "event_url": "https://pittsburgh.events/tickets/microwaves/",
+        "event_location": "Club Cafe"
+    },
+    {
+        "event_name": "The Supersuckers",
+        "event_date": "2024-11-05",
+        "event_url": "https://pittsburgh.events/tickets/the-supersuckers/",
+        "event_location": "Club Cafe"
+    },
+    {
+        "event_name": "Bill Crawford",
+        "event_date": "2024-11-06",
+        "event_url": "https://pittsburgh.events/tickets/bill-crawford/",
+        "event_location": "Pittsburgh Improv"
+    },
+    {
+        "event_name": "Cold War Kids",
+        "event_date": "2024-11-06",
+        "event_url": "https://pittsburgh.events/tickets/cold-war-kids/",
+        "event_location": "Stage AE"
+    },
+    {
+        "event_name": "Not Enough Space",
+        "event_date": "2024-11-06",
+        "event_url": "https://pittsburgh.events/tickets/not-enough-space/",
+        "event_location": "Crafthouse Stage & Grill"
+    },
+    {
+        "event_name": "Jane Leo",
+        "event_date": "2024-11-06",
+        "event_url": "https://pittsburgh.events/tickets/jane-leo/",
+        "event_location": "Club Cafe"
+    },
+    {
+        "event_name": "ARRIVAL from Sweden - A Tribute to ABBA",
+        "event_date": "2024-11-06",
+        "event_url": "https://pittsburgh.events/tickets/arrival-from-sweden-a-tribute-to-abba/",
+        "event_location": "Carnegie of Homestead Music Hall"
+    },
+    {
+        "event_name": "The Palmer Squares",
+        "event_date": "2024-11-07",
+        "event_url": "https://pittsburgh.events/tickets/the-palmer-squares/",
+        "event_location": "Hard Rock Cafe Pittsburgh"
+    },
+    {
+        "event_name": "The Obsessed Tour",
+        "event_date": "2024-11-07",
+        "event_url": "https://pittsburgh.events/tickets/the-obsessed-tour/",
+        "event_location": "Stage AE"
+    },
+    {
+        "event_name": "Dar Williams",
+        "event_date": "2024-11-07",
+        "event_url": "https://pittsburgh.events/tickets/dar-williams/",
+        "event_location": "City Winery Pittsburgh"
+    },
+    {
+        "event_name": "MJ The Musical",
+        "event_date": "2024-12-01",
+        "event_url": "https://pittsburgh.events/tickets/mj-the-musical/",
+        "event_location": "Benedum Center"
+    },
+    {
+        "event_name": "Karlous Miller",
+        "event_date": "2024-12-01",
+        "event_url": "https://pittsburgh.events/tickets/karlous-miller/",
+        "event_location": "Pittsburgh Improv"
+    },
+    {
+        "event_name": "Jhen\u00e9 Aiko",
+        "event_date": "2024-12-01",
+        "event_url": "https://pittsburgh.events/tickets/jhene-aiko/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Saint Peter's Peacocks Basketball",
+        "event_date": "2024-12-03",
+        "event_url": "https://pittsburgh.events/tickets/saint-peters-peacocks-basketball/",
+        "event_location": "UPMC Cooper Fieldhouse"
+    },
+    {
+        "event_name": "Florida Panthers",
+        "event_date": "2024-12-03",
+        "event_url": "https://pittsburgh.events/tickets/florida-panthers/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Evan Honer",
+        "event_date": "2024-12-03",
+        "event_url": "https://pittsburgh.events/tickets/evan-honer/",
+        "event_location": "Spirit Hall"
+    },
+    {
+        "event_name": "Mike Viola",
+        "event_date": "2024-12-03",
+        "event_url": "https://pittsburgh.events/tickets/mike-viola/",
+        "event_location": "Club Cafe"
+    },
+    {
+        "event_name": "Scott Bradlee",
+        "event_date": "2024-12-04",
+        "event_url": "https://pittsburgh.events/tickets/scott-bradlee/",
+        "event_location": "Carnegie of Homestead Music Hall"
+    },
+    {
+        "event_name": "Palmyra",
+        "event_date": "2024-12-05",
+        "event_url": "https://pittsburgh.events/tickets/palmyra/",
+        "event_location": "Club Cafe"
+    },
+    {
+        "event_name": "Rene Vaca",
+        "event_date": "2024-12-05",
+        "event_url": "https://pittsburgh.events/tickets/rene-vaca/",
+        "event_location": "Pittsburgh Improv"
+    },
+    {
+        "event_name": "Delaware Blue Hens Basketball",
+        "event_date": "2024-12-06",
+        "event_url": "https://pittsburgh.events/tickets/delaware-blue-hens-basketball/",
+        "event_location": "UPMC Cooper Fieldhouse"
+    },
+    {
+        "event_name": "Brahms and Faure",
+        "event_date": "2024-12-06",
+        "event_url": "https://pittsburgh.events/tickets/brahms-and-faure/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "Steve Byrne",
+        "event_date": "2024-12-06",
+        "event_url": "https://pittsburgh.events/tickets/steve-byrne/",
+        "event_location": "Pittsburgh Improv"
+    },
+    {
+        "event_name": "Twisted Pine",
+        "event_date": "2024-12-06",
+        "event_url": "https://pittsburgh.events/tickets/twisted-pine/",
+        "event_location": "Club Cafe"
+    },
+    {
+        "event_name": "Broadway Rave",
+        "event_date": "2024-12-06",
+        "event_url": "https://pittsburgh.events/tickets/broadway-rave/",
+        "event_location": "Crafthouse Stage & Grill"
+    },
+    {
+        "event_name": "Vincent Mason",
+        "event_date": "2024-12-07",
+        "event_url": "https://pittsburgh.events/tickets/vincent-mason/",
+        "event_location": "Stage AE"
+    },
+    {
+        "event_name": "Toronto Maple Leafs",
+        "event_date": "2024-12-07",
+        "event_url": "https://pittsburgh.events/tickets/toronto-maple-leafs/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Handel's Messiah",
+        "event_date": "2024-12-07",
+        "event_url": "https://pittsburgh.events/tickets/handels-messiah/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "Matteo Bocelli",
+        "event_date": "2024-12-07",
+        "event_url": "https://pittsburgh.events/tickets/matteo-bocelli/",
+        "event_location": "Carnegie of Homestead Music Hall"
+    },
+    {
+        "event_name": "Tailgate Party",
+        "event_date": "2024-12-08",
+        "event_url": "https://pittsburgh.events/tickets/tailgate-party/",
+        "event_location": "Premium Tailgate Tent \u2013 Pitt"
+    },
+    {
+        "event_name": "The Nutcracker (ballet)",
+        "event_date": "2024-12-08",
+        "event_url": "https://pittsburgh.events/tickets/the-nutcracker-ballet/",
+        "event_location": "Benedum Center"
+    },
+    {
+        "event_name": "Browns vs Steelers",
+        "event_date": "2024-12-08",
+        "event_url": "https://pittsburgh.events/tickets/browns-vs-steelers/",
+        "event_location": "Acrisure Stadium (formerly Heinz Field)"
+    },
+    {
+        "event_name": "Surfer Girl",
+        "event_date": "2024-12-08",
+        "event_url": "https://pittsburgh.events/tickets/surfer-girl/",
+        "event_location": "Club Cafe"
+    },
+    {
+        "event_name": "The Lizard Train",
+        "event_date": "2024-12-09",
+        "event_url": "https://pittsburgh.events/tickets/the-lizard-train/",
+        "event_location": "Stage AE"
+    },
+    {
+        "event_name": "Colorado Avalanche",
+        "event_date": "2024-12-10",
+        "event_url": "https://pittsburgh.events/tickets/colorado-avalanche/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Straight No Chaser",
+        "event_date": "2024-12-10",
+        "event_url": "https://pittsburgh.events/tickets/straight-no-chaser/",
+        "event_location": "Benedum Center"
+    },
+    {
+        "event_name": "L\u00fanasa",
+        "event_date": "2024-12-10",
+        "event_url": "https://pittsburgh.events/tickets/lunasa/",
+        "event_location": "City Winery Pittsburgh"
+    },
+    {
+        "event_name": "Nick Guckert",
+        "event_date": "2024-12-10",
+        "event_url": "https://pittsburgh.events/tickets/nick-guckert/",
+        "event_location": "Club Cafe"
+    },
+    {
+        "event_name": "Eastern Kentucky Colonels Basketball",
+        "event_date": "2024-12-11",
+        "event_url": "https://pittsburgh.events/tickets/eastern-kentucky-colonels-basketball/",
+        "event_location": "Petersen Events Center"
+    },
+    {
+        "event_name": "Maine Black Bears Basketball",
+        "event_date": "2024-12-11",
+        "event_url": "https://pittsburgh.events/tickets/maine-black-bears-basketball/",
+        "event_location": "UPMC Cooper Fieldhouse"
+    },
+    {
+        "event_name": "Kansas",
+        "event_date": "2024-12-11",
+        "event_url": "https://pittsburgh.events/tickets/kansas/",
+        "event_location": "Benedum Center"
+    },
+    {
+        "event_name": "Mariah Carey",
+        "event_date": "2024-12-11",
+        "event_url": "https://pittsburgh.events/tickets/mariah-carey/",
+        "event_location": "PPG Paints Arena"
+    },
+    {
+        "event_name": "Jaimee Harris",
+        "event_date": "2024-12-12",
+        "event_url": "https://pittsburgh.events/tickets/jaimee-harris/",
+        "event_location": "Club Cafe"
+    },
+    {
+        "event_name": "Nick Colletti",
+        "event_date": "2024-12-12",
+        "event_url": "https://pittsburgh.events/tickets/nick-colletti/",
+        "event_location": "Pittsburgh Improv"
+    },
+    {
+        "event_name": "Randy",
+        "event_date": "2024-12-12",
+        "event_url": "https://pittsburgh.events/tickets/randy/",
+        "event_location": "Bottlerocket Social Hall"
+    },
+    {
+        "event_name": "Fairytale of New York",
+        "event_date": "2024-12-12",
+        "event_url": "https://pittsburgh.events/tickets/fairytale-of-new-york/",
+        "event_location": "Carnegie of Homestead Music Hall"
+    },
+    {
+        "event_name": "Ali Siddiq",
+        "event_date": "2024-12-13",
+        "event_url": "https://pittsburgh.events/tickets/ali-siddiq/",
+        "event_location": "Carnegie of Homestead Music Hall"
+    },
+    {
+        "event_name": "Pittsburgh Symphony Orchestra",
+        "event_date": "2024-12-13",
+        "event_url": "https://pittsburgh.events/tickets/pittsburgh-symphony-orchestra/",
+        "event_location": "Heinz Hall"
+    },
+    {
+        "event_name": "LA LOM",
+        "event_date": "2024-12-13",
+        "event_url": "https://pittsburgh.events/tickets/la-lom/",
+        "event_location": "Cafe at Thunderbird Cafe & Music Hall"
+    },
+    {
+        "event_name": "Thundersmack",
+        "event_date": "2024-12-13",
+        "event_url": "https://pittsburgh.events/tickets/thundersmack/",
+        "event_location": "Club Cafe"
+    }
+]

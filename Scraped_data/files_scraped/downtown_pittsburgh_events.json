@@ -1,0 +1,2414 @@
+[
+    {
+        "event_name": "Pittsburgh Steelers vs. New York Giants",
+        "date": "Oct 28, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 8:00 pm - 11:30 pm",
+        "description": "",
+        "location": "Acrirsure Stadium, 100 Art Rooney Avenue, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Trick-or-Treat at Museum of Illusions",
+        "date": "Oct 28, 2024 - Oct 31, 2024",
+        "description": "",
+        "location": "Museum of Illusions, 267 N Shore Dr, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Pittsburgh Steelers vs. New York Giants",
+        "date": "Oct 28, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 8:00 pm - 11:30 pm",
+        "description": "",
+        "location": "Acrisure Stadium, 100 Art Rooney Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "NACADA's 2024 Annual Conference",
+        "date": "Oct 27, 2024 - Oct 30, 2024",
+        "description": "",
+        "location": "David L. Lawrence Convention Center, 1000 Fort Duquesne Blvd, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Hobbit",
+        "date": "Oct 23, 2024 - Nov 10, 2024",
+        "description": "",
+        "location": "O'Reilly Theater, 621 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Miguel Mu\u00f1oz in What is Magic for You?",
+        "date": "Oct 2, 2024 - Nov 3, 2024",
+        "description": "",
+        "location": "Liberty Magic, 811 Liberty Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Storytime Spotlight",
+        "date": "Oct 29, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 6:30 pm - 7:30 pm",
+        "description": "",
+        "location": "Virutal Event"
+    },
+    {
+        "event_name": "& Juliet",
+        "date": "Oct 29, 2024 - Nov 3, 2024",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Penguins vs. Wild",
+        "date": "Oct 29, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 7:30 pm - 10:30 pm",
+        "description": "",
+        "location": "PPG Paints Arena, 1001 Fifth Ave, Pittsburgh, PA 15219"
+    },
+    {
+        "event_name": "Trick-or-Treat at Museum of Illusions",
+        "date": "Oct 28, 2024 - Oct 31, 2024",
+        "description": "",
+        "location": "Museum of Illusions, 267 N Shore Dr, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "NACADA's 2024 Annual Conference",
+        "date": "Oct 27, 2024 - Oct 30, 2024",
+        "description": "",
+        "location": "David L. Lawrence Convention Center, 1000 Fort Duquesne Blvd, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Hobbit",
+        "date": "Oct 23, 2024 - Nov 10, 2024",
+        "description": "",
+        "location": "O'Reilly Theater, 621 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Miguel Mu\u00f1oz in What is Magic for You?",
+        "date": "Oct 2, 2024 - Nov 3, 2024",
+        "description": "",
+        "location": "Liberty Magic, 811 Liberty Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Latin Thursdays!",
+        "date": "Oct 3, 2024 - Oct 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 9:00 am - 1:00 pm",
+        "description": "",
+        "location": "422 Wood Street, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Creative Conversations \u2014 & Juliet",
+        "date": "Oct 30, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 6:30 pm - 7:30 pm",
+        "description": "",
+        "location": "Trust Arts Education Center, 807 Liberty Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "D\u00eda de los Muertos Lunch Event",
+        "date": "Oct 30, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 12:00 pm - 1:30 pm",
+        "description": "",
+        "location": "The Backyard, 149 8th St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "& Juliet",
+        "date": "Oct 29, 2024 - Nov 3, 2024",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Trick-or-Treat at Museum of Illusions",
+        "date": "Oct 28, 2024 - Oct 31, 2024",
+        "description": "",
+        "location": "Museum of Illusions, 267 N Shore Dr, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "NACADA's 2024 Annual Conference",
+        "date": "Oct 27, 2024 - Oct 30, 2024",
+        "description": "",
+        "location": "David L. Lawrence Convention Center, 1000 Fort Duquesne Blvd, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Hobbit",
+        "date": "Oct 23, 2024 - Nov 10, 2024",
+        "description": "",
+        "location": "O'Reilly Theater, 621 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Miguel Mu\u00f1oz in What is Magic for You?",
+        "date": "Oct 2, 2024 - Nov 3, 2024",
+        "description": "",
+        "location": "Liberty Magic, 811 Liberty Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Lunchtime Fishing",
+        "date": "Oct 1, 2024 - Oct 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 11:30 am - 1:30 pm",
+        "description": "",
+        "location": "North Shore Riverwalk by the Water Steps Near PNC Park, Pittsburgh, PA"
+    },
+    {
+        "event_name": "Penguins vs. Ducks",
+        "date": "Oct 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 7:00 pm - 10:00 pm",
+        "description": "",
+        "location": "PPG Paints Arena, 1001 Fifth Ave, Pittsburgh, PA 15219"
+    },
+    {
+        "event_name": "& Juliet",
+        "date": "Oct 29, 2024 - Nov 3, 2024",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Trick-or-Treat at Museum of Illusions",
+        "date": "Oct 28, 2024 - Oct 31, 2024",
+        "description": "",
+        "location": "Museum of Illusions, 267 N Shore Dr, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "The Hobbit",
+        "date": "Oct 23, 2024 - Nov 10, 2024",
+        "description": "",
+        "location": "O'Reilly Theater, 621 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Miguel Mu\u00f1oz in What is Magic for You?",
+        "date": "Oct 2, 2024 - Nov 3, 2024",
+        "description": "",
+        "location": "Liberty Magic, 811 Liberty Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Latin Thursdays!",
+        "date": "Oct 3, 2024 - Oct 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 9:00 am - 1:00 pm",
+        "description": "",
+        "location": "422 Wood Street, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Market Square Farmers Market",
+        "date": "May 16, 2024 - Oct 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 2:00 pm",
+        "description": "",
+        "location": "Market Square, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "& Juliet",
+        "date": "Oct 29, 2024 - Nov 3, 2024",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Hobbit",
+        "date": "Oct 23, 2024 - Nov 10, 2024",
+        "description": "",
+        "location": "O'Reilly Theater, 621 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Miguel Mu\u00f1oz in What is Magic for You?",
+        "date": "Oct 2, 2024 - Nov 3, 2024",
+        "description": "",
+        "location": "Liberty Magic, 811 Liberty Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Laser Rock Monsters",
+        "date": "Oct 25, 2024 - Nov 3, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 4:00 pm - 5:00 pm",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Avenue, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Comedy Bus Tour",
+        "date": "Jul 5, 2024 - Nov 22, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 8:00 pm - 9:30 pm",
+        "description": "",
+        "location": "Penn Ave (between 10th St & 11th St), 1027 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Build On",
+        "date": "Nov 2, 2024 - Nov 3, 2024",
+        "description": "",
+        "location": "David L. Lawrence Convention Center, 1000 Fort Dusquene Boulevard, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "& Juliet",
+        "date": "Oct 29, 2024 - Nov 3, 2024",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Hobbit",
+        "date": "Oct 23, 2024 - Nov 10, 2024",
+        "description": "",
+        "location": "O'Reilly Theater, 621 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Miguel Mu\u00f1oz in What is Magic for You?",
+        "date": "Oct 2, 2024 - Nov 3, 2024",
+        "description": "",
+        "location": "Liberty Magic, 811 Liberty Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Laser Rock Monsters",
+        "date": "Oct 25, 2024 - Nov 3, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 4:00 pm - 5:00 pm",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Avenue, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Captain's Dinner Cruise & Tour",
+        "date": "Oct 5, 2024 - Nov 16, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 5:30 pm - 9:00 pm",
+        "description": "",
+        "location": "Gateway Clipper Fleet Docks, 350 West Station Square Dr, Pittsburgh, PA 15219"
+    },
+    {
+        "event_name": "Art & Artists Tour",
+        "date": "Jun 1, 2024 - Dec 28, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 4:00 pm - 5:30 pm",
+        "description": "",
+        "location": "Walk The Burgh Tours, 1049 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Haunted Pittsburgh Ghost Tour",
+        "date": "Jun 1, 2024 - Nov 2, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 7:00 pm - 9:00 pm",
+        "description": "",
+        "location": "Downtown Pittsburgh, 414 Grant St, Pittsburgh, PA 15219"
+    },
+    {
+        "event_name": "Pennsylvania Bridal & Wedding Expo",
+        "date": "Nov 3, 2024",
+        "description": "",
+        "location": "David L. Lawrence Convention Center, 1000 Fort Dusquene Boulevard, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Build On",
+        "date": "Nov 2, 2024 - Nov 3, 2024",
+        "description": "",
+        "location": "David L. Lawrence Convention Center, 1000 Fort Dusquene Boulevard, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "& Juliet",
+        "date": "Oct 29, 2024 - Nov 3, 2024",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Hobbit",
+        "date": "Oct 23, 2024 - Nov 10, 2024",
+        "description": "",
+        "location": "O'Reilly Theater, 621 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Miguel Mu\u00f1oz in What is Magic for You?",
+        "date": "Oct 2, 2024 - Nov 3, 2024",
+        "description": "",
+        "location": "Liberty Magic, 811 Liberty Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Laser Rock Monsters",
+        "date": "Oct 25, 2024 - Nov 3, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 4:00 pm - 5:00 pm",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Avenue, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Hobbit",
+        "date": "Oct 23, 2024 - Nov 10, 2024",
+        "description": "",
+        "location": "O'Reilly Theater, 621 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "The Hobbit",
+        "date": "Oct 23, 2024 - Nov 10, 2024",
+        "description": "",
+        "location": "O'Reilly Theater, 621 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "The Hobbit",
+        "date": "Oct 23, 2024 - Nov 10, 2024",
+        "description": "",
+        "location": "O'Reilly Theater, 621 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Disney's Beauty and the Beast",
+        "date": "Nov 7, 2024 - Nov 10, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 7:30 pm - 1:00 pm",
+        "description": "",
+        "location": "Byham Theater, 101 Sixth Street, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Hobbit",
+        "date": "Oct 23, 2024 - Nov 10, 2024",
+        "description": "",
+        "location": "O'Reilly Theater, 621 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Iron Maiden",
+        "date": "Nov 8, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 7:30 pm - 10:30 pm",
+        "description": "",
+        "location": "PPG Paints Arena, 1001 Fifth Ave, Pittsburgh, PA 15219"
+    },
+    {
+        "event_name": "Disney's Beauty and the Beast",
+        "date": "Nov 7, 2024 - Nov 10, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 7:30 pm - 1:00 pm",
+        "description": "",
+        "location": "Byham Theater, 101 Sixth Street, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Hobbit",
+        "date": "Oct 23, 2024 - Nov 10, 2024",
+        "description": "",
+        "location": "O'Reilly Theater, 621 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Comedy Bus Tour",
+        "date": "Jul 5, 2024 - Nov 22, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 8:00 pm - 9:30 pm",
+        "description": "",
+        "location": "Penn Ave (between 10th St & 11th St), 1027 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Jim Gaffigan",
+        "date": "Nov 9, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 7:00 pm - 10:00 pm",
+        "description": "",
+        "location": "PPG Paints Arena, 1001 Fifth Ave, Pittsburgh, PA 15219"
+    },
+    {
+        "event_name": "Disney's Beauty and the Beast",
+        "date": "Nov 7, 2024 - Nov 10, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 7:30 pm - 1:00 pm",
+        "description": "",
+        "location": "Byham Theater, 101 Sixth Street, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Hobbit",
+        "date": "Oct 23, 2024 - Nov 10, 2024",
+        "description": "",
+        "location": "O'Reilly Theater, 621 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Captain's Dinner Cruise & Tour",
+        "date": "Oct 5, 2024 - Nov 16, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 5:30 pm - 9:00 pm",
+        "description": "",
+        "location": "Gateway Clipper Fleet Docks, 350 West Station Square Dr, Pittsburgh, PA 15219"
+    },
+    {
+        "event_name": "Art & Artists Tour",
+        "date": "Jun 1, 2024 - Dec 28, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 4:00 pm - 5:30 pm",
+        "description": "",
+        "location": "Walk The Burgh Tours, 1049 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Disney's Beauty and the Beast",
+        "date": "Nov 7, 2024 - Nov 10, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 7:30 pm - 1:00 pm",
+        "description": "",
+        "location": "Byham Theater, 101 Sixth Street, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Hobbit",
+        "date": "Oct 23, 2024 - Nov 10, 2024",
+        "description": "",
+        "location": "O'Reilly Theater, 621 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "American Society of Microbiology - Annual Biomedical Research Conference for Minority Students",
+        "date": "Nov 14, 2024 - Nov 16, 2024",
+        "description": "",
+        "location": "David L. Lawrence Convention Center, 1000 Fort Dusquene Boulevard, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "American Society of Microbiology - Annual Biomedical Research Conference for Minority Students",
+        "date": "Nov 14, 2024 - Nov 16, 2024",
+        "description": "",
+        "location": "David L. Lawrence Convention Center, 1000 Fort Dusquene Boulevard, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Comedy Bus Tour",
+        "date": "Jul 5, 2024 - Nov 22, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 8:00 pm - 9:30 pm",
+        "description": "",
+        "location": "Penn Ave (between 10th St & 11th St), 1027 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "SkyWatch",
+        "date": "Nov 16, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 7:00 pm - 9:00 pm",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "American Society of Microbiology - Annual Biomedical Research Conference for Minority Students",
+        "date": "Nov 14, 2024 - Nov 16, 2024",
+        "description": "",
+        "location": "David L. Lawrence Convention Center, 1000 Fort Dusquene Boulevard, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Captain's Dinner Cruise & Tour",
+        "date": "Oct 5, 2024 - Nov 16, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 5:30 pm - 9:00 pm",
+        "description": "",
+        "location": "Gateway Clipper Fleet Docks, 350 West Station Square Dr, Pittsburgh, PA 15219"
+    },
+    {
+        "event_name": "Art & Artists Tour",
+        "date": "Jun 1, 2024 - Dec 28, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 4:00 pm - 5:30 pm",
+        "description": "",
+        "location": "Walk The Burgh Tours, 1049 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "MJ the Musical",
+        "date": "Nov 19, 2024 - Dec 1, 2024",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "MJ the Musical",
+        "date": "Nov 19, 2024 - Dec 1, 2024",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "MJ the Musical",
+        "date": "Nov 19, 2024 - Dec 1, 2024",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "MJ the Musical",
+        "date": "Nov 19, 2024 - Dec 1, 2024",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Comedy Bus Tour",
+        "date": "Jul 5, 2024 - Nov 22, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 8:00 pm - 9:30 pm",
+        "description": "",
+        "location": "Penn Ave (between 10th St & 11th St), 1027 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Eagle Fall Show Pittsburgh 2024",
+        "date": "Nov 23, 2024 - Nov 24, 2024",
+        "description": "",
+        "location": "David L. Lawrence Convention Center, 1000 Fort Dusquene Boulevard, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Mike Birbiglia: Please Stop the Ride",
+        "date": "Nov 23, 2024 - Nov 24, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 6:00 pm - 7:30 pm",
+        "description": "",
+        "location": "Byham Theater, 101 6th St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "MJ the Musical",
+        "date": "Nov 19, 2024 - Dec 1, 2024",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Art & Artists Tour",
+        "date": "Jun 1, 2024 - Dec 28, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 4:00 pm - 5:30 pm",
+        "description": "",
+        "location": "Walk The Burgh Tours, 1049 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Eagle Fall Show Pittsburgh 2024",
+        "date": "Nov 23, 2024 - Nov 24, 2024",
+        "description": "",
+        "location": "David L. Lawrence Convention Center, 1000 Fort Dusquene Boulevard, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Mike Birbiglia: Please Stop the Ride",
+        "date": "Nov 23, 2024 - Nov 24, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 6:00 pm - 7:30 pm",
+        "description": "",
+        "location": "Byham Theater, 101 6th St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "MJ the Musical",
+        "date": "Nov 19, 2024 - Dec 1, 2024",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "MJ the Musical",
+        "date": "Nov 19, 2024 - Dec 1, 2024",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "MJ the Musical",
+        "date": "Nov 19, 2024 - Dec 1, 2024",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "MJ the Musical",
+        "date": "Nov 19, 2024 - Dec 1, 2024",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "MJ the Musical",
+        "date": "Nov 19, 2024 - Dec 1, 2024",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "MJ the Musical",
+        "date": "Nov 19, 2024 - Dec 1, 2024",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "History Center and Fort Pitt Museum: Free Admission for Kids",
+        "date": "Oct 1, 2024 - Nov 30, 2024",
+        "description": "",
+        "location": "Heinz History Center, 1212 Smallman St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "MJ the Musical",
+        "date": "Nov 19, 2024 - Dec 1, 2024",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Art & Artists Tour",
+        "date": "Jun 1, 2024 - Dec 28, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 4:00 pm - 5:30 pm",
+        "description": "",
+        "location": "Walk The Burgh Tours, 1049 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "MJ the Musical",
+        "date": "Nov 19, 2024 - Dec 1, 2024",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Art & Artists Tour",
+        "date": "Jun 1, 2024 - Dec 28, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 4:00 pm - 5:30 pm",
+        "description": "",
+        "location": "Walk The Burgh Tours, 1049 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "KANSAS",
+        "date": "Dec 11, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 7:30 pm - 10:00 pm",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Lit Friday",
+        "date": "Dec 13, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 6:00 pm - 7:00 pm",
+        "description": "",
+        "location": "Virtual Event"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Justin Timberlake",
+        "date": "Dec 14, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 7:30 pm - 11:00 pm",
+        "description": "",
+        "location": "PPG Paints Arena, 1001 Fifth Ave, Pittsburgh, PA 15219"
+    },
+    {
+        "event_name": "AWCommunity Day",
+        "date": "Dec 14, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 12:00 pm - 4:00 pm",
+        "description": "",
+        "location": "August Wilson African American Cultural Center"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Art & Artists Tour",
+        "date": "Jun 1, 2024 - Dec 28, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 4:00 pm - 5:30 pm",
+        "description": "",
+        "location": "Walk The Burgh Tours, 1049 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Storytime Spotlight",
+        "date": "Dec 17, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 6:30 pm - 7:30 pm",
+        "description": "",
+        "location": "Virtual Event"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Art & Artists Tour",
+        "date": "Jun 1, 2024 - Dec 28, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 4:00 pm - 5:30 pm",
+        "description": "",
+        "location": "Walk The Burgh Tours, 1049 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Art & Artists Tour",
+        "date": "Jun 1, 2024 - Dec 28, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 4:00 pm - 5:30 pm",
+        "description": "",
+        "location": "Walk The Burgh Tours, 1049 Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Beauty of the Burgh Tour",
+        "date": "Aug 1, 2024 - Dec 31, 2024\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t   | 10:00 am - 1:00 pm",
+        "description": "",
+        "location": "Bike The Burgh Tours"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "The Science Behind PIXAR",
+        "date": "May 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Carnegie Science Center, 1 Allegheny Ave, Pittsburgh, PA 15212"
+    },
+    {
+        "event_name": "Roger Jacoby: Pittsburgh Stories",
+        "date": "Oct 25, 2024 - Jan 5, 2025",
+        "description": "",
+        "location": "Wood Street Galleries, 601 Wood St, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Funny Girl",
+        "date": "Jan 7, 2025 - Jan 12, 2025",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Funny Girl",
+        "date": "Jan 7, 2025 - Jan 12, 2025",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Funny Girl",
+        "date": "Jan 7, 2025 - Jan 12, 2025",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Funny Girl",
+        "date": "Jan 7, 2025 - Jan 12, 2025",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Funny Girl",
+        "date": "Jan 7, 2025 - Jan 12, 2025",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Funny Girl",
+        "date": "Jan 7, 2025 - Jan 12, 2025",
+        "description": "",
+        "location": "Benedum Center, 7th St and Penn Ave, Pittsburgh, PA 15222"
+    },
+    {
+        "event_name": "Kim Bond: We Are Not Alone",
+        "date": "Sep 6, 2024 - Jan 12, 2025",
+        "description": "",
+        "location": "707 Gallery, 707 Penn Avenue, Pittsburgh, PA 15222"
+    }
+]
