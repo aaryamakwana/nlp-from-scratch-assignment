@@ -31,6 +31,7 @@ urls = [
     "https://carnegiemuseums.org/",
     "https://www.heinzhistorycenter.org/",
     "https://www.thefrickpittsburgh.org/",
+    "https://www.visitpittsburgh.com/events-festivals/food-festivals/",
     "https://www.picklesburgh.com/",
     "https://www.pghtacofest.com/",
     "https://pittsburghrestaurantweek.com/",
@@ -41,43 +42,56 @@ urls = [
 # List to hold the scraped content
 content_list = []
 
-for url in urls:
-    # Try to scrape with Selenium (for dynamic content)
-    try:
-        driver.get(url)
-        
-        # Wait for the page content to load
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.TAG_NAME, 'body'))
-        )
+def scrape_page(url):
+    """Scrapes content from a given page using BeautifulSoup after Selenium loads it."""
+    driver.get(url)
+    
+    # Wait for the page content to load
+    WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located((By.TAG_NAME, 'body'))
+    )
+    
+    # Parse the content with BeautifulSoup
+    soup = BeautifulSoup(driver.page_source, 'html.parser')
+    main_content = soup.find('main') or soup.find('body')
+    
+    if main_content:
+        title = soup.title.string if soup.title else 'No Title'
+        content_text = main_content.get_text(separator=' ', strip=True)
+        return {"title": title, "content": content_text}
+    return None
 
-        # Click on expandable sections if present
-        try:
-            expand_buttons = driver.find_elements(By.CSS_SELECTOR, '.expandable-button')  # Adjust selector if needed
-            for button in expand_buttons:
-                button.click()
-                WebDriverWait(driver, 2).until(
-                    EC.visibility_of_element_located((By.CSS_SELECTOR, '.expanded-content'))  # Adjust selector if needed
-                )
-        except Exception as e:
-            print(f"No expandable sections found or error: {e}")
-        
-        # Use BeautifulSoup to parse the page content
-        soup = BeautifulSoup(driver.page_source, 'html.parser')
-        main_content = soup.find('main') or soup.find('body')
-        
-        if main_content:
-            title = soup.title.string if soup.title else 'No Title'
-            content_text = main_content.get_text(separator=' ', strip=True)
-            content_list.append({"title": title, "content": content_text})
+def extract_sublinks(soup, base_url):
+    """Extracts all sublinks from the main page."""
+    links = []
+    for a_tag in soup.find_all('a', href=True):
+        href = a_tag['href']
+        if href.startswith('/'):  # Relative link
+            full_url = base_url + href
+        elif base_url in href:  # Full link within the base domain
+            full_url = href
         else:
-            # Fallback to static scraping if dynamic content fails
-            print(f"Falling back to static scrape for: {url}")
-            content_text = scrape_text(url)
-            content_list.append({"title": f"Static scrape of {url}", "content": content_text})
+            continue
+        links.append(full_url)
+    return links
 
-    except Exception as e:
-        print(f"Error scraping {url}: {e}")
+# Start scraping each URL and its sublinks
+for url in urls:
+    # Start by scraping the main page
+    content = scrape_page(url)
+    if content:
+        content_list.append(content)
+
+    # Extract sublinks from the main page
+    soup = BeautifulSoup(driver.page_source, 'html.parser')
+    base_url = url.rstrip('/')  # Remove trailing slash
+    sublinks = extract_sublinks(soup, base_url)
+
+    # Scrape each subpage
+    for sublink in sublinks:
+        sub_content = scrape_page(sublink)
+        if sub_content:
+            content_list.append(sub_content)
 
 # Save the list of dictionaries to a JSON file
 with open('music_and_culture_events_content.json', 'w', encoding='utf-8') as file:
