@@ -1,4 +1,4 @@
-CI
+0	CI
 TY OF PITTSBURGH  
 NO
 N-RESIDENT 
@@ -45,151 +45,218 @@ ARTICLE 6: SAVINGS
 3 
   
 ARTICLE 1: GENERAL PROVISIONS  
-§ 101.  AUTHORIZATION.  
+§ 101
+1	  AUTHORIZATION
+2	  
  
-Pursuant to “T he Local Tax Enabling Act ,” Act 551 of 1965, P.L. 1257; 53 
-P.S. § 6924 , and the City Code, Title II, Article X, Chapter 271,  the 
+Pursuant to “T he Local Tax Enabling Act ,” Act 551 of 1965, P
+3	L
+4	 1257; 53 
+P
+5	S
+6	 § 6924 , and the City Code, Title II, Article X, Chapter 271,  the 
 Treasurer of the City of Pittsburgh is authorized to prescribe, adopt, 
 promulgate, and enforce regulations pertaining to the ad ministration and 
-enforcement of the Code.  
+enforcement of the Code
+7	  
  
-§ 102.  DEFINITIONS . 
+§ 102
+8	  DEFINITIONS 
+9	 
  
 The following terms, phrases, words, and their derivations when used in these Regulations shall  have the meaning and effect ascribed to them in 
 this Section, except where the context clearl y indicates a different meaning :
  
-CITY —the City of Pittsburgh, Pennsylvania.  
+CITY —the City of Pittsburgh, Pennsylvania
+10	  
 CITY CODE —City of Pittsburgh, Pennsylvania Code of Ordinances, Title II, 
-Article X, Chapter 271.  
+Article X, Chapter 271
+11	  
 NONRESIDENT CONTRACTING PARTY —a person not domiciled within 
 the City of Pittsburgh wh o enters into a binding agreement with a Publicly 
 Funded Facility  or facility manager to engage in or conduct a non -sporting 
-event for compensation.  This may include, but is not limited to, 
+event for compensation
+12	  This may include, but is not limited to, 
 entertainers, performers, touring companies, promoters, booking a gents, 
-artist management companies , and other related positions . 
-CURRENT YEAR —the calendar year for which the usage fee is levied . 
-DOMICILE —the voluntary fixed place of habitation of a person.  Actual 
-residence is not necessarily domicile.  In the intention of the user, domicile 
-is permanent rather than transitory.  In cases of a business, the domicile is 
+artist management companies , and other related positions 
+13	 
+CURRENT YEAR —the calendar year for which the usage fee is levied 
+14	 
+DOMICILE —the voluntary fixed place of habitation of a person
+15	  Actual 
+residence is not necessarily domicile
+16	  In the intention of the user, domicile 
+is permanent rather than transitory
+17	  In cases of a business, the domicile is 
 the place considered to be the center of business affairs and the place from 
-which functions are discharged.  
+which functions are discharged
+18	  
 EARNED INCOME —salaries, wages, commis sions, bonuses, incentive 
 payments, fees, tips, and all other forms of compensation, whether based   
 4 
  on profits or otherwise, earned by a P erson or a personal representative of 
 a Person for services rendered, whether directly or through an agent, and 
-whether  in cash or in property.  This does not include wages or 
+whether  in cash or in property
+19	  This does not include wages or 
 compensation paid to persons on active military service, periodic payments 
 for sickness and disability other than regular wages received during a period of sickness or disability, or payments arising  under workers’ 
-compensation acts, occupational disease acts, and similar legislation.
+compensation acts, occupational disease acts, and similar legislation
+20	
  
 QUALIFIED MANAGING ENTITY —any person, partnership, association, 
 corporation, institution, governmental body or unit or agency, or any other entity employing one (1) or m ore Nonresident Contracting Parties  for 
-salary, wage, commission, or other compensation.
+salary, wage, commission, or other compensation
+21	
  
 EMPLOYEE—any person in the service of an Qualified Management Entity , under an appointment or contract of hire or subcontract, express or 
-implied, oral or written, whether lawfully or unlawfully employed.
+implied, oral or written, whether lawfully or unlawfully employed
+22	
  
-NONRESIDENT—any person domiciled outside of the City.  
+NONRESIDENT—any person domiciled outside of the City
+23	  
 PERSON —any corporation, partnership, business trust, association, 
-estate, trust, foundation, or natural person.  Whenever used in any provision prescribing a fine or penalty, the word “person” as applied to partnerships shall mean the partners thereof, and as applied to 
+estate, trust, foundation, or natural person
+24	  Whenever used in any provision prescribing a fine or penalty, the word “person” as applied to partnerships shall mean the partners thereof, and as applied to 
 corporations and unincorporated associations shall mean the officers 
-thereof.
+thereof
+25	
  
 PROMOTER —any business entity , and any agent or representative of the 
 business entity , who engages with a Publicly Funded Facility regarding the 
-organization, marketing, or offering for sale of tickets to an event.  
+organization, marketing, or offering for sale of tickets to an event
+26	  
 PUBLICLY FUNDED FACILITY — any sports stadium or arena in the City 
 which has been constructed or maintained, in whole or in part, through th e 
-use of public funds. Publicly Funded Facilities include: 1001 -1035 5TH 
+use of public funds
+27	 Publicly Funded Facilities include: 1001 -1035 5TH 
 AVE (PPG Paints  Arena) , 1000 FORT DUQUESNE BLVD (David 
 Lawrence Conventi on Center ), 100 ART ROONEY DR ( Heinz Field ), 115 
 FEDERAL ST ( PNC Park ), 3719 TERRACE ST (Peterson Event Center ), 
-and 400 N SHORE DR (Stage AE).    
+and 400 N SHORE DR (Stage AE)
+28	    
 5 
- RESIDENT—any person domiciled within the City.  
+ RESIDENT—any person domiciled within the City
+29	  
 TREASURER—the Deputy Director of the Department of Finance, his 
-deputies, and their agents.  The Deputy Director of Finance serves as City 
-Treasurer.  
-USAGE FEE— Sports Facility Usage Fee.  
-USER —any  person required hereunder to remit  the usage fee.  
+deputies, and their agents
+30	  The Deputy Director of Finance serves as City 
+Treasurer
+31	  
+USAGE FEE— Sports Facility Usage Fee
+32	  
+USER —any  person required hereunder to remit  the usage fee
+33	  
 ARTICLE 2: IMPOSITION OF FEE  
  
-§ 201.  LEVY AND RATE . 
+§ 201
+34	  LEVY AND RATE 
+35	 
  
 A fee for general revenue purposes of three (3) percent  of Earned Income 
 is hereby imposed on each Nonresident  who uses a Publicly Funded 
 Facility  to engage in athletic event or otherwise render a performance for 
-which a Nonresident  receives remuneration.   
+which a Nonresident  receives remuneration
+36	   
  
-§ 202.  ALLOCATION OF EARNED INCOME . 
+§ 202
+37	  ALLOCATION OF EARNED INCOME 
+38	 
  
   
  
-(a)     Members of professional athletic teams, other than professional football teams calculate a “total games played within the City of Pittsburgh” versus “total games played (including exhibition, preseason, regular season and post -season games)” fraction. Multiply that fraction against the player’s 
-total compensation. In determining “games played” include exhibition 
+(a)     Members of professional athletic teams, other than professional football teams calculate a “total games played within the City of Pittsburgh” versus “total games played (including exhibition, preseason, regular season and post -season games)” fraction
+39	 Multiply that fraction against the player’s 
+total compensation
+40	 In determining “games played” include exhibition 
 games that are officially sanctioned by the team’s league office in bot h the 
-numerator and denominator of this fraction.  
-Earned Income x (Total games played in PGH/Total games played) x .03 
-(b)     Members of professional football teams calculate a “total duty days within the City of Pittsburgh” versus “total duty days” fract ion. Multiply that 
-fraction against the player’s total compensation. In determining “duty days”, 
+numerator and denominator of this fraction
+41	  
+Earned Income x (Total games played in PGH/Total games played) x 
+42	03 
+(b)     Members of professional football teams calculate a “total duty days within the City of Pittsburgh” versus “total duty days” fract ion
+43	 Multiply that 
+fraction against the player’s total compensation
+44	 In determining “duty days”, 
 include preseason and regular season practice sessions; pre -season and 
 regular season games; and post -season games and practice sessions that 
 are officially sa nctioned by the team’s league office in both the numerator 
-and denominator of this fraction.  
-Earned Income x (Total duty days in PGH/Total duty days) x .03    
+and denominator of this fraction
+45	  
+Earned Income x (Total duty days in PGH/Total duty days) x 
+46	03    
 6 
  (c)    Non -Player Personnel are apportioned on the basis of working days 
-per year. These include tea m employees, such as coaches, trainers and 
+per year
+47	 These include tea m employees, such as coaches, trainers and 
 any other persons required to travel with the team and perform services on 
-behalf of the team; game officials. Divide the total number of working days 
+behalf of the team; game officials
+48	 Divide the total number of working days 
 within the city of Pittsburgh by the total number of working d ays in the year 
-to arrive at the working days apportionment fraction.  
-Earned Income x (Total work days in PGH/Total work days) x .03 
+to arrive at the working days apportionment fraction
+49	  
+Earned Income x (Total work days in PGH/Total work days) x 
+50	03 
 (d) Entertainers are apportioned based on earned income attributable for the performance in the city’s Publicly Funded Fac ility  
-Earned Income for performance x .03  
- (e) In general the taxpayer’s apportionable income for the City of Pittsburgh would correspond to the apportionable income reported to PA as earned in the City of Pittsburgh.  
+Earned Income for performance x 
+51	03  
+ (e) In general the taxpayer’s apportionable income for the City of Pittsburgh would correspond to the apportionable income reported to PA as earned in the City of Pittsburgh
+52	  
    
-§ 203.  WHO MUST FILE . 
+§ 203
+53	  WHO MUST FILE 
+54	 
  
 Every Qualified Managing Entity or Nonresident Contracting Party  who 
 employs or enters into a contract with an Qualified Managing Entity  or 
 independent contractor who earns compensation as the result of services performed within the City, whose services require the use of a Publicly 
 Funded Facility  to engage in an athletic event or otherwise render a 
 performance for  which a Nonresident  receives Earned Income, is required 
-to withhold and remit to the Treasurer the usage fee.  In the event the Qualified Managing Entity  or Nonresident Contracting Party  fails, refuses, 
+to withhold and remit to the Treasurer the usage fee
+55	  In the event the Qualified Managing Entity  or Nonresident Contracting Party  fails, refuses, 
 or neglects to withhold or remit the usage fee or any portion thereof, the Employee or Nonresident Contracting Party  shall be personally liable for 
-payment of the Usage Fee  and any applicable penalty.  
+payment of the Usage Fee  and any applicable penalty
+56	  
  
-§ 204.  TIME FRAME . 
+§ 204
+57	  TIME FRAME 
+58	 
  
 The usage fee imposed under the Code shall be applicable to the C urrent  
-Year . 
+Year 
+59	 
  
  
-§ 205.  OBLIGATIONS OF PUBLICLY FUNDED FACILITY . 
+§ 205
+60	  OBLIGATIONS OF PUBLICLY FUNDED FACILITY 
+61	 
    
 7 
  It shall be the duty of the Person , venue, or entity acting on behalf of the 
 Publicly Funded Facility , to provide the Finance Department with all 
 relevant  contract s and/or contract information in a manner acceptable to 
 the Finance Department , and certify correctness thereof,  within thirty (30) 
-days of finalization of the aforementioned contract.    
+days of finalization of the aforementioned contract
+62	    
  
    ARTI CLE 3: PAYMENT
  
  
-§ 301.  REGISTRATION OF QUALIFIED MANAGING ENTITIES  AND 
-CONTRACTING PARTIES . 
+§ 301
+63	  REGISTRATION OF QUALIFIED MANAGING ENTITIES  AND 
+CONTRACTING PARTIES 
+64	 
  
 (a)  Every Qualified Managing Entities  not registered with the City  
 employing or contracting with Nonresidents  receiving Earned Income 
 within the City  shall, within sixty (60) days of first becoming a  
 Qualified Managing Entity , register with the Treasurer the Qualified 
 Managing Entity ’s name, address, and  such other information as the 
-Treasurer may require.  Every registration shall be made upon a form 
-authorized and furnished by the Treasurer.  Every Person  completing 
-this form shall certify the correctness thereof.  
+Treasurer may require
+65	  Every registration shall be made upon a form 
+authorized and furnished by the Treasurer
+66	  Every Person  completing 
+this form shall certify the correctness thereof
+67	  
  
 (b)  Every Nonresident Contracting Party not registered with the City  
 employing or contracting with Nonresidents  receiving Earned Income 
@@ -198,19 +265,26 @@ agreement with a Publicly Funded Facility to engage  in an  event held
 in a Publicly Funded Facility for which compensation is earned, 
 register with the Treasurer with the Nonresident Contracting Party’s 
 name, address, and any  other information as the Treasurer may 
-require.  Every registration shall be made upon a form authorized and 
-furnished by the Treasurer.  Every Person completing this form shall 
-certify the correctness thereof.  
+require
+68	  Every registration shall be made upon a form authorized and 
+furnished by the Treasurer
+69	  Every Person completing this form shall 
+certify the correctness thereof
+70	  
  
-§ 302.  COLLECTION OF PAYMENT.  
+§ 302
+71	  COLLECTION OF PAYMENT
+72	  
  
-(a)  Sporting Events .  Any Qualified Managing Entity  who employs one 
+(a)  Sporting Events 
+73	  Any Qualified Managing Entity  who employs one 
 (1) or more N onresidents who earn compensation as the result of 
 services performed within the City  that require the use of a Publicly 
 Funded Facility , shall deduct monthly, or more often than monthly the   
 8 
  usage fee imposed by this chapter based on the earned income paid 
-or payable to and/or any compensation attributable to any Nonresident Employee .
+or payable to and/or any compensation attributable to any Nonresident Employee 
+74	
  
  
 Every Qualified Managing Entity  shall, on or before April 30 of the 
@@ -218,34 +292,46 @@ current year, July 31 of the current year, October 31 of the current year, and J
 prescribed by the Treasurer and pay to the Treasurer the amount of 
 usage fees deducted during the preceding three (3) month periods 
 ending March 31 of the current year, June 30 of the current year, September 30 of the current year, and December 31 of the current 
-year, respectively.
+year, respectively
+75	
  
  
-(b)  Non-Sporting Eve nts.  Any Nonresident Contracting Party  who 
+(b)  Non-Sporting Eve nts
+76	  Any Nonresident Contracting Party  who 
 enters into a contract for  the use of Publicly  Funded Facility  to 
 engage in a non -sporting event for com pensation shall deduct from 
 the contract, the Usage Fee  based on the Earned Income  paid or 
 payable to and/or any compensation attributable to any Nonresident 
 Employee,  Nonresident Contracting Party , their agents , or 
-associates.  
+associates
+77	  
  
 The Nonresident Contracting Party  shall on or before April 30 of the 
 current year, July 31 of the current year, October 31 of the  current 
 year, and January 31 of the succeeding year, file a return on a form 
 prescribed by the Treasurer shall pay to the Treasurer the amount of usage fees deducted during the preceding three (3) month periods 
 ending March 31 of the current year, June 30  of the current year, 
-September 30 of the current year, and December 31 of the current year, respectively.
+September 30 of the current year, and December 31 of the current year, respectively
+78	
  
  
 (c) The usage fee should not be reported in the local tax box on the  
-W-2 form, because this is a fee, not a tax.  
+W-2 form, because this is a fee, not a tax
+79	  
  
 (d) Those individuals liable for the usage fee shall be exempt from any 
 income tax imposed by a City of the second class pursuant to this Act 
-and any such tax imposed under Section 652.1 of the Act of March 
-10, 1949 (P.L. 30, No. 14) known as the “Public School Code of 1949.”  
+and any such tax imposed under Section 652
+80	1 of the Act of March 
+10, 1949 (P
+81	L
+82	 30, No
+83	 14) known as the “Public School Code of 1949
+84	”  
  
-§ 303.  RET URNS .   
+§ 303
+85	  RET URNS 
+86	   
 9 
   
 (a)  All returns filed shall include information as prescribed  in the form 
@@ -254,23 +340,31 @@ to, the names of Employees , Contracting Parties , and/or
 subcontracting parties and their respective home addresses, city 
 residency, phone numbers, social security numbers, nature of 
 relationship , nature of work performed, dates of work performed, and 
-locations of work performed . 
+locations of work performed 
+87	 
  
-(b) Failure to complet e a form is deemed non -filing.  
+(b) Failure to complet e a form is deemed non -filing
+88	  
  
   
  
 ARTICLE 4: ADMINISTRATION 
  
-§ 401.  POWER OF TREASURER.  
+§ 401
+89	  POWER OF TREASURER
+90	  
  
 (a) It shall be the duty of the Treasurer to collect and receive the usage 
-fees, fines, and penalties imposed by the Code.  It shall also be the 
+fees, fines, and penalties imposed by the Code
+91	  It shall also be the 
 duty of the Treasurer to keep a record showing the date of such 
-receipt.  
+receipt
+92	  
  
-(b) The Treasurer is charged with the administration and enforcement of the Code and these Regulations.  The Treasurer is empowered to prescribe, adopt, promulgate, and enforce regulations perta ining to 
-administration and enforcement of the Code.  This power includes, but is not limited to:
+(b) The Treasurer is charged with the administration and enforcement of the Code and these Regulations
+93	  The Treasurer is empowered to prescribe, adopt, promulgate, and enforce regulations perta ining to 
+administration and enforcement of the Code
+94	  This power includes, but is not limited to:
  
  
 (1) The power to reexamine and correct declarations and returns, payments alleged or found to be incorrect, and overpayments claimed or found to have occurred;
@@ -287,35 +381,45 @@ described i n Section 403  of these Regulations ;
 10 
   
 (4) The power to issue citations for violations of these Regulations 
-and institute penalties, including but not limited, to those prescribed  in Section 502.
+and institute penalties, including but not limited, to those prescribed  in Section 502
+95	
  
  
 (c) The Treasurer is authorized to issue a ruling upon written request of a 
-user.  
+user
+96	  
  
 (d)     The Treasur er shall annually provide to all Publicly Funded Facilities 
 a copy of applicable City Code, City Regulations, and current policies 
-related to the Nonresident Sports Facilities Usage Fee.  
+related to the Nonresident Sports Facilities Usage Fee
+97	  
  
  
  
     
-§ 402.  RECORDS REQUIRED.  
+§ 402
+98	  RECORDS REQUIRED
+99	  
  
 Qualified Managing Entity  and Contracting Parties  subject to the 
 requirements of these Regulations are required to keep such records as will enable the filing of true and accurate returns of the Usage Fee, and 
 such records shall be preserved for a period of not less than three  (3) year s 
 from the filing date or due date, whichever is later, in order to enable the 
-Treasurer to verify the correctness of those declarations or returns.
+Treasurer to verify the correctness of those declarations or returns
+100	
  
  
-§ 403.  EXAMINATION OF RECORDS . 
+§ 403
+101	  EXAMINATION OF RECORDS 
+102	 
  
  (a) The Treasurer and agents designated by him or her are hereby authorized to examine the books, papers, and records of any supposed Qualified Managing Entity  or Nonresident Contracting 
 Party , or of any user or supposed user, in order to verify the accuracy 
-of any declaration or return, or if no declaration or return was filed, to ascertain the fee due.  Every Person is directed and required to give 
+of any declaration or return, or if no declaration or return was filed, to ascertain the fee due
+103	  Every Person is directed and required to give 
 the Treasurer and/ or his or her designee s the means, facilities, and 
-opportunity for such examinations and investigations as are hereby authorized.  
+opportunity for such examinations and investigations as are hereby authorized
+104	  
  
    
 11 
@@ -324,49 +428,75 @@ were filed or should have been filed, the Qualified Managing Entity  or
 Nonresident Contracting Party  will be required to make them 
 available to the Treasurer either by producing them in a City location 
 or by paying for the expenses incurred by the Treasurer in traveling to 
-the place where the records are regularly kept.  
+the place where the records are regularly kept
+105	  
  
 (c) Any information gained by the Treasurer, or by any other official or agent of the City, as a result of any declarations, returns, investigations, hearings, or verifications required or authorized by the Code shall be confidential except for official purpos es and shall not 
-be divulged except in accordance with a proper judicial order, or as otherwise provided by law.
+be divulged except in accordance with a proper judicial order, or as otherwise provided by law
+106	
  
  
-§ 404.  AUDITS . 
- If, as a result of an examination conducted by the Treasurer, a return is found to be incorrect, the Treasurer is authorized to issue a deficiency notice and collect any underpayments of the usage fee.  If no return has been filed and an amount is found to be due, the amount may be billed and collected with or without the formality of obtaining a return.  Notices of deficiency ( i.e., 
+§ 404
+107	  AUDITS 
+108	 
+ If, as a result of an examination conducted by the Treasurer, a return is found to be incorrect, the Treasurer is authorized to issue a deficiency notice and collect any underpayments of the usage fee
+109	  If no return has been filed and an amount is found to be due, the amount may be billed and collected with or without the formality of obtaining a return
+110	  Notices of deficiency ( i
+111	e
+112	, 
 where the return has been filed, but found to be deficient) shall include deficiencies for up to  three (3) years prior to the date when the notice is 
-issued.  Where no return was filed, there shall be no limit to the period of notification of deficien cy. 
+issued
+113	  Where no return was filed, there shall be no limit to the period of notification of deficien cy
+114	 
  ARTICLE 5: VIOLATIONS
  
  
-§ 501.  NOT MUTUALLY EXCLUSIVE . 
+§ 501
+115	  NOT MUTUALLY EXCLUSIVE 
+116	 
  
-The remedies provided  in this Article are not mutually exclusive.  The 
-utilization by the Treasurer of one or more remedies does not preclude the utilization of another.  Moreover, use of the aforementioned remedies does not preclude the City’s use of any other legal or administrative procedure which can bring about compliance with the provision of the Code and these Regulations.
+The remedies provided  in this Article are not mutually exclusive
+117	  The 
+utilization by the Treasurer of one or more remedies does not preclude the utilization of another
+118	  Moreover, use of the aforementioned remedies does not preclude the City’s use of any other legal or administrative procedure which can bring about compliance with the provision of the Code and these Regulations
+119	
  
  
-§ 502.  PENALTIES . 
+§ 502
+120	  PENALTIES 
+121	 
    
 12 
  (a) If for any reason the usage fee is not p aid when due, a penalty at the 
 rate of one (1) percent per month on the amount of the usage fee will 
 be added, during the time the usage fee goes unpaid  but the amount 
-shall not exceed fifteen percent (15%) in the aggregate.   
+shall not exceed fifteen percent (15%) in the aggregate
+122	   
  
 (b) On any additional usage fee determined to be due as a result of a 
-deficiency notice, penalty will be assessed from the day the usage fee should have been paid to the date of payment.  Penalty is calculated as described above in Section 50 2(a).  
+deficiency notice, penalty will be assessed from the day the usage fee should have been paid to the date of payment
+123	  Penalty is calculated as described above in Section 50 2(a)
+124	  
  
  
 (c) Where suit is brought for the  recovery of the usage fee, the Person 
 liable therefore shall, in addition, be liable for the costs of collection 
-and the penalties herein imposed.    A Person’s belief that no usage 
+and the penalties herein imposed
+125	    A Person’s belief that no usage 
 fee is due and owing, or the failure of any such Person to receive or 
 obtain the forms required for making the returns required by the Code 
-is not a valid defense to the imposition of penalties for violation  herein.  Good faith shall not be a defense to the imposition of penalty.
+is not a valid defense to the imposition of penalties for violation  herein
+126	  Good faith shall not be a defense to the imposition of penalty
+127	
  
  
   
-§ 503.  VIOLATIONS AND FINES . 
+§ 503
+128	  VIOLATIONS AND FINES 
+129	 
  
-(a) Violations.   No Person shall:  
+(a) Violations
+130	   No Person shall:  
  
 (1) Fail, neglect or refuse to make any declaration or file a return as required under these Regulations; 
  
@@ -381,19 +511,23 @@ accounts of any business, taxable or otherwise, to determine liability  as requi
 (4) Make any incomplete, false, or fraudulent return, or to attempt to avoid full disclosure of the amount of the usage fee due, or to avoid payment in part or in whole of the usage fee; or
  
  
-(5) Divulge information which is confidential under Chapter 201.6 
-of the Code.  
+(5) Divulge information which is confidential under Chapter 201
+131	6 
+of the Code
+132	  
    
 13 
    
-(b) Fines .  Pursuant to the Local Tax Enabling Act , as amended , in 
+(b) Fines 
+133	  Pursuant to the Local Tax Enabling Act , as amended , in 
 addition to any other penalties or enforcement of fees:  
  
 (1) Any Qualified Managing Entity  required to collect, account for, 
 and remit the Usage Fee who willfully fails to collect or truthfully 
 account for and remit the Usage Fee to the City  commits a 
 misdemeanor and shall, upon conv iction, be sentenced  to pay a 
-fine not exceeding $25,000.00 or to imprisonment not exceeding two ( 6) months , or both;  
+fine not exceeding $25,000
+134	00 or to imprisonment not exceeding two ( 6) months , or both;  
  
 (2) Any Qualified Managi ng Entity  or Nonresident Contracting Party  
 who negligently or willfully  refuses to file a Usage Fee return as 
@@ -435,24 +569,31 @@ Regulations;
 a separate offense for which a fine can be imposed;  
  
 (8) Anyone found to be guilty of violations delineated in Section 503(b) may be denied future use of the Publicly Funded 
-Facility .
+Facility 
+135	
  
  
-§ 504.  SUITS . 
+§ 504
+136	  SUITS 
+137	 
  
 The Treasurer may sue in the name of the City, in law or in equity, for the 
-recovery of those fees due and unpaid under the provisions of the usage fee, to compel the production of records, or to enforce any other provisions of the law.
+recovery of those fees due and unpaid under the provisions of the usage fee, to compel the production of records, or to enforce any other provisions of the law
+138	
  
  
  
  
-§ 505.  LIMITATIONS ON ENFORCEMENT.  
+§ 505
+139	  LIMITATIONS ON ENFORCEMENT
+140	  
  
 (a) The following periods of limitation shall apply to suits for collection of 
 usage fees:  
    
 (1) When a return has been filed but no usage fee paid, any suit brought to recover the usage fee due and unpaid shall be filed within three  (3) years after the return was due or filed, 
-whichever is later.  Where no return was filed, there shall be no 
+whichever is later
+141	  Where no return was filed, there shall be no 
 limit to file suit for the collection of fees;
  
  
@@ -470,24 +611,672 @@ in the following cases:
 (3) When there is an understatement of liability of twenty -five (25) 
 percent or more, and not due to fraud, the suit shall be filed 
 within six (6) years after the return was due or filed, whichever 
-is later.  
+is later
+142	  
  
-(c) A return filed before the due date is deemed to be filed on the due date.
+(c) A return filed before the due date is deemed to be filed on the due date
+143	
  
  
  
 ARTICLE 6: SAVINGS  
  
-§ 601.  SAVINGS CLAUSE AND SEVERABILITY.  
+§ 601
+144	  SAVINGS CLAUSE AND SEVERABILITY
+145	  
  
 (a)  If a final decision of a court of competent jurisdiction holds any 
 provisions of these Regulations, or the application of any provision to 
 any circumstances, to be illegal or unconstitutional,  the other 
-provisions in these regulations, or the application of such provision to other circumstances, shall remain in full force and effect.  The intent 
+provisions in these regulations, or the application of such provision to other circumstances, shall remain in full force and effect
+146	  The intent 
 of the Treasurer is that the provisions of these Regulations shall be severable and that they would have been adopted if any such illegal 
-or unconstitutional provisions had not been included herein.
+or unconstitutional provisions had not been included herein
+147	
  
  
 (b)   Should a court of competent jurisdiction determine this provision to be 
 invalid for any reason, Persons subject to the Usage Fee  shall not be 
-exempt f rom any previously applicable earned income tax.  
+exempt f rom any previously applicable earned income tax
+148	  
+0	CI
+TY OF PITTSBURGH  
+NO
+N-RESIDENT 
+SPORTS FACILITY  
+USAGE FEE  
+RE
+GULATIONS  
+Issued Pursuant to the 
+City of Pittsburgh Code  
+Title II  
+Article X, Chapter 271  
+Ef
+fective 
+1/1/2017  
+Version 4   1
+  2
+ ARTICLE 1: GENERAL PROVISIONS  
+§ 101  Authorization  
+§ 102  Definitions  
+ARTICLE 2: IMPOSITION OF FEE  
+§ 201  Levy and Rate  
+§ 202  Allocation of Earned Income  
+§ 203  Who Must File  
+§ 204  Time Frame  
+§ 205  Obligation of Publicly Funded Facility  
+ARTICLE 3: PAYMENT
+§ 301  Registration of Qualified Managing Entities  and Contracting
+Parties
+§302 Collection of Payment  
+§303 Returns  
+ARTICLE 4:  ADMINISTRATION 
+§ 401  Power o f Treasurer 
+§ 402  Records  Required 
+§ 403  Examination of R ecords 
+§ 404  Audits 
+ARTICLE 5: VIOLATIONS 
+§ 501  Not Mutually Exclusive 
+§ 502  Penalties 
+§ 503  Violations a nd Fines 
+§ 504  Suits 
+§ 505  Limitations on E nforcement 
+ARTICLE 6: SAVINGS 
+§ 601  Savings and Severability   
+3 
+  
+ARTICLE 1: GENERAL PROVISIONS  
+§ 101
+1	  AUTHORIZATION
+2	  
+ 
+Pursuant to “T he Local Tax Enabling Act ,” Act 551 of 1965, P
+3	L
+4	 1257; 53 
+P
+5	S
+6	 § 6924 , and the City Code, Title II, Article X, Chapter 271,  the 
+Treasurer of the City of Pittsburgh is authorized to prescribe, adopt, 
+promulgate, and enforce regulations pertaining to the ad ministration and 
+enforcement of the Code
+7	  
+ 
+§ 102
+8	  DEFINITIONS 
+9	 
+ 
+The following terms, phrases, words, and their derivations when used in these Regulations shall  have the meaning and effect ascribed to them in 
+this Section, except where the context clearl y indicates a different meaning :
+ 
+CITY —the City of Pittsburgh, Pennsylvania
+10	  
+CITY CODE —City of Pittsburgh, Pennsylvania Code of Ordinances, Title II, 
+Article X, Chapter 271
+11	  
+NONRESIDENT CONTRACTING PARTY —a person not domiciled within 
+the City of Pittsburgh wh o enters into a binding agreement with a Publicly 
+Funded Facility  or facility manager to engage in or conduct a non -sporting 
+event for compensation
+12	  This may include, but is not limited to, 
+entertainers, performers, touring companies, promoters, booking a gents, 
+artist management companies , and other related positions 
+13	 
+CURRENT YEAR —the calendar year for which the usage fee is levied 
+14	 
+DOMICILE —the voluntary fixed place of habitation of a person
+15	  Actual 
+residence is not necessarily domicile
+16	  In the intention of the user, domicile 
+is permanent rather than transitory
+17	  In cases of a business, the domicile is 
+the place considered to be the center of business affairs and the place from 
+which functions are discharged
+18	  
+EARNED INCOME —salaries, wages, commis sions, bonuses, incentive 
+payments, fees, tips, and all other forms of compensation, whether based   
+4 
+ on profits or otherwise, earned by a P erson or a personal representative of 
+a Person for services rendered, whether directly or through an agent, and 
+whether  in cash or in property
+19	  This does not include wages or 
+compensation paid to persons on active military service, periodic payments 
+for sickness and disability other than regular wages received during a period of sickness or disability, or payments arising  under workers’ 
+compensation acts, occupational disease acts, and similar legislation
+20	
+ 
+QUALIFIED MANAGING ENTITY —any person, partnership, association, 
+corporation, institution, governmental body or unit or agency, or any other entity employing one (1) or m ore Nonresident Contracting Parties  for 
+salary, wage, commission, or other compensation
+21	
+ 
+EMPLOYEE—any person in the service of an Qualified Management Entity , under an appointment or contract of hire or subcontract, express or 
+implied, oral or written, whether lawfully or unlawfully employed
+22	
+ 
+NONRESIDENT—any person domiciled outside of the City
+23	  
+PERSON —any corporation, partnership, business trust, association, 
+estate, trust, foundation, or natural person
+24	  Whenever used in any provision prescribing a fine or penalty, the word “person” as applied to partnerships shall mean the partners thereof, and as applied to 
+corporations and unincorporated associations shall mean the officers 
+thereof
+25	
+ 
+PROMOTER —any business entity , and any agent or representative of the 
+business entity , who engages with a Publicly Funded Facility regarding the 
+organization, marketing, or offering for sale of tickets to an event
+26	  
+PUBLICLY FUNDED FACILITY — any sports stadium or arena in the City 
+which has been constructed or maintained, in whole or in part, through th e 
+use of public funds
+27	 Publicly Funded Facilities include: 1001 -1035 5TH 
+AVE (PPG Paints  Arena) , 1000 FORT DUQUESNE BLVD (David 
+Lawrence Conventi on Center ), 100 ART ROONEY DR ( Heinz Field ), 115 
+FEDERAL ST ( PNC Park ), 3719 TERRACE ST (Peterson Event Center ), 
+and 400 N SHORE DR (Stage AE)
+28	    
+5 
+ RESIDENT—any person domiciled within the City
+29	  
+TREASURER—the Deputy Director of the Department of Finance, his 
+deputies, and their agents
+30	  The Deputy Director of Finance serves as City 
+Treasurer
+31	  
+USAGE FEE— Sports Facility Usage Fee
+32	  
+USER —any  person required hereunder to remit  the usage fee
+33	  
+ARTICLE 2: IMPOSITION OF FEE  
+ 
+§ 201
+34	  LEVY AND RATE 
+35	 
+ 
+A fee for general revenue purposes of three (3) percent  of Earned Income 
+is hereby imposed on each Nonresident  who uses a Publicly Funded 
+Facility  to engage in athletic event or otherwise render a performance for 
+which a Nonresident  receives remuneration
+36	   
+ 
+§ 202
+37	  ALLOCATION OF EARNED INCOME 
+38	 
+ 
+  
+ 
+(a)     Members of professional athletic teams, other than professional football teams calculate a “total games played within the City of Pittsburgh” versus “total games played (including exhibition, preseason, regular season and post -season games)” fraction
+39	 Multiply that fraction against the player’s 
+total compensation
+40	 In determining “games played” include exhibition 
+games that are officially sanctioned by the team’s league office in bot h the 
+numerator and denominator of this fraction
+41	  
+Earned Income x (Total games played in PGH/Total games played) x 
+42	03 
+(b)     Members of professional football teams calculate a “total duty days within the City of Pittsburgh” versus “total duty days” fract ion
+43	 Multiply that 
+fraction against the player’s total compensation
+44	 In determining “duty days”, 
+include preseason and regular season practice sessions; pre -season and 
+regular season games; and post -season games and practice sessions that 
+are officially sa nctioned by the team’s league office in both the numerator 
+and denominator of this fraction
+45	  
+Earned Income x (Total duty days in PGH/Total duty days) x 
+46	03    
+6 
+ (c)    Non -Player Personnel are apportioned on the basis of working days 
+per year
+47	 These include tea m employees, such as coaches, trainers and 
+any other persons required to travel with the team and perform services on 
+behalf of the team; game officials
+48	 Divide the total number of working days 
+within the city of Pittsburgh by the total number of working d ays in the year 
+to arrive at the working days apportionment fraction
+49	  
+Earned Income x (Total work days in PGH/Total work days) x 
+50	03 
+(d) Entertainers are apportioned based on earned income attributable for the performance in the city’s Publicly Funded Fac ility  
+Earned Income for performance x 
+51	03  
+ (e) In general the taxpayer’s apportionable income for the City of Pittsburgh would correspond to the apportionable income reported to PA as earned in the City of Pittsburgh
+52	  
+   
+§ 203
+53	  WHO MUST FILE 
+54	 
+ 
+Every Qualified Managing Entity or Nonresident Contracting Party  who 
+employs or enters into a contract with an Qualified Managing Entity  or 
+independent contractor who earns compensation as the result of services performed within the City, whose services require the use of a Publicly 
+Funded Facility  to engage in an athletic event or otherwise render a 
+performance for  which a Nonresident  receives Earned Income, is required 
+to withhold and remit to the Treasurer the usage fee
+55	  In the event the Qualified Managing Entity  or Nonresident Contracting Party  fails, refuses, 
+or neglects to withhold or remit the usage fee or any portion thereof, the Employee or Nonresident Contracting Party  shall be personally liable for 
+payment of the Usage Fee  and any applicable penalty
+56	  
+ 
+§ 204
+57	  TIME FRAME 
+58	 
+ 
+The usage fee imposed under the Code shall be applicable to the C urrent  
+Year 
+59	 
+ 
+ 
+§ 205
+60	  OBLIGATIONS OF PUBLICLY FUNDED FACILITY 
+61	 
+   
+7 
+ It shall be the duty of the Person , venue, or entity acting on behalf of the 
+Publicly Funded Facility , to provide the Finance Department with all 
+relevant  contract s and/or contract information in a manner acceptable to 
+the Finance Department , and certify correctness thereof,  within thirty (30) 
+days of finalization of the aforementioned contract
+62	    
+ 
+   ARTI CLE 3: PAYMENT
+ 
+ 
+§ 301
+63	  REGISTRATION OF QUALIFIED MANAGING ENTITIES  AND 
+CONTRACTING PARTIES 
+64	 
+ 
+(a)  Every Qualified Managing Entities  not registered with the City  
+employing or contracting with Nonresidents  receiving Earned Income 
+within the City  shall, within sixty (60) days of first becoming a  
+Qualified Managing Entity , register with the Treasurer the Qualified 
+Managing Entity ’s name, address, and  such other information as the 
+Treasurer may require
+65	  Every registration shall be made upon a form 
+authorized and furnished by the Treasurer
+66	  Every Person  completing 
+this form shall certify the correctness thereof
+67	  
+ 
+(b)  Every Nonresident Contracting Party not registered with the City  
+employing or contracting with Nonresidents  receiving Earned Income 
+within the City  shall, within sixty (60) days of entering into an 
+agreement with a Publicly Funded Facility to engage  in an  event held 
+in a Publicly Funded Facility for which compensation is earned, 
+register with the Treasurer with the Nonresident Contracting Party’s 
+name, address, and any  other information as the Treasurer may 
+require
+68	  Every registration shall be made upon a form authorized and 
+furnished by the Treasurer
+69	  Every Person completing this form shall 
+certify the correctness thereof
+70	  
+ 
+§ 302
+71	  COLLECTION OF PAYMENT
+72	  
+ 
+(a)  Sporting Events 
+73	  Any Qualified Managing Entity  who employs one 
+(1) or more N onresidents who earn compensation as the result of 
+services performed within the City  that require the use of a Publicly 
+Funded Facility , shall deduct monthly, or more often than monthly the   
+8 
+ usage fee imposed by this chapter based on the earned income paid 
+or payable to and/or any compensation attributable to any Nonresident Employee 
+74	
+ 
+ 
+Every Qualified Managing Entity  shall, on or before April 30 of the 
+current year, July 31 of the current year, October 31 of the current year, and January 31 of the succeeding year, file a return on a form 
+prescribed by the Treasurer and pay to the Treasurer the amount of 
+usage fees deducted during the preceding three (3) month periods 
+ending March 31 of the current year, June 30 of the current year, September 30 of the current year, and December 31 of the current 
+year, respectively
+75	
+ 
+ 
+(b)  Non-Sporting Eve nts
+76	  Any Nonresident Contracting Party  who 
+enters into a contract for  the use of Publicly  Funded Facility  to 
+engage in a non -sporting event for com pensation shall deduct from 
+the contract, the Usage Fee  based on the Earned Income  paid or 
+payable to and/or any compensation attributable to any Nonresident 
+Employee,  Nonresident Contracting Party , their agents , or 
+associates
+77	  
+ 
+The Nonresident Contracting Party  shall on or before April 30 of the 
+current year, July 31 of the current year, October 31 of the  current 
+year, and January 31 of the succeeding year, file a return on a form 
+prescribed by the Treasurer shall pay to the Treasurer the amount of usage fees deducted during the preceding three (3) month periods 
+ending March 31 of the current year, June 30  of the current year, 
+September 30 of the current year, and December 31 of the current year, respectively
+78	
+ 
+ 
+(c) The usage fee should not be reported in the local tax box on the  
+W-2 form, because this is a fee, not a tax
+79	  
+ 
+(d) Those individuals liable for the usage fee shall be exempt from any 
+income tax imposed by a City of the second class pursuant to this Act 
+and any such tax imposed under Section 652
+80	1 of the Act of March 
+10, 1949 (P
+81	L
+82	 30, No
+83	 14) known as the “Public School Code of 1949
+84	”  
+ 
+§ 303
+85	  RET URNS 
+86	   
+9 
+  
+(a)  All returns filed shall include information as prescribed  in the form 
+authorized and furnished by the Treasurer, including but not limit ed 
+to, the names of Employees , Contracting Parties , and/or 
+subcontracting parties and their respective home addresses, city 
+residency, phone numbers, social security numbers, nature of 
+relationship , nature of work performed, dates of work performed, and 
+locations of work performed 
+87	 
+ 
+(b) Failure to complet e a form is deemed non -filing
+88	  
+ 
+  
+ 
+ARTICLE 4: ADMINISTRATION 
+ 
+§ 401
+89	  POWER OF TREASURER
+90	  
+ 
+(a) It shall be the duty of the Treasurer to collect and receive the usage 
+fees, fines, and penalties imposed by the Code
+91	  It shall also be the 
+duty of the Treasurer to keep a record showing the date of such 
+receipt
+92	  
+ 
+(b) The Treasurer is charged with the administration and enforcement of the Code and these Regulations
+93	  The Treasurer is empowered to prescribe, adopt, promulgate, and enforce regulations perta ining to 
+administration and enforcement of the Code
+94	  This power includes, but is not limited to:
+ 
+ 
+(1) The power to reexamine and correct declarations and returns, payments alleged or found to be incorrect, and overpayments claimed or found to have occurred;
+ 
+ 
+(2) The power to examine the books, papers, records, or other relevant documentation of any supposed Qualified Managing 
+Entity  or Nonresident Contracting Party , or any user or 
+supposed user in accordance with these Regulations and as 
+described i n Section 403  of these Regulations ;
+ 
+ 
+(3) The power to prescribe forms necessary for the administration of these Regulations; and
+   
+10 
+  
+(4) The power to issue citations for violations of these Regulations 
+and institute penalties, including but not limited, to those prescribed  in Section 502
+95	
+ 
+ 
+(c) The Treasurer is authorized to issue a ruling upon written request of a 
+user
+96	  
+ 
+(d)     The Treasur er shall annually provide to all Publicly Funded Facilities 
+a copy of applicable City Code, City Regulations, and current policies 
+related to the Nonresident Sports Facilities Usage Fee
+97	  
+ 
+ 
+ 
+    
+§ 402
+98	  RECORDS REQUIRED
+99	  
+ 
+Qualified Managing Entity  and Contracting Parties  subject to the 
+requirements of these Regulations are required to keep such records as will enable the filing of true and accurate returns of the Usage Fee, and 
+such records shall be preserved for a period of not less than three  (3) year s 
+from the filing date or due date, whichever is later, in order to enable the 
+Treasurer to verify the correctness of those declarations or returns
+100	
+ 
+ 
+§ 403
+101	  EXAMINATION OF RECORDS 
+102	 
+ 
+ (a) The Treasurer and agents designated by him or her are hereby authorized to examine the books, papers, and records of any supposed Qualified Managing Entity  or Nonresident Contracting 
+Party , or of any user or supposed user, in order to verify the accuracy 
+of any declaration or return, or if no declaration or return was filed, to ascertain the fee due
+103	  Every Person is directed and required to give 
+the Treasurer and/ or his or her designee s the means, facilities, and 
+opportunity for such examinations and investigations as are hereby authorized
+104	  
+ 
+   
+11 
+ (b) If records are not available to the City to support the returns which 
+were filed or should have been filed, the Qualified Managing Entity  or 
+Nonresident Contracting Party  will be required to make them 
+available to the Treasurer either by producing them in a City location 
+or by paying for the expenses incurred by the Treasurer in traveling to 
+the place where the records are regularly kept
+105	  
+ 
+(c) Any information gained by the Treasurer, or by any other official or agent of the City, as a result of any declarations, returns, investigations, hearings, or verifications required or authorized by the Code shall be confidential except for official purpos es and shall not 
+be divulged except in accordance with a proper judicial order, or as otherwise provided by law
+106	
+ 
+ 
+§ 404
+107	  AUDITS 
+108	 
+ If, as a result of an examination conducted by the Treasurer, a return is found to be incorrect, the Treasurer is authorized to issue a deficiency notice and collect any underpayments of the usage fee
+109	  If no return has been filed and an amount is found to be due, the amount may be billed and collected with or without the formality of obtaining a return
+110	  Notices of deficiency ( i
+111	e
+112	, 
+where the return has been filed, but found to be deficient) shall include deficiencies for up to  three (3) years prior to the date when the notice is 
+issued
+113	  Where no return was filed, there shall be no limit to the period of notification of deficien cy
+114	 
+ ARTICLE 5: VIOLATIONS
+ 
+ 
+§ 501
+115	  NOT MUTUALLY EXCLUSIVE 
+116	 
+ 
+The remedies provided  in this Article are not mutually exclusive
+117	  The 
+utilization by the Treasurer of one or more remedies does not preclude the utilization of another
+118	  Moreover, use of the aforementioned remedies does not preclude the City’s use of any other legal or administrative procedure which can bring about compliance with the provision of the Code and these Regulations
+119	
+ 
+ 
+§ 502
+120	  PENALTIES 
+121	 
+   
+12 
+ (a) If for any reason the usage fee is not p aid when due, a penalty at the 
+rate of one (1) percent per month on the amount of the usage fee will 
+be added, during the time the usage fee goes unpaid  but the amount 
+shall not exceed fifteen percent (15%) in the aggregate
+122	   
+ 
+(b) On any additional usage fee determined to be due as a result of a 
+deficiency notice, penalty will be assessed from the day the usage fee should have been paid to the date of payment
+123	  Penalty is calculated as described above in Section 50 2(a)
+124	  
+ 
+ 
+(c) Where suit is brought for the  recovery of the usage fee, the Person 
+liable therefore shall, in addition, be liable for the costs of collection 
+and the penalties herein imposed
+125	    A Person’s belief that no usage 
+fee is due and owing, or the failure of any such Person to receive or 
+obtain the forms required for making the returns required by the Code 
+is not a valid defense to the imposition of penalties for violation  herein
+126	  Good faith shall not be a defense to the imposition of penalty
+127	
+ 
+ 
+  
+§ 503
+128	  VIOLATIONS AND FINES 
+129	 
+ 
+(a) Violations
+130	   No Person shall:  
+ 
+(1) Fail, neglect or refuse to make any declaration or file a return as required under these Regulations; 
+ 
+ 
+(2) Fail, neglect, or refuse to pay  or deduct  in part or in whole the 
+Usage Fee when it is due as required by these Regulations;  
+ 
+(3) Refuse to keep or supply to the  Treasurer books, records, or 
+accounts of any business, taxable or otherwise, to determine liability  as required by these Regulations ;
+ 
+ 
+(4) Make any incomplete, false, or fraudulent return, or to attempt to avoid full disclosure of the amount of the usage fee due, or to avoid payment in part or in whole of the usage fee; or
+ 
+ 
+(5) Divulge information which is confidential under Chapter 201
+131	6 
+of the Code
+132	  
+   
+13 
+   
+(b) Fines 
+133	  Pursuant to the Local Tax Enabling Act , as amended , in 
+addition to any other penalties or enforcement of fees:  
+ 
+(1) Any Qualified Managing Entity  required to collect, account for, 
+and remit the Usage Fee who willfully fails to collect or truthfully 
+account for and remit the Usage Fee to the City  commits a 
+misdemeanor and shall, upon conv iction, be sentenced  to pay a 
+fine not exceeding $25,000
+134	00 or to imprisonment not exceeding two ( 6) months , or both;  
+ 
+(2) Any Qualified Managi ng Entity  or Nonresident Contracting Party  
+who negligently or willfully  refuses to file a Usage Fee return as 
+required by th ese Regulations shall, upon conviction, be 
+sentenced to pay a fine of not more than one thousand dollars 
+($1,000) and/or to a term of imprisonment of not more than six 
+(6) months ;
+ 
+ 
+(3) Any Qualified Managing Entity  or Nonresident Contracting Party  
+who negligently or willfully makes any false or untrue statement 
+on the Usage Fee return shall upon conviction, be sentenced to 
+pay a fine of not more than two thousand dollars ($2,000) 
+and/or a term of imprisonment of not more than six (6) months ;  
+ 
+(4) Any Qualified Managing Entity  or Nonresident Contracting Party  
+who negligently or willfully  fails to remit the entire amount of the 
+usage fee, as determined and  required by these  regulations , 
+shall upon conviction, be sentenced to pay a fine of not more 
+than two thousand dollars ($2,000) and/or to a term of not more 
+than six (6) months ; 
+ 
+(5) Any Person who willfully fails or refuses to appear before the 
+Treasurer in person with the requested books, records, 
+accounts, or other materials when required by the Code, or who willfully refuses to permit inspection by the Treasurer of those 
+books, records, accounts, or other materials in the Person’s 
+custody or control when required by the Code, shall, upon 
+conviction be sentenced to pay a fine of not more than five hundred dollars ($500) and costs for each offense, and in   
+14 
+ default of payment thereof may be imprisoned for not more than 
+fifty (50)  days;  
+ 
+(6) The fines and terms of imprisonment imposed under this Section shall be in addition to any other relief granted to the 
+City of a monetary nature under the provisions of these 
+Regulations;
+ 
+ 
+(7) Each and every day that the violation continues sha ll constitute 
+a separate offense for which a fine can be imposed;  
+ 
+(8) Anyone found to be guilty of violations delineated in Section 503(b) may be denied future use of the Publicly Funded 
+Facility 
+135	
+ 
+ 
+§ 504
+136	  SUITS 
+137	 
+ 
+The Treasurer may sue in the name of the City, in law or in equity, for the 
+recovery of those fees due and unpaid under the provisions of the usage fee, to compel the production of records, or to enforce any other provisions of the law
+138	
+ 
+ 
+ 
+ 
+§ 505
+139	  LIMITATIONS ON ENFORCEMENT
+140	  
+ 
+(a) The following periods of limitation shall apply to suits for collection of 
+usage fees:  
+   
+(1) When a return has been filed but no usage fee paid, any suit brought to recover the usage fee due and unpaid shall be filed within three  (3) years after the return was due or filed, 
+whichever is later
+141	  Where no return was filed, there shall be no 
+limit to file suit for the collection of fees;
+ 
+ 
+(2)  
+ 
+(b) The limitations set forth in paragraph (a) shall not prevent the filing of 
+a suit for the collection of any usage fee due or determined to be due 
+in the following cases:  
+    
+15 
+  (1) Where no return was filed, there is no limitation;  
+ 
+ (2) Where the return is fraudulent, there is no limitation;  
+ 
+(3) When there is an understatement of liability of twenty -five (25) 
+percent or more, and not due to fraud, the suit shall be filed 
+within six (6) years after the return was due or filed, whichever 
+is later
+142	  
+ 
+(c) A return filed before the due date is deemed to be filed on the due date
+143	
+ 
+ 
+ 
+ARTICLE 6: SAVINGS  
+ 
+§ 601
+144	  SAVINGS CLAUSE AND SEVERABILITY
+145	  
+ 
+(a)  If a final decision of a court of competent jurisdiction holds any 
+provisions of these Regulations, or the application of any provision to 
+any circumstances, to be illegal or unconstitutional,  the other 
+provisions in these regulations, or the application of such provision to other circumstances, shall remain in full force and effect
+146	  The intent 
+of the Treasurer is that the provisions of these Regulations shall be severable and that they would have been adopted if any such illegal 
+or unconstitutional provisions had not been included herein
+147	
+ 
+ 
+(b)   Should a court of competent jurisdiction determine this provision to be 
+invalid for any reason, Persons subject to the Usage Fee  shall not be 
+exempt f rom any previously applicable earned income tax
+148	  

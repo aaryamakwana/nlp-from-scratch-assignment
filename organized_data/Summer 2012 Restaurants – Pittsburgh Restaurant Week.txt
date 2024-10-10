@@ -1,0 +1,60 @@
+0	Toggle Navigation Get Involved Join Newsletter register for restaurant week updates * indicates required Email Address * First Name Last Name Zip Code Close var fnames = new Array();var ftypes = new Array();fnames[0]=’EMAIL’;ftypes[0]=’email’;fnames[1]=’FNAME’;ftypes[1]=’text’;fnames[2]=’LNAME’;ftypes[2]=’text’;fnames[3]=’ZIP_CODE’;ftypes[3]=’number’; try { var jqueryLoaded=jQuery; jqueryLoaded=true; } catch(err) { var jqueryLoaded=false; } var head= document
+1	getElementsByTagName(‘head’)[0]; if (!jqueryLoaded) { var script = document
+2	createElement(‘script’); script
+3	type = ‘text/javascript’; script
+4	src = ‘http://ajax
+5	googleapis
+6	com/ajax/libs/jquery/1
+7	4
+8	4/jquery
+9	min
+10	js’; head
+11	appendChild(script); if (script
+12	readyState && script
+13	onload!==null){ script
+14	onreadystatechange= function () { if (this
+15	readyState == ‘complete’) mce_preload_check(); } } } var script = document
+16	createElement(‘script’); script
+17	type = ‘text/javascript’; script
+18	src = ‘http://downloads
+19	mailchimp
+20	com/js/jquery
+21	form-n-validate
+22	js’; head
+23	appendChild(script); var err_style = ”; try{ err_style = mc_custom_error_style; } catch(e){ err_style = ‘margin: 1em 0 0 0; padding: 1em 0
+24	5em 0
+25	5em 0
+26	5em; background: FFEEEE none repeat scroll 0% 0%; font-weight: bold; float: left; z-index: 1; width: 80%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: FF0000;’; } var head= document
+27	getElementsByTagName(‘head’)[0]; var style= document
+28	createElement(‘style’); style
+29	type= ‘text/css’; if (style
+30	styleSheet) { style
+31	styleSheet
+32	cssText = ‘
+33	mce_inline_error {‘ + err_style + ‘}’; } else { style
+34	appendChild(document
+35	createTextNode(‘
+36	mce_inline_error {‘ + err_style + ‘}’)); } head
+37	appendChild(style); setTimeout(‘mce_preload_check();’, 250); var mce_preload_checks = 0; function mce_preload_check(){ if (mce_preload_checks>40) return; mce_preload_checks++; try { var jqueryLoaded=jQuery; } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } try { var validatorLoaded=jQuery(“#fake-form”)
+38	validate({}); } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } mce_init_form(); } function mce_init_form(){ jQuery(document)
+39	ready( function($) { var… Online Restaurant Registration ~ Suggest A Restaurant Sponsor the Celebration Pittsburgh Restaurant Week is currently seeking sponsors
+40	  Sponsorship of Pittsburgh Restaurant Week offers Sponsors an opportunity to boost awareness among Pittsburgh consumers
+41	 By supporting Pittsburgh Restaurant Week, Sponsors will receive maximum exposure prior, during and after the event through aggressive marketing and media relations activities
+42	 Benefits of Sponsorship Prominent company name, logo display, website link and background paragraph on www
+43	pittsburghrestaurantweek
+44	com/pghrestaurantwk Honorable mentions on Social Media pages: Facebook – www
+45	facebook
+46	com/PittsburghRestaurantWeek Twitter – www
+47	twitter
+48	com/PitRestaurantWk One e-mail newsletter promoting a service, product, or exclusive deal to all participant contacts
+49	 Sponsors are responsible for providing content for e-mail newsletter
+50	 Banner ad on high-traffic pages on www
+51	pittsburghrestaurantweek
+52	com/pghrestaurantwk   Interesting in being a sponsor?  E-mail info@pittsburghrestaurantweek
+53	com/pghrestaurantwk for more information
+54	 Submit Restaurant Menu Restaurants Summer 2024 Restaurants Past Celebrations Winter 2024 Restaurants Summer 2023 Restaurants Winter 2023 Restaurants Summer 2022 Restaurants Winter 2022 Restaurants Summer 2021 Restaurants Winter 2021 Restaurants Summer 2020 Restaurants Winter 2020 Restaurants Summer 2019 Restaurants Winter 2019 Restaurants Summer 2018 Restaurants Winter 2018 Restaurants Summer 2017 Restaurants Winter 2017 Restaurants Summer 2016 Restaurants Winter 2016 Restaurants Summer 2015 Restaurants Winter 2015 Restaurants Summer 2014 Restaurants Winter 2014 Restaurants Summer 2013 Restaurants Winter 2013 Restaurants Summer 2012 Restaurants Winter 2012 Restaurants Restaurant Roulette Summer 2012 Restaurants Restaurants Summer 2012 Restaurants The following restaurants have registered for Pittsburgh Restaurant Week Summer 2012 celebration
+55	 Is this your first time enjoying restaurant week? Check out these tips for getting the most out of Pittsburgh Restaurant Week 
+56	 Pittsburgh Restaurant Week – Summer 2012 is focused on highlighting Pittsburgh food and restaurants through fine dining , fresh harvests and outdoor seating 
+57	 Is this your first time enjoying restaurant week? Check out these tips for getting the most out of Pittsburgh Restaurant Week 
+58	 Browse Special Menus Narrow Restaurants & Menus Neighborhoods: Downtown | Strip District | Southside Early Access Outdoor Seating Walk-Ins Welcome Reserve Online Eat Sustainably Abay Ethiopian Cuisine East Liberty Alma Pan-Latin Kitchen Regent Square Arpino Trattoria Scott Township Avenue B Shadyside Bar Marco Strip District Bigelow Grille Downtown Bistro 19 Mt
+59	 Lebanon Blue Dust Homestead Bocktown Beer and Grill Monaca Bocktown Beer and Grill Robinson Braddock's American Brasserie Downtown Burgh'ers Harmony Casa Rasta Beechview Donato's Fox Chapel Evolution Grille Sarver Franktuary Downtown Habitat Restaurant Downtown Hofbrauhaus Southside James Street Gastropub & Speakeasy Northside Kaleidoscope Cafe Lawrenceville La Cucina Flegrea Downtown Meat & Potatoes Downtown Mediterrano Ross Township Mitchell's Fish Market Waterfront Nine on Nine Downtown Olive or Twist Downtown Penn Avenue Fish Company Downtown Pino's Contemporary Italian Kitchen & Wine Bar Point Breeze Sienna Downtown Six Penn Kitchen Downtown Tamari Lawrenceville Tamari Warrendale Taste of Dahntahn Downtown The Carlton Downtown The Church Brew Works Lawrenceville The Milk Shake Factory Southside The Original Fish Market Downtown The Porch at Schenley Oakland Tic Toc Restaurant Downtown Toast! Kitchen & Wine Bar Bloomfield Vallozzi's Pittsburgh Downtown Verde Mexican Kitchen & Cantina Garfield Vivo Kitchen Sewickley Willow North Hills Additional restaurants participating in Pittsburgh Restaurant Week (menus not yet provided): Abay Ethiopian Cuisine Alma Pan-Latin Kitchen Arpino Trattoria Avenue B Bar Marco Bigelow Grille Bistro 19 Blue Dust Bocktown Beer and Grill Bocktown Beer and Grill Braddock's American Brasserie Burgh'ers Casa Rasta Donato's Evolution Grille Franktuary Habitat Restaurant Hofbrauhaus James Street Gastropub & Speakeasy Kaleidoscope Cafe La Cucina Flegrea Meat & Potatoes Mediterrano Mitchell's Fish Market Nine on Nine Olive or Twist Penn Avenue Fish Company Pino's Contemporary Italian Kitchen & Wine Bar Sienna Six Penn Kitchen Tamari Tamari Taste of Dahntahn The Carlton The Church Brew Works The Milk Shake Factory The Original Fish Market The Porch at Schenley Tic Toc Restaurant Toast! Kitchen & Wine Bar Vallozzi's Pittsburgh Verde Mexican Kitchen & Cantina Vivo Kitchen Willow About Contact Contest Guidelines © Pittsburgh TasteBuds Ltd

@@ -1,0 +1,112 @@
+0	Toggle Navigation Get Involved Join Newsletter register for restaurant week updates * indicates required Email Address * First Name Last Name Zip Code Close var fnames = new Array();var ftypes = new Array();fnames[0]=’EMAIL’;ftypes[0]=’email’;fnames[1]=’FNAME’;ftypes[1]=’text’;fnames[2]=’LNAME’;ftypes[2]=’text’;fnames[3]=’ZIP_CODE’;ftypes[3]=’number’; try { var jqueryLoaded=jQuery; jqueryLoaded=true; } catch(err) { var jqueryLoaded=false; } var head= document
+1	getElementsByTagName(‘head’)[0]; if (!jqueryLoaded) { var script = document
+2	createElement(‘script’); script
+3	type = ‘text/javascript’; script
+4	src = ‘http://ajax
+5	googleapis
+6	com/ajax/libs/jquery/1
+7	4
+8	4/jquery
+9	min
+10	js’; head
+11	appendChild(script); if (script
+12	readyState && script
+13	onload!==null){ script
+14	onreadystatechange= function () { if (this
+15	readyState == ‘complete’) mce_preload_check(); } } } var script = document
+16	createElement(‘script’); script
+17	type = ‘text/javascript’; script
+18	src = ‘http://downloads
+19	mailchimp
+20	com/js/jquery
+21	form-n-validate
+22	js’; head
+23	appendChild(script); var err_style = ”; try{ err_style = mc_custom_error_style; } catch(e){ err_style = ‘margin: 1em 0 0 0; padding: 1em 0
+24	5em 0
+25	5em 0
+26	5em; background: FFEEEE none repeat scroll 0% 0%; font-weight: bold; float: left; z-index: 1; width: 80%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: FF0000;’; } var head= document
+27	getElementsByTagName(‘head’)[0]; var style= document
+28	createElement(‘style’); style
+29	type= ‘text/css’; if (style
+30	styleSheet) { style
+31	styleSheet
+32	cssText = ‘
+33	mce_inline_error {‘ + err_style + ‘}’; } else { style
+34	appendChild(document
+35	createTextNode(‘
+36	mce_inline_error {‘ + err_style + ‘}’)); } head
+37	appendChild(style); setTimeout(‘mce_preload_check();’, 250); var mce_preload_checks = 0; function mce_preload_check(){ if (mce_preload_checks>40) return; mce_preload_checks++; try { var jqueryLoaded=jQuery; } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } try { var validatorLoaded=jQuery(“#fake-form”)
+38	validate({}); } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } mce_init_form(); } function mce_init_form(){ jQuery(document)
+39	ready( function($) { var… Online Restaurant Registration ~ Suggest A Restaurant Sponsor the Celebration Pittsburgh Restaurant Week is currently seeking sponsors
+40	  Sponsorship of Pittsburgh Restaurant Week offers Sponsors an opportunity to boost awareness among Pittsburgh consumers
+41	 By supporting Pittsburgh Restaurant Week, Sponsors will receive maximum exposure prior, during and after the event through aggressive marketing and media relations activities
+42	 Benefits of Sponsorship Prominent company name, logo display, website link and background paragraph on www
+43	pittsburghrestaurantweek
+44	com/pghrestaurantwk Honorable mentions on Social Media pages: Facebook – www
+45	facebook
+46	com/PittsburghRestaurantWeek Twitter – www
+47	twitter
+48	com/PitRestaurantWk One e-mail newsletter promoting a service, product, or exclusive deal to all participant contacts
+49	 Sponsors are responsible for providing content for e-mail newsletter
+50	 Banner ad on high-traffic pages on www
+51	pittsburghrestaurantweek
+52	com/pghrestaurantwk   Interesting in being a sponsor?  E-mail info@pittsburghrestaurantweek
+53	com/pghrestaurantwk for more information
+54	 Submit Restaurant Menu Restaurants Summer 2024 Restaurants Past Celebrations Winter 2024 Restaurants Summer 2023 Restaurants Winter 2023 Restaurants Summer 2022 Restaurants Winter 2022 Restaurants Summer 2021 Restaurants Winter 2021 Restaurants Summer 2020 Restaurants Winter 2020 Restaurants Summer 2019 Restaurants Winter 2019 Restaurants Summer 2018 Restaurants Winter 2018 Restaurants Summer 2017 Restaurants Winter 2017 Restaurants Summer 2016 Restaurants Winter 2016 Restaurants Summer 2015 Restaurants Winter 2015 Restaurants Summer 2014 Restaurants Winter 2014 Restaurants Summer 2013 Restaurants Winter 2013 Restaurants Summer 2012 Restaurants Winter 2012 Restaurants Restaurant Roulette Restaurants Pittsburgh Restaurant Week features dining specials which highlight the wide-ranging dining options that Pittsburgh has to offer and brings individuals from surrounding boroughs or suburbs to the city to walk the streets and enjoy a meal at a special discounted price
+55	 Check out the Pittsburgh Restaurant Week participating restaurants for the next celebration: :: PRW Summer 2024, August 12-18, early access August 9 See some past Pittsburgh Restaurant Week participating restaurants: :: PRW Winter 2024, January 15-21, early access January 12 :: PRW Summer 2023, August 7-13 :: PRW Winter 2023, January 9-15 :: PRW Summer 2022, August 8-14, extended to August 21 :: PRW Winter 2022, January 10-16, extended to January 23 :: PRW Summer 2021, August 9-15, extended to August 22 :: PRW Winter 2021, January 11-17, extended to January 24 :: PRW Summer 2020, August 10-16, extended to August 23 :: PRW Winter 2020, January 13-19 :: PRW Summer 2019, August 12-18 :: PRW Winter 2019, January 14-20 :: PRW Summer 2018, August 13-19 :: PRW Winter 2018, January 15-21 :: PRW Summer 2017, August 14-20 :: PRW Winter 2017, January 9-15 :: PRW Summer 2016, August 15-21 :: PRW Winter 2016, January 11-17 :: PRW Summer 2015, August 10-16 :: PRW Winter 2015, January 12-18 :: PRW Summer 2014, August 11-17 :: PRW Winter 2014, January 13-19 :: PRW Summer 2013, August 12-18 :: PRW Winter 2013, January 14-20 :: PRW Summer 2012, August 13-19 :: PRW Winter 2012, January 16-22 About Contact Contest Guidelines © Pittsburgh TasteBuds Ltd
+0	Toggle Navigation Get Involved Join Newsletter register for restaurant week updates * indicates required Email Address * First Name Last Name Zip Code Close var fnames = new Array();var ftypes = new Array();fnames[0]=’EMAIL’;ftypes[0]=’email’;fnames[1]=’FNAME’;ftypes[1]=’text’;fnames[2]=’LNAME’;ftypes[2]=’text’;fnames[3]=’ZIP_CODE’;ftypes[3]=’number’; try { var jqueryLoaded=jQuery; jqueryLoaded=true; } catch(err) { var jqueryLoaded=false; } var head= document
+1	getElementsByTagName(‘head’)[0]; if (!jqueryLoaded) { var script = document
+2	createElement(‘script’); script
+3	type = ‘text/javascript’; script
+4	src = ‘http://ajax
+5	googleapis
+6	com/ajax/libs/jquery/1
+7	4
+8	4/jquery
+9	min
+10	js’; head
+11	appendChild(script); if (script
+12	readyState && script
+13	onload!==null){ script
+14	onreadystatechange= function () { if (this
+15	readyState == ‘complete’) mce_preload_check(); } } } var script = document
+16	createElement(‘script’); script
+17	type = ‘text/javascript’; script
+18	src = ‘http://downloads
+19	mailchimp
+20	com/js/jquery
+21	form-n-validate
+22	js’; head
+23	appendChild(script); var err_style = ”; try{ err_style = mc_custom_error_style; } catch(e){ err_style = ‘margin: 1em 0 0 0; padding: 1em 0
+24	5em 0
+25	5em 0
+26	5em; background: FFEEEE none repeat scroll 0% 0%; font-weight: bold; float: left; z-index: 1; width: 80%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: FF0000;’; } var head= document
+27	getElementsByTagName(‘head’)[0]; var style= document
+28	createElement(‘style’); style
+29	type= ‘text/css’; if (style
+30	styleSheet) { style
+31	styleSheet
+32	cssText = ‘
+33	mce_inline_error {‘ + err_style + ‘}’; } else { style
+34	appendChild(document
+35	createTextNode(‘
+36	mce_inline_error {‘ + err_style + ‘}’)); } head
+37	appendChild(style); setTimeout(‘mce_preload_check();’, 250); var mce_preload_checks = 0; function mce_preload_check(){ if (mce_preload_checks>40) return; mce_preload_checks++; try { var jqueryLoaded=jQuery; } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } try { var validatorLoaded=jQuery(“#fake-form”)
+38	validate({}); } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } mce_init_form(); } function mce_init_form(){ jQuery(document)
+39	ready( function($) { var… Online Restaurant Registration ~ Suggest A Restaurant Sponsor the Celebration Pittsburgh Restaurant Week is currently seeking sponsors
+40	  Sponsorship of Pittsburgh Restaurant Week offers Sponsors an opportunity to boost awareness among Pittsburgh consumers
+41	 By supporting Pittsburgh Restaurant Week, Sponsors will receive maximum exposure prior, during and after the event through aggressive marketing and media relations activities
+42	 Benefits of Sponsorship Prominent company name, logo display, website link and background paragraph on www
+43	pittsburghrestaurantweek
+44	com/pghrestaurantwk Honorable mentions on Social Media pages: Facebook – www
+45	facebook
+46	com/PittsburghRestaurantWeek Twitter – www
+47	twitter
+48	com/PitRestaurantWk One e-mail newsletter promoting a service, product, or exclusive deal to all participant contacts
+49	 Sponsors are responsible for providing content for e-mail newsletter
+50	 Banner ad on high-traffic pages on www
+51	pittsburghrestaurantweek
+52	com/pghrestaurantwk   Interesting in being a sponsor?  E-mail info@pittsburghrestaurantweek
+53	com/pghrestaurantwk for more information
+54	 Submit Restaurant Menu Restaurants Summer 2024 Restaurants Past Celebrations Winter 2024 Restaurants Summer 2023 Restaurants Winter 2023 Restaurants Summer 2022 Restaurants Winter 2022 Restaurants Summer 2021 Restaurants Winter 2021 Restaurants Summer 2020 Restaurants Winter 2020 Restaurants Summer 2019 Restaurants Winter 2019 Restaurants Summer 2018 Restaurants Winter 2018 Restaurants Summer 2017 Restaurants Winter 2017 Restaurants Summer 2016 Restaurants Winter 2016 Restaurants Summer 2015 Restaurants Winter 2015 Restaurants Summer 2014 Restaurants Winter 2014 Restaurants Summer 2013 Restaurants Winter 2013 Restaurants Summer 2012 Restaurants Winter 2012 Restaurants Restaurant Roulette Restaurants Pittsburgh Restaurant Week features dining specials which highlight the wide-ranging dining options that Pittsburgh has to offer and brings individuals from surrounding boroughs or suburbs to the city to walk the streets and enjoy a meal at a special discounted price
+55	 Check out the Pittsburgh Restaurant Week participating restaurants for the next celebration: :: PRW Summer 2024, August 12-18, early access August 9 See some past Pittsburgh Restaurant Week participating restaurants: :: PRW Winter 2024, January 15-21, early access January 12 :: PRW Summer 2023, August 7-13 :: PRW Winter 2023, January 9-15 :: PRW Summer 2022, August 8-14, extended to August 21 :: PRW Winter 2022, January 10-16, extended to January 23 :: PRW Summer 2021, August 9-15, extended to August 22 :: PRW Winter 2021, January 11-17, extended to January 24 :: PRW Summer 2020, August 10-16, extended to August 23 :: PRW Winter 2020, January 13-19 :: PRW Summer 2019, August 12-18 :: PRW Winter 2019, January 14-20 :: PRW Summer 2018, August 13-19 :: PRW Winter 2018, January 15-21 :: PRW Summer 2017, August 14-20 :: PRW Winter 2017, January 9-15 :: PRW Summer 2016, August 15-21 :: PRW Winter 2016, January 11-17 :: PRW Summer 2015, August 10-16 :: PRW Winter 2015, January 12-18 :: PRW Summer 2014, August 11-17 :: PRW Winter 2014, January 13-19 :: PRW Summer 2013, August 12-18 :: PRW Winter 2013, January 14-20 :: PRW Summer 2012, August 13-19 :: PRW Winter 2012, January 16-22 About Contact Contest Guidelines © Pittsburgh TasteBuds Ltd

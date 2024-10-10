@@ -1,0 +1,42 @@
+0	Leadership About Us > Leadership Carnegie Museums of Pittsburgh Institute Leadership Team Steven Knapp President & Chief Executive Officer president@carnegiemuseums
+1	org Gretchen Baker Daniel G
+2	 and Carole L
+3	 Kamin Director, Carnegie Museum of Natural History, and Vice President of Carnegie Museums of Pittsburgh Carnegie Museum of Natural History director@carnegiemnh
+4	org Maria Bernier General Counsel/Secretary bernierm@CarnegieMuseums
+5	Org Jason Brown Henry Buhl, Jr
+6	, Director, Carnegie Science Center, and Vice President of Carnegie Museums of Pittsburgh Carnegie Science Center director@carnegiesciencecenter
+7	org Frank Cardiello Vice President, Finance, Treasurer, and Chief Financial Officer cfo@carnegiemuseums
+8	org Eric Crosby The Henry J
+9	 Heinz II Director, Carnegie Museum of Art, and Vice President of Carnegie Museums of Pittsburgh Carnegie Museum of Art director@cmoa
+10	org Brian Harkins Vice President, Human Resources hr@carnegiemuseums
+11	org Kevin Hiles Executive Vice President & Chief Operating Officer coo@carnegiemuseums
+12	org Carey Miller Vice President, Development VPDevelopment@carnegiemuseums
+13	org Patrick Moore Director, The Andy Warhol Museum, and Vice President of Carnegie Museums of Pittsburgh The Andy Warhol Museum director@warhol
+14	org Ed Motznik Vice President, Technology tech@carnegiemuseums
+15	org Gina Winstead Vice President for Inclusion, Diversity, Equity, and Accessibility (IDEA) winsteadg@carnegiemuseums
+16	org Tony Young Vice President, Facilities, Planning, and Operations fpo@carnegiemuseums
+17	org Our Volunteer Leaders: Carnegie Museums Board of Trustees and Museum Advisory Boards Carnegie Museums has a rich history of dedicated volunteer leaders who have been instrumental in our development and dynamic growth
+18	 They are community leaders from arts and culture, business, education, and government
+19	 See the current list of Carnegie Museums of Pittsburgh Trustees and members of the four Museum Advisory Boards
+20	
+0	Leadership About Us > Leadership Carnegie Museums of Pittsburgh Institute Leadership Team Steven Knapp President & Chief Executive Officer president@carnegiemuseums
+1	org Gretchen Baker Daniel G
+2	 and Carole L
+3	 Kamin Director, Carnegie Museum of Natural History, and Vice President of Carnegie Museums of Pittsburgh Carnegie Museum of Natural History director@carnegiemnh
+4	org Maria Bernier General Counsel/Secretary bernierm@CarnegieMuseums
+5	Org Jason Brown Henry Buhl, Jr
+6	, Director, Carnegie Science Center, and Vice President of Carnegie Museums of Pittsburgh Carnegie Science Center director@carnegiesciencecenter
+7	org Frank Cardiello Vice President, Finance, Treasurer, and Chief Financial Officer cfo@carnegiemuseums
+8	org Eric Crosby The Henry J
+9	 Heinz II Director, Carnegie Museum of Art, and Vice President of Carnegie Museums of Pittsburgh Carnegie Museum of Art director@cmoa
+10	org Brian Harkins Vice President, Human Resources hr@carnegiemuseums
+11	org Kevin Hiles Executive Vice President & Chief Operating Officer coo@carnegiemuseums
+12	org Carey Miller Vice President, Development VPDevelopment@carnegiemuseums
+13	org Patrick Moore Director, The Andy Warhol Museum, and Vice President of Carnegie Museums of Pittsburgh The Andy Warhol Museum director@warhol
+14	org Ed Motznik Vice President, Technology tech@carnegiemuseums
+15	org Gina Winstead Vice President for Inclusion, Diversity, Equity, and Accessibility (IDEA) winsteadg@carnegiemuseums
+16	org Tony Young Vice President, Facilities, Planning, and Operations fpo@carnegiemuseums
+17	org Our Volunteer Leaders: Carnegie Museums Board of Trustees and Museum Advisory Boards Carnegie Museums has a rich history of dedicated volunteer leaders who have been instrumental in our development and dynamic growth
+18	 They are community leaders from arts and culture, business, education, and government
+19	 See the current list of Carnegie Museums of Pittsburgh Trustees and members of the four Museum Advisory Boards
+20	

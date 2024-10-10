@@ -1,0 +1,130 @@
+0	Toggle Navigation Get Involved Join Newsletter register for restaurant week updates * indicates required Email Address * First Name Last Name Zip Code Close var fnames = new Array();var ftypes = new Array();fnames[0]=’EMAIL’;ftypes[0]=’email’;fnames[1]=’FNAME’;ftypes[1]=’text’;fnames[2]=’LNAME’;ftypes[2]=’text’;fnames[3]=’ZIP_CODE’;ftypes[3]=’number’; try { var jqueryLoaded=jQuery; jqueryLoaded=true; } catch(err) { var jqueryLoaded=false; } var head= document
+1	getElementsByTagName(‘head’)[0]; if (!jqueryLoaded) { var script = document
+2	createElement(‘script’); script
+3	type = ‘text/javascript’; script
+4	src = ‘http://ajax
+5	googleapis
+6	com/ajax/libs/jquery/1
+7	4
+8	4/jquery
+9	min
+10	js’; head
+11	appendChild(script); if (script
+12	readyState && script
+13	onload!==null){ script
+14	onreadystatechange= function () { if (this
+15	readyState == ‘complete’) mce_preload_check(); } } } var script = document
+16	createElement(‘script’); script
+17	type = ‘text/javascript’; script
+18	src = ‘http://downloads
+19	mailchimp
+20	com/js/jquery
+21	form-n-validate
+22	js’; head
+23	appendChild(script); var err_style = ”; try{ err_style = mc_custom_error_style; } catch(e){ err_style = ‘margin: 1em 0 0 0; padding: 1em 0
+24	5em 0
+25	5em 0
+26	5em; background: FFEEEE none repeat scroll 0% 0%; font-weight: bold; float: left; z-index: 1; width: 80%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: FF0000;’; } var head= document
+27	getElementsByTagName(‘head’)[0]; var style= document
+28	createElement(‘style’); style
+29	type= ‘text/css’; if (style
+30	styleSheet) { style
+31	styleSheet
+32	cssText = ‘
+33	mce_inline_error {‘ + err_style + ‘}’; } else { style
+34	appendChild(document
+35	createTextNode(‘
+36	mce_inline_error {‘ + err_style + ‘}’)); } head
+37	appendChild(style); setTimeout(‘mce_preload_check();’, 250); var mce_preload_checks = 0; function mce_preload_check(){ if (mce_preload_checks>40) return; mce_preload_checks++; try { var jqueryLoaded=jQuery; } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } try { var validatorLoaded=jQuery(“#fake-form”)
+38	validate({}); } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } mce_init_form(); } function mce_init_form(){ jQuery(document)
+39	ready( function($) { var… Online Restaurant Registration ~ Suggest A Restaurant Sponsor the Celebration Pittsburgh Restaurant Week is currently seeking sponsors
+40	  Sponsorship of Pittsburgh Restaurant Week offers Sponsors an opportunity to boost awareness among Pittsburgh consumers
+41	 By supporting Pittsburgh Restaurant Week, Sponsors will receive maximum exposure prior, during and after the event through aggressive marketing and media relations activities
+42	 Benefits of Sponsorship Prominent company name, logo display, website link and background paragraph on www
+43	pittsburghrestaurantweek
+44	com/pghrestaurantwk Honorable mentions on Social Media pages: Facebook – www
+45	facebook
+46	com/PittsburghRestaurantWeek Twitter – www
+47	twitter
+48	com/PitRestaurantWk One e-mail newsletter promoting a service, product, or exclusive deal to all participant contacts
+49	 Sponsors are responsible for providing content for e-mail newsletter
+50	 Banner ad on high-traffic pages on www
+51	pittsburghrestaurantweek
+52	com/pghrestaurantwk   Interesting in being a sponsor?  E-mail info@pittsburghrestaurantweek
+53	com/pghrestaurantwk for more information
+54	 Submit Restaurant Menu Restaurants Summer 2024 Restaurants Past Celebrations Winter 2024 Restaurants Summer 2023 Restaurants Winter 2023 Restaurants Summer 2022 Restaurants Winter 2022 Restaurants Summer 2021 Restaurants Winter 2021 Restaurants Summer 2020 Restaurants Winter 2020 Restaurants Summer 2019 Restaurants Winter 2019 Restaurants Summer 2018 Restaurants Winter 2018 Restaurants Summer 2017 Restaurants Winter 2017 Restaurants Summer 2016 Restaurants Winter 2016 Restaurants Summer 2015 Restaurants Winter 2015 Restaurants Summer 2014 Restaurants Winter 2014 Restaurants Summer 2013 Restaurants Winter 2013 Restaurants Summer 2012 Restaurants Winter 2012 Restaurants Restaurant Roulette Winter 2024 Restaurants Restaurants Winter 2024 Restaurants Pittsburgh Restaurant Week Winter 2024 • Monday, January 15 to Sunday, January 21 Early Access Weekend: Friday, January 12 to Sunday, January 14 Annual Winter Theme: “New Dishes for the New Year” FAQ: How does restaurant week work? Browse Menus
+55	 Make Reservations
+56	 Dine Out
+57	 Enjoy
+58	 No coupons required
+59	 Mention PRW to your host/server to ensure you are getting the entire restaurant week experience
+60	 Narrow Restaurants & Menus Reserve Online New Dishes Early Access Walk-Ins Welcome Eat Sustainably Browse Special Menus Bae Bae's Kitchen $25
+61	24 Lunch or Dinner Downtown Blue Sky Kitchen & Bar $20
+62	24 Lunch or Dinner East Liberty Bonfire food & drink $45
+63	24 Dinner South Side Cadence+ Cellars Speakeasy $39
+64	24 Dinner Strip District Cadillac Ranch $20
+65	24 Lunch / $35
+66	24 Dinner West/Robinson Café Momentum $45
+67	24 Dinner Downtown Cafe Notte $45
+68	24 Dinner North Hills Carmella's Plates and Pints $45
+69	24 Dinner South Side Christian James Restaurant $45
+70	24 Dinner Downtown Coast and Main Seafood and Chophouse $45
+71	24 Dinner East/Monroeville Coughlin's Law Kitchen and Ale House $40
+72	24 Dinner Mount Washington The Coxcomb $20
+73	24 Specialties Murrysville Del Frisco’s Double Eagle Steakhouse $45
+74	24 Dinner Downtown Eddie Merlot's Steakhouse $45
+75	24 Dinner Downtown Emiliano's $40
+76	24 Dinner All 5 Area Locations EYV Restaurant $45
+77	24 Dinner North Side Franklin Inn Mexican Restaurant $40
+78	24 Dinner North Hills Fujiya Ramen $29
+79	24 Lunch or Dinner Shadyside Garbarino's $36
+80	24 Dinner East Liberty Grand Concourse Restaurant $45
+81	24 Lunch or Dinner Station Square Hard Rock Cafe $40
+82	24 Lunch or Dinner Station Square Hofbrauhaus $24
+83	24 Lunch or Dinner Southside Joe's Crab Shack $40
+84	24 Dinner Station Square Kabab and Curry Restaurant & Grill $45
+85	24 Dinner South Hills Khalil's Middle Eastern Restaurant $15
+86	24 Lunch, $28
+87	24 Dinner, $40
+88	24 Brunch Oakland/Bloomfield La Palapa Mexican Kitchen & Mezcal Bar $38
+89	24 Lunch or Dinner South Side LeMont Pittsburgh $45
+90	24 Dinner Mount Washington Leon's Caribbean $29
+91	24 Dinner Aliquippa & Allentown Luke Wholey's Wild Alaskan Grille $20
+92	24 or $34
+93	24 Lunch / Dinner Strip District Luma $45
+94	24 Dinner South/Mt
+95	 Lebanon Mary's Vine $45
+96	24 Dinner or Sunday Lunch Rankin McCormick & Schmick's $45
+97	24 Dinner Downtown Melting Pot $42
+98	24 Lunch or Dinner Station Square Mitchell's Fish Market $45
+99	24 Lunch or Dinner South/Mt
+100	 Lebanon Monterey Bay Fish Grotto $45
+101	24 Dinner Mount Washington Morton's The Steakhouse $45
+102	24 Dinner Downtown Muddy Waters Oyster Bar $40
+103	24 Dinner East Liberty Over Eden $42
+104	24 Dinner Lawrenceville Paris 66 $45
+105	24 Dinner East Liberty/Shadyside Piada Italian Street Food (All Locations) $20
+106	24 Lunch or Dinner For Two All 5 Area Locations Revival on Lincoln $45
+107	24 Dinner North/Bellevue Rivers Club $40
+108	24 Lunch, $45
+109	24 Dinner Downtown Roman Bistro $20
+110	24 Lunch & $45
+111	24 Dinner East/Forest Hills Ruth's Chris Steak House $39
+112	24 - $45
+113	24 Dinner Downtown Scarpino $44
+114	24 Dinner Downtown Scratch & Co $45
+115	24 Dinner Troy Hill Senti Restaurant $45
+116	24 Dinner Lawrenceville Social House $40
+117	23 Dinner Downtown St
+118	 Clair Social $35
+119	24 Dinner Friendship Station $45
+120	24 Dinner Bloomfield Steel Mill Saloon $35
+121	24 Dinner Mount Washington Sullivan's Steakhouse $45
+122	24 Dinner Downtown Sultry F&B $45
+123	24 Dinner South Side The Factory South Shore $38
+124	24 Lunch or Dinner Station Square The Porch at Schenley $20
+125	24 Feature Oakland The Porch at Siena $20
+126	24 Feature South/Upper St
+127	 Clair The Vandal $45
+128	24 Dinner Lawrenceville Tupelo Honey $35
+129	24 Dinner Station Square ADVERTISEMENT Additional restaurants participating in Pittsburgh Restaurant Week (menus not yet provided): Hula Bar and Grill About Contact Contest Guidelines © Pittsburgh TasteBuds Ltd

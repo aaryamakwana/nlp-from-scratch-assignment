@@ -1,0 +1,16 @@
+0	Information See what's happening
+1	 Schedule View the list of events scheduled for this weekend
+2	 Check It Out Event Map Don’t lose your way! Use the Event Map to make sure  you’re able to visit every part of the celebration
+3	 Check It Out Parking Make sure you get a spot! Check It Out Plan Your Visit Where to stay and where to play! Check It Out
+0	Information See what's happening
+1	 Schedule View the list of events scheduled for this weekend
+2	 Check It Out Event Map Don’t lose your way! Use the Event Map to make sure  you’re able to visit every part of the celebration
+3	 Check It Out Parking Make sure you get a spot! Check It Out Plan Your Visit Where to stay and where to play! Check It Out
+0	Information See what's happening
+1	 Schedule View the list of events scheduled for this weekend
+2	 Check It Out Event Map Don’t lose your way! Use the Event Map to make sure  you’re able to visit every part of the celebration
+3	 Check It Out Parking Make sure you get a spot! Check It Out Plan Your Visit Where to stay and where to play! Check It Out
+0	Information See what's happening
+1	 Schedule View the list of events scheduled for this weekend
+2	 Check It Out Event Map Don’t lose your way! Use the Event Map to make sure  you’re able to visit every part of the celebration
+3	 Check It Out Parking Make sure you get a spot! Check It Out Plan Your Visit Where to stay and where to play! Check It Out

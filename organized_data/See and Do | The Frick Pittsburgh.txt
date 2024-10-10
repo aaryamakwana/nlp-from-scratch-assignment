@@ -1,0 +1,485 @@
+0	Visit Treasured Ornament For Free Free admission to Treasured Ornament is available for Allegheny County Library Card holders through The Allegheny County Regional Asset District's RAD Pass program at RadPass
+1	org 
+2	 Toggle navigation Blog Calendar Equity Membership Rentals Café Shop Donate Plan Your Visit Visit Hours & Admission Today at the Frick Directions & Transit Site Map Accessibility Tours Group Visits Field Trips Explore The Frick Plan Your Visit See and Do See and Do The Frick Grounds Today at the Frick Programs and Events Events By Age Group Make the most of your visit Plan Ahead Learn Learn For Educators Family Programs Workshops Adult Programs Summer Camps Outreach Explore from anywhere Virtual Museum Exhibitions Exhibitions Current Exhibitions Upcoming Exhibitions Past Exhibitions Virtual Exhibitions Now On View Treasured Ornament Collection Support Membership The Frick Societies Reciprocal Museums Donate Legacy Planning Gifts of Stock Qualified Charitable Distributions Corporate Giving EITC Our Supporters Tickets membership Home See and Do See and Do Customize Your Frick Experience With so much to see and do, every visit to the Frick can be different
+3	 Experience the culture and refinement of the Gilded Age in a beautiful setting no other museum in Pittsburgh can offer
+4	 
+5	 Overview The Frick Grounds Today at The Frick Programs and Events Events By Age Group Virtual Experiences Grable Visitor Center Start your visit here! Purchase tickets, shop, and learn about the Frick site
+6	 Learn More Clayton Immerse yourself in the restored home of the Frick family
+7	 Learn More The Frick Art Museum View stunning temporary exhibitions and our permanent collection
+8	 Learn More Car and Carriage Museum Explore the Frick's collection of turn of the 20th century cars and carriages
+9	 Learn More Greenhouse and Gardens Stroll the 10-acre campus and visit a working Greenhouse
+10	 Learn More Playhouse Imagine playing in your own personal playhouse, complete with bowling alley! Learn More The Café Enjoy a treat at The Café at the Frick Tuesday–Sunday, 9:30 AM–3 PM
+11	 Learn More Community Room The perfect venue for a meeting or small event
+12	 Learn More What's Happening at the Frick There’s always something going on at The Frick Pittsburgh
+13	 We offer a variety of inspiring programs and events for visitors of all ages
+14	 The Frick Pittsburgh Education Center 10/20/2024 12:00 PM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+15	 20, 2024
+16	 Learn More Check in at the Grable Visitor Center 11/23/2024 10:15 AM Home for the Holidays at Clayton Celebrate the season and take in the cheerful atmosphere of a home decked for the holidays on a specialty tour of Clayto
+17	
+18	
+19	 Learn More The Frick Art Museum 10/08/2024 10:00 AM Treasured Ornament: 10 Centuries of Islamic Art Featuring fine glassware, ceramics, metalwork, painting, weaving, and much more, Treasured Ornament evokes the rich hist
+20	
+21	
+22	 Learn More Check in at the Grable Visitor Center 10/08/2024 10:15 AM Signature Clayton Tour Experience: Gilded, Not Golden Immerse yourself in 1892, a pivotal year for our nation, Pittsburgh, and the Frick family
+23	 Learn More Car and Carriage Museum 10/09/2024 1:00 PM Car and Carriage Museum Guided Tour | 1 p
+24	m
+25	 Join a guided tour of the Car and Carriage Museum and explore the story of America's transition from carriage to car
+26	 Learn More Car and Carriage Museum 10/09/2024 3:00 PM Car and Carriage Museum Guided Tour | 3 p
+27	m
+28	 Join a guided tour of the Car and Carriage Museum and explore the story of America's transition from carriage to car
+29	 Learn More The Frick Art Museum 10/10/2024 2:00 PM Guided Exhibition Tours of Treasured Ornament: 10 Centuries of Islamic Art Join a guided tour of Treasured Ornament to explore diverse objects celebrating the everyday life, history and culture o
+30	
+31	
+32	 Learn More Frick Art Museum & Frick Pittsburgh Education Center 10/10/2024 6:30 PM Sip & Make: Artist Spotlight On October 10, 2024, visit The Frick Pittsburgh to Make art with Khadijat Yussuff (they/them), a Pittsburgh-based interd
+33	
+34	
+35	 Learn More The Frick Pittsburgh Education Center 10/11/2024 11:00 AM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+36	 11, 2024
+37	 Learn More The Frick Pittsburgh 10/17/2024 12:00 PM Site Tree Walk with Tree Pittsburgh On Thursday, October 17, join Tree Pittsburgh for a free tree walk through The Frick Pittsburgh's grounds
+38	 Learn More The Frick Art Museum Auditorium 10/19/2024 7:00 PM Resonance of Tradition: A Fusion of Islamic Art and Music Across the Ages Ten centuries of Islamic art meet the shimmering melodies of traditional Persian and Turkish music in this collaborative
+39	
+40	
+41	 Learn More The Frick Pittsburgh Education Center 10/20/2024 12:00 PM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+42	 20, 2024
+43	 Learn More Check in at the Grable Visitor Center 11/23/2024 10:15 AM Home for the Holidays at Clayton Celebrate the season and take in the cheerful atmosphere of a home decked for the holidays on a specialty tour of Clayto
+44	
+45	
+46	 Learn More The Frick Art Museum 10/08/2024 10:00 AM Treasured Ornament: 10 Centuries of Islamic Art Featuring fine glassware, ceramics, metalwork, painting, weaving, and much more, Treasured Ornament evokes the rich hist
+47	
+48	
+49	 Learn More Check in at the Grable Visitor Center 10/08/2024 10:15 AM Signature Clayton Tour Experience: Gilded, Not Golden Immerse yourself in 1892, a pivotal year for our nation, Pittsburgh, and the Frick family
+50	 Learn More Car and Carriage Museum 10/09/2024 1:00 PM Car and Carriage Museum Guided Tour | 1 p
+51	m
+52	 Join a guided tour of the Car and Carriage Museum and explore the story of America's transition from carriage to car
+53	 Learn More Car and Carriage Museum 10/09/2024 3:00 PM Car and Carriage Museum Guided Tour | 3 p
+54	m
+55	 Join a guided tour of the Car and Carriage Museum and explore the story of America's transition from carriage to car
+56	 Learn More The Frick Art Museum 10/10/2024 2:00 PM Guided Exhibition Tours of Treasured Ornament: 10 Centuries of Islamic Art Join a guided tour of Treasured Ornament to explore diverse objects celebrating the everyday life, history and culture o
+57	
+58	
+59	 Learn More Frick Art Museum & Frick Pittsburgh Education Center 10/10/2024 6:30 PM Sip & Make: Artist Spotlight On October 10, 2024, visit The Frick Pittsburgh to Make art with Khadijat Yussuff (they/them), a Pittsburgh-based interd
+60	
+61	
+62	 Learn More The Frick Pittsburgh Education Center 10/11/2024 11:00 AM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+63	 11, 2024
+64	 Learn More The Frick Pittsburgh 10/17/2024 12:00 PM Site Tree Walk with Tree Pittsburgh On Thursday, October 17, join Tree Pittsburgh for a free tree walk through The Frick Pittsburgh's grounds
+65	 Learn More The Frick Art Museum Auditorium 10/19/2024 7:00 PM Resonance of Tradition: A Fusion of Islamic Art and Music Across the Ages Ten centuries of Islamic art meet the shimmering melodies of traditional Persian and Turkish music in this collaborative
+66	
+67	
+68	 Learn More The Frick Pittsburgh Education Center 10/20/2024 12:00 PM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+69	 20, 2024
+70	 Learn More Check in at the Grable Visitor Center 11/23/2024 10:15 AM Home for the Holidays at Clayton Celebrate the season and take in the cheerful atmosphere of a home decked for the holidays on a specialty tour of Clayto
+71	
+72	
+73	 Learn More Programs and Events Explore the many exciting programs and events offered at the Frick, from lectures, to concerts and everything in between! View All Events Exhibition Programs The Frick offers a wide range of exhibition-related public programs for all ages
+74	 Learn More Special Events From exhibition openings to Summer Fridays, don't miss these special events
+75	 Learn More Lectures Attend a fascinating lecture by a leading scholar or expert
+76	 Learn More Music and Films Round out your cultural experience with music and films
+77	 Learn More Tours Enjoy a tour of Clayton or one of our museums
+78	 Learn More Workshops Get creative at a professionally-led workshop
+79	 Learn More Gallery Talks Learn more about an exhibition by attending a gallery talk
+80	 Learn More Exhibitions Explore world-class exhibitions covering a wide variety of cultural and artistic topics
+81	 Learn More Ticketed Buy your tickets in advance for these exhibitions, tours, events, and more
+82	 Learn More Free Enjoy member and donor supported free events and programs! Learn More Just for You The Frick is for everyone! Explore our in-person and virtual programs specially created for all ages
+83	 View All Events Adults Lectures, workshops, adult learning programs, and special events
+84	 Learn More Kids and Family Programs and events the entire family can enjoy
+85	 Learn More Online Programs and events you can enjoy virtually from anywhere
+86	 Learn More In-person Programs and events happening at The Frick Pittsburgh
+87	 Learn More Plan Ahead Make the Most of Your Visit Exhibitions Explore our museums for world-class permanent and temporary exhibitions Learn More Tours Enhance your experience with a docent-led tour Learn More The Café Enjoy a treat at The Café at the Frick Tuesday–Sunday, 9:30 AM–3 PM Learn More Store Visit the Museum Store for a unique and carefully curated selection of gifts Learn More Know Before You Go Familiarize yourself with the Frick's visitation guidelines and policies Learn More Accessibility We are committed to offering an inclusive experience for all visitors Learn More School Visits Let our staff personalize your school group visit Learn More Group Visits Get information on scheduling a customized group visit Learn More Visit our Virtual Museum Learn More @FrickPgh on Instagram Right now at the Frick It's free to visit The Frick Pittsburgh
+88	 Admission is required for Clayton tours and special exhibitions
+89	 Plan your visit Keep up to date with news and events from The Frick Pittsburgh newsletter
+90	 The Frick Pittsburgh 7227 Reynolds St
+91	 Pittsburgh, PA 15208 Hours: Monday: Closed Tuesday-Sunday: Gardens and grounds open 8 AM-Dusk
+92	 View detailed hours 412-371-0600 info@thefrickpittsburgh
+93	org Contact Staff Media Inquiries Employment Rentals Partnership Programs Membership About Our Mission Annual Report & Strategic Plan Leadership Board of Trustees Trustee Portal Accessibility Equity Land Acknowledgement Press Releases Photo Policy Trustee Login The Frick legacy The Frick Family Historic Home & Gardens Copyright 2018 | The Frick Pittsburgh | Website by Blue Archer × Customer Login Enter your Username and Password to login to your account
+94	 Don't have an account? Contact Us! Forgot Password? × Forgot Password Enter your Username and Password to login to your account
+95	 Don't have an account? Contact Us! × My Account Enter your Username and Password to login to your account
+96	 Don't have an account? Contact Us!
+0	Visit Treasured Ornament For Free Free admission to Treasured Ornament is available for Allegheny County Library Card holders through The Allegheny County Regional Asset District's RAD Pass program at RadPass
+1	org 
+2	 Toggle navigation Blog Calendar Equity Membership Rentals Café Shop Donate Plan Your Visit Visit Hours & Admission Today at the Frick Directions & Transit Site Map Accessibility Tours Group Visits Field Trips Explore The Frick Plan Your Visit See and Do See and Do The Frick Grounds Today at the Frick Programs and Events Events By Age Group Make the most of your visit Plan Ahead Learn Learn For Educators Family Programs Workshops Adult Programs Summer Camps Outreach Explore from anywhere Virtual Museum Exhibitions Exhibitions Current Exhibitions Upcoming Exhibitions Past Exhibitions Virtual Exhibitions Now On View Treasured Ornament Collection Support Membership The Frick Societies Reciprocal Museums Donate Legacy Planning Gifts of Stock Qualified Charitable Distributions Corporate Giving EITC Our Supporters Tickets membership Home See and Do See and Do Customize Your Frick Experience With so much to see and do, every visit to the Frick can be different
+3	 Experience the culture and refinement of the Gilded Age in a beautiful setting no other museum in Pittsburgh can offer
+4	 
+5	 Overview The Frick Grounds Today at The Frick Programs and Events Events By Age Group Virtual Experiences Grable Visitor Center Start your visit here! Purchase tickets, shop, and learn about the Frick site
+6	 Learn More Clayton Immerse yourself in the restored home of the Frick family
+7	 Learn More The Frick Art Museum View stunning temporary exhibitions and our permanent collection
+8	 Learn More Car and Carriage Museum Explore the Frick's collection of turn of the 20th century cars and carriages
+9	 Learn More Greenhouse and Gardens Stroll the 10-acre campus and visit a working Greenhouse
+10	 Learn More Playhouse Imagine playing in your own personal playhouse, complete with bowling alley! Learn More The Café Enjoy a treat at The Café at the Frick Tuesday–Sunday, 9:30 AM–3 PM
+11	 Learn More Community Room The perfect venue for a meeting or small event
+12	 Learn More What's Happening at the Frick There’s always something going on at The Frick Pittsburgh
+13	 We offer a variety of inspiring programs and events for visitors of all ages
+14	 The Frick Pittsburgh Education Center 10/20/2024 12:00 PM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+15	 20, 2024
+16	 Learn More Check in at the Grable Visitor Center 11/23/2024 10:15 AM Home for the Holidays at Clayton Celebrate the season and take in the cheerful atmosphere of a home decked for the holidays on a specialty tour of Clayto
+17	
+18	
+19	 Learn More The Frick Art Museum 10/08/2024 10:00 AM Treasured Ornament: 10 Centuries of Islamic Art Featuring fine glassware, ceramics, metalwork, painting, weaving, and much more, Treasured Ornament evokes the rich hist
+20	
+21	
+22	 Learn More Check in at the Grable Visitor Center 10/08/2024 10:15 AM Signature Clayton Tour Experience: Gilded, Not Golden Immerse yourself in 1892, a pivotal year for our nation, Pittsburgh, and the Frick family
+23	 Learn More Car and Carriage Museum 10/09/2024 1:00 PM Car and Carriage Museum Guided Tour | 1 p
+24	m
+25	 Join a guided tour of the Car and Carriage Museum and explore the story of America's transition from carriage to car
+26	 Learn More Car and Carriage Museum 10/09/2024 3:00 PM Car and Carriage Museum Guided Tour | 3 p
+27	m
+28	 Join a guided tour of the Car and Carriage Museum and explore the story of America's transition from carriage to car
+29	 Learn More The Frick Art Museum 10/10/2024 2:00 PM Guided Exhibition Tours of Treasured Ornament: 10 Centuries of Islamic Art Join a guided tour of Treasured Ornament to explore diverse objects celebrating the everyday life, history and culture o
+30	
+31	
+32	 Learn More Frick Art Museum & Frick Pittsburgh Education Center 10/10/2024 6:30 PM Sip & Make: Artist Spotlight On October 10, 2024, visit The Frick Pittsburgh to Make art with Khadijat Yussuff (they/them), a Pittsburgh-based interd
+33	
+34	
+35	 Learn More The Frick Pittsburgh Education Center 10/11/2024 11:00 AM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+36	 11, 2024
+37	 Learn More The Frick Pittsburgh 10/17/2024 12:00 PM Site Tree Walk with Tree Pittsburgh On Thursday, October 17, join Tree Pittsburgh for a free tree walk through The Frick Pittsburgh's grounds
+38	 Learn More The Frick Art Museum Auditorium 10/19/2024 7:00 PM Resonance of Tradition: A Fusion of Islamic Art and Music Across the Ages Ten centuries of Islamic art meet the shimmering melodies of traditional Persian and Turkish music in this collaborative
+39	
+40	
+41	 Learn More The Frick Pittsburgh Education Center 10/20/2024 12:00 PM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+42	 20, 2024
+43	 Learn More Check in at the Grable Visitor Center 11/23/2024 10:15 AM Home for the Holidays at Clayton Celebrate the season and take in the cheerful atmosphere of a home decked for the holidays on a specialty tour of Clayto
+44	
+45	
+46	 Learn More The Frick Art Museum 10/08/2024 10:00 AM Treasured Ornament: 10 Centuries of Islamic Art Featuring fine glassware, ceramics, metalwork, painting, weaving, and much more, Treasured Ornament evokes the rich hist
+47	
+48	
+49	 Learn More Check in at the Grable Visitor Center 10/08/2024 10:15 AM Signature Clayton Tour Experience: Gilded, Not Golden Immerse yourself in 1892, a pivotal year for our nation, Pittsburgh, and the Frick family
+50	 Learn More Car and Carriage Museum 10/09/2024 1:00 PM Car and Carriage Museum Guided Tour | 1 p
+51	m
+52	 Join a guided tour of the Car and Carriage Museum and explore the story of America's transition from carriage to car
+53	 Learn More Car and Carriage Museum 10/09/2024 3:00 PM Car and Carriage Museum Guided Tour | 3 p
+54	m
+55	 Join a guided tour of the Car and Carriage Museum and explore the story of America's transition from carriage to car
+56	 Learn More The Frick Art Museum 10/10/2024 2:00 PM Guided Exhibition Tours of Treasured Ornament: 10 Centuries of Islamic Art Join a guided tour of Treasured Ornament to explore diverse objects celebrating the everyday life, history and culture o
+57	
+58	
+59	 Learn More Frick Art Museum & Frick Pittsburgh Education Center 10/10/2024 6:30 PM Sip & Make: Artist Spotlight On October 10, 2024, visit The Frick Pittsburgh to Make art with Khadijat Yussuff (they/them), a Pittsburgh-based interd
+60	
+61	
+62	 Learn More The Frick Pittsburgh Education Center 10/11/2024 11:00 AM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+63	 11, 2024
+64	 Learn More The Frick Pittsburgh 10/17/2024 12:00 PM Site Tree Walk with Tree Pittsburgh On Thursday, October 17, join Tree Pittsburgh for a free tree walk through The Frick Pittsburgh's grounds
+65	 Learn More The Frick Art Museum Auditorium 10/19/2024 7:00 PM Resonance of Tradition: A Fusion of Islamic Art and Music Across the Ages Ten centuries of Islamic art meet the shimmering melodies of traditional Persian and Turkish music in this collaborative
+66	
+67	
+68	 Learn More The Frick Pittsburgh Education Center 10/20/2024 12:00 PM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+69	 20, 2024
+70	 Learn More Check in at the Grable Visitor Center 11/23/2024 10:15 AM Home for the Holidays at Clayton Celebrate the season and take in the cheerful atmosphere of a home decked for the holidays on a specialty tour of Clayto
+71	
+72	
+73	 Learn More Programs and Events Explore the many exciting programs and events offered at the Frick, from lectures, to concerts and everything in between! View All Events Exhibition Programs The Frick offers a wide range of exhibition-related public programs for all ages
+74	 Learn More Special Events From exhibition openings to Summer Fridays, don't miss these special events
+75	 Learn More Lectures Attend a fascinating lecture by a leading scholar or expert
+76	 Learn More Music and Films Round out your cultural experience with music and films
+77	 Learn More Tours Enjoy a tour of Clayton or one of our museums
+78	 Learn More Workshops Get creative at a professionally-led workshop
+79	 Learn More Gallery Talks Learn more about an exhibition by attending a gallery talk
+80	 Learn More Exhibitions Explore world-class exhibitions covering a wide variety of cultural and artistic topics
+81	 Learn More Ticketed Buy your tickets in advance for these exhibitions, tours, events, and more
+82	 Learn More Free Enjoy member and donor supported free events and programs! Learn More Just for You The Frick is for everyone! Explore our in-person and virtual programs specially created for all ages
+83	 View All Events Adults Lectures, workshops, adult learning programs, and special events
+84	 Learn More Kids and Family Programs and events the entire family can enjoy
+85	 Learn More Online Programs and events you can enjoy virtually from anywhere
+86	 Learn More In-person Programs and events happening at The Frick Pittsburgh
+87	 Learn More Plan Ahead Make the Most of Your Visit Exhibitions Explore our museums for world-class permanent and temporary exhibitions Learn More Tours Enhance your experience with a docent-led tour Learn More The Café Enjoy a treat at The Café at the Frick Tuesday–Sunday, 9:30 AM–3 PM Learn More Store Visit the Museum Store for a unique and carefully curated selection of gifts Learn More Know Before You Go Familiarize yourself with the Frick's visitation guidelines and policies Learn More Accessibility We are committed to offering an inclusive experience for all visitors Learn More School Visits Let our staff personalize your school group visit Learn More Group Visits Get information on scheduling a customized group visit Learn More Visit our Virtual Museum Learn More @FrickPgh on Instagram Right now at the Frick It's free to visit The Frick Pittsburgh
+88	 Admission is required for Clayton tours and special exhibitions
+89	 Plan your visit Keep up to date with news and events from The Frick Pittsburgh newsletter
+90	 The Frick Pittsburgh 7227 Reynolds St
+91	 Pittsburgh, PA 15208 Hours: Monday: Closed Tuesday-Sunday: Gardens and grounds open 8 AM-Dusk
+92	 View detailed hours 412-371-0600 info@thefrickpittsburgh
+93	org Contact Staff Media Inquiries Employment Rentals Partnership Programs Membership About Our Mission Annual Report & Strategic Plan Leadership Board of Trustees Trustee Portal Accessibility Equity Land Acknowledgement Press Releases Photo Policy Trustee Login The Frick legacy The Frick Family Historic Home & Gardens Copyright 2018 | The Frick Pittsburgh | Website by Blue Archer × Customer Login Enter your Username and Password to login to your account
+94	 Don't have an account? Contact Us! Forgot Password? × Forgot Password Enter your Username and Password to login to your account
+95	 Don't have an account? Contact Us! × My Account Enter your Username and Password to login to your account
+96	 Don't have an account? Contact Us!
+0	Visit Treasured Ornament For Free Free admission to Treasured Ornament is available for Allegheny County Library Card holders through The Allegheny County Regional Asset District's RAD Pass program at RadPass
+1	org 
+2	 Toggle navigation Blog Calendar Equity Membership Rentals Café Shop Donate Plan Your Visit Visit Hours & Admission Today at the Frick Directions & Transit Site Map Accessibility Tours Group Visits Field Trips Explore The Frick Plan Your Visit See and Do See and Do The Frick Grounds Today at the Frick Programs and Events Events By Age Group Make the most of your visit Plan Ahead Learn Learn For Educators Family Programs Workshops Adult Programs Summer Camps Outreach Explore from anywhere Virtual Museum Exhibitions Exhibitions Current Exhibitions Upcoming Exhibitions Past Exhibitions Virtual Exhibitions Now On View Treasured Ornament Collection Support Membership The Frick Societies Reciprocal Museums Donate Legacy Planning Gifts of Stock Qualified Charitable Distributions Corporate Giving EITC Our Supporters Tickets membership Home See and Do See and Do Customize Your Frick Experience With so much to see and do, every visit to the Frick can be different
+3	 Experience the culture and refinement of the Gilded Age in a beautiful setting no other museum in Pittsburgh can offer
+4	 
+5	 Overview The Frick Grounds Today at The Frick Programs and Events Events By Age Group Virtual Experiences Grable Visitor Center Start your visit here! Purchase tickets, shop, and learn about the Frick site
+6	 Learn More Clayton Immerse yourself in the restored home of the Frick family
+7	 Learn More The Frick Art Museum View stunning temporary exhibitions and our permanent collection
+8	 Learn More Car and Carriage Museum Explore the Frick's collection of turn of the 20th century cars and carriages
+9	 Learn More Greenhouse and Gardens Stroll the 10-acre campus and visit a working Greenhouse
+10	 Learn More Playhouse Imagine playing in your own personal playhouse, complete with bowling alley! Learn More The Café Enjoy a treat at The Café at the Frick Tuesday–Sunday, 9:30 AM–3 PM
+11	 Learn More Community Room The perfect venue for a meeting or small event
+12	 Learn More What's Happening at the Frick There’s always something going on at The Frick Pittsburgh
+13	 We offer a variety of inspiring programs and events for visitors of all ages
+14	 The Frick Pittsburgh Education Center 10/20/2024 12:00 PM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+15	 20, 2024
+16	 Learn More Check in at the Grable Visitor Center 11/23/2024 10:15 AM Home for the Holidays at Clayton Celebrate the season and take in the cheerful atmosphere of a home decked for the holidays on a specialty tour of Clayto
+17	
+18	
+19	 Learn More The Frick Art Museum 10/08/2024 10:00 AM Treasured Ornament: 10 Centuries of Islamic Art Featuring fine glassware, ceramics, metalwork, painting, weaving, and much more, Treasured Ornament evokes the rich hist
+20	
+21	
+22	 Learn More Check in at the Grable Visitor Center 10/08/2024 10:15 AM Signature Clayton Tour Experience: Gilded, Not Golden Immerse yourself in 1892, a pivotal year for our nation, Pittsburgh, and the Frick family
+23	 Learn More Car and Carriage Museum 10/09/2024 1:00 PM Car and Carriage Museum Guided Tour | 1 p
+24	m
+25	 Join a guided tour of the Car and Carriage Museum and explore the story of America's transition from carriage to car
+26	 Learn More Car and Carriage Museum 10/09/2024 3:00 PM Car and Carriage Museum Guided Tour | 3 p
+27	m
+28	 Join a guided tour of the Car and Carriage Museum and explore the story of America's transition from carriage to car
+29	 Learn More The Frick Art Museum 10/10/2024 2:00 PM Guided Exhibition Tours of Treasured Ornament: 10 Centuries of Islamic Art Join a guided tour of Treasured Ornament to explore diverse objects celebrating the everyday life, history and culture o
+30	
+31	
+32	 Learn More Frick Art Museum & Frick Pittsburgh Education Center 10/10/2024 6:30 PM Sip & Make: Artist Spotlight On October 10, 2024, visit The Frick Pittsburgh to Make art with Khadijat Yussuff (they/them), a Pittsburgh-based interd
+33	
+34	
+35	 Learn More The Frick Pittsburgh Education Center 10/11/2024 11:00 AM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+36	 11, 2024
+37	 Learn More The Frick Pittsburgh 10/17/2024 12:00 PM Site Tree Walk with Tree Pittsburgh On Thursday, October 17, join Tree Pittsburgh for a free tree walk through The Frick Pittsburgh's grounds
+38	 Learn More The Frick Art Museum Auditorium 10/19/2024 7:00 PM Resonance of Tradition: A Fusion of Islamic Art and Music Across the Ages Ten centuries of Islamic art meet the shimmering melodies of traditional Persian and Turkish music in this collaborative
+39	
+40	
+41	 Learn More The Frick Pittsburgh Education Center 10/20/2024 12:00 PM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+42	 20, 2024
+43	 Learn More Check in at the Grable Visitor Center 11/23/2024 10:15 AM Home for the Holidays at Clayton Celebrate the season and take in the cheerful atmosphere of a home decked for the holidays on a specialty tour of Clayto
+44	
+45	
+46	 Learn More The Frick Art Museum 10/08/2024 10:00 AM Treasured Ornament: 10 Centuries of Islamic Art Featuring fine glassware, ceramics, metalwork, painting, weaving, and much more, Treasured Ornament evokes the rich hist
+47	
+48	
+49	 Learn More Check in at the Grable Visitor Center 10/08/2024 10:15 AM Signature Clayton Tour Experience: Gilded, Not Golden Immerse yourself in 1892, a pivotal year for our nation, Pittsburgh, and the Frick family
+50	 Learn More Car and Carriage Museum 10/09/2024 1:00 PM Car and Carriage Museum Guided Tour | 1 p
+51	m
+52	 Join a guided tour of the Car and Carriage Museum and explore the story of America's transition from carriage to car
+53	 Learn More Car and Carriage Museum 10/09/2024 3:00 PM Car and Carriage Museum Guided Tour | 3 p
+54	m
+55	 Join a guided tour of the Car and Carriage Museum and explore the story of America's transition from carriage to car
+56	 Learn More The Frick Art Museum 10/10/2024 2:00 PM Guided Exhibition Tours of Treasured Ornament: 10 Centuries of Islamic Art Join a guided tour of Treasured Ornament to explore diverse objects celebrating the everyday life, history and culture o
+57	
+58	
+59	 Learn More Frick Art Museum & Frick Pittsburgh Education Center 10/10/2024 6:30 PM Sip & Make: Artist Spotlight On October 10, 2024, visit The Frick Pittsburgh to Make art with Khadijat Yussuff (they/them), a Pittsburgh-based interd
+60	
+61	
+62	 Learn More The Frick Pittsburgh Education Center 10/11/2024 11:00 AM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+63	 11, 2024
+64	 Learn More The Frick Pittsburgh 10/17/2024 12:00 PM Site Tree Walk with Tree Pittsburgh On Thursday, October 17, join Tree Pittsburgh for a free tree walk through The Frick Pittsburgh's grounds
+65	 Learn More The Frick Art Museum Auditorium 10/19/2024 7:00 PM Resonance of Tradition: A Fusion of Islamic Art and Music Across the Ages Ten centuries of Islamic art meet the shimmering melodies of traditional Persian and Turkish music in this collaborative
+66	
+67	
+68	 Learn More The Frick Pittsburgh Education Center 10/20/2024 12:00 PM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+69	 20, 2024
+70	 Learn More Check in at the Grable Visitor Center 11/23/2024 10:15 AM Home for the Holidays at Clayton Celebrate the season and take in the cheerful atmosphere of a home decked for the holidays on a specialty tour of Clayto
+71	
+72	
+73	 Learn More Programs and Events Explore the many exciting programs and events offered at the Frick, from lectures, to concerts and everything in between! View All Events Exhibition Programs The Frick offers a wide range of exhibition-related public programs for all ages
+74	 Learn More Special Events From exhibition openings to Summer Fridays, don't miss these special events
+75	 Learn More Lectures Attend a fascinating lecture by a leading scholar or expert
+76	 Learn More Music and Films Round out your cultural experience with music and films
+77	 Learn More Tours Enjoy a tour of Clayton or one of our museums
+78	 Learn More Workshops Get creative at a professionally-led workshop
+79	 Learn More Gallery Talks Learn more about an exhibition by attending a gallery talk
+80	 Learn More Exhibitions Explore world-class exhibitions covering a wide variety of cultural and artistic topics
+81	 Learn More Ticketed Buy your tickets in advance for these exhibitions, tours, events, and more
+82	 Learn More Free Enjoy member and donor supported free events and programs! Learn More Just for You The Frick is for everyone! Explore our in-person and virtual programs specially created for all ages
+83	 View All Events Adults Lectures, workshops, adult learning programs, and special events
+84	 Learn More Kids and Family Programs and events the entire family can enjoy
+85	 Learn More Online Programs and events you can enjoy virtually from anywhere
+86	 Learn More In-person Programs and events happening at The Frick Pittsburgh
+87	 Learn More Plan Ahead Make the Most of Your Visit Exhibitions Explore our museums for world-class permanent and temporary exhibitions Learn More Tours Enhance your experience with a docent-led tour Learn More The Café Enjoy a treat at The Café at the Frick Tuesday–Sunday, 9:30 AM–3 PM Learn More Store Visit the Museum Store for a unique and carefully curated selection of gifts Learn More Know Before You Go Familiarize yourself with the Frick's visitation guidelines and policies Learn More Accessibility We are committed to offering an inclusive experience for all visitors Learn More School Visits Let our staff personalize your school group visit Learn More Group Visits Get information on scheduling a customized group visit Learn More Visit our Virtual Museum Learn More @FrickPgh on Instagram Right now at the Frick It's free to visit The Frick Pittsburgh
+88	 Admission is required for Clayton tours and special exhibitions
+89	 Plan your visit Keep up to date with news and events from The Frick Pittsburgh newsletter
+90	 The Frick Pittsburgh 7227 Reynolds St
+91	 Pittsburgh, PA 15208 Hours: Monday: Closed Tuesday-Sunday: Gardens and grounds open 8 AM-Dusk
+92	 View detailed hours 412-371-0600 info@thefrickpittsburgh
+93	org Contact Staff Media Inquiries Employment Rentals Partnership Programs Membership About Our Mission Annual Report & Strategic Plan Leadership Board of Trustees Trustee Portal Accessibility Equity Land Acknowledgement Press Releases Photo Policy Trustee Login The Frick legacy The Frick Family Historic Home & Gardens Copyright 2018 | The Frick Pittsburgh | Website by Blue Archer × Customer Login Enter your Username and Password to login to your account
+94	 Don't have an account? Contact Us! Forgot Password? × Forgot Password Enter your Username and Password to login to your account
+95	 Don't have an account? Contact Us! × My Account Enter your Username and Password to login to your account
+96	 Don't have an account? Contact Us!
+0	Visit Treasured Ornament For Free Free admission to Treasured Ornament is available for Allegheny County Library Card holders through The Allegheny County Regional Asset District's RAD Pass program at RadPass
+1	org 
+2	 Toggle navigation Blog Calendar Equity Membership Rentals Café Shop Donate Plan Your Visit Visit Hours & Admission Today at the Frick Directions & Transit Site Map Accessibility Tours Group Visits Field Trips Explore The Frick Plan Your Visit See and Do See and Do The Frick Grounds Today at the Frick Programs and Events Events By Age Group Make the most of your visit Plan Ahead Learn Learn For Educators Family Programs Workshops Adult Programs Summer Camps Outreach Explore from anywhere Virtual Museum Exhibitions Exhibitions Current Exhibitions Upcoming Exhibitions Past Exhibitions Virtual Exhibitions Now On View Treasured Ornament Collection Support Membership The Frick Societies Reciprocal Museums Donate Legacy Planning Gifts of Stock Qualified Charitable Distributions Corporate Giving EITC Our Supporters Tickets membership Home See and Do See and Do Customize Your Frick Experience With so much to see and do, every visit to the Frick can be different
+3	 Experience the culture and refinement of the Gilded Age in a beautiful setting no other museum in Pittsburgh can offer
+4	 
+5	 Overview The Frick Grounds Today at The Frick Programs and Events Events By Age Group Virtual Experiences Grable Visitor Center Start your visit here! Purchase tickets, shop, and learn about the Frick site
+6	 Learn More Clayton Immerse yourself in the restored home of the Frick family
+7	 Learn More The Frick Art Museum View stunning temporary exhibitions and our permanent collection
+8	 Learn More Car and Carriage Museum Explore the Frick's collection of turn of the 20th century cars and carriages
+9	 Learn More Greenhouse and Gardens Stroll the 10-acre campus and visit a working Greenhouse
+10	 Learn More Playhouse Imagine playing in your own personal playhouse, complete with bowling alley! Learn More The Café Enjoy a treat at The Café at the Frick Tuesday–Sunday, 9:30 AM–3 PM
+11	 Learn More Community Room The perfect venue for a meeting or small event
+12	 Learn More What's Happening at the Frick There’s always something going on at The Frick Pittsburgh
+13	 We offer a variety of inspiring programs and events for visitors of all ages
+14	 The Frick Pittsburgh Education Center 10/20/2024 12:00 PM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+15	 20, 2024
+16	 Learn More Check in at the Grable Visitor Center 11/23/2024 10:15 AM Home for the Holidays at Clayton Celebrate the season and take in the cheerful atmosphere of a home decked for the holidays on a specialty tour of Clayto
+17	
+18	
+19	 Learn More The Frick Art Museum 10/08/2024 10:00 AM Treasured Ornament: 10 Centuries of Islamic Art Featuring fine glassware, ceramics, metalwork, painting, weaving, and much more, Treasured Ornament evokes the rich hist
+20	
+21	
+22	 Learn More Check in at the Grable Visitor Center 10/08/2024 10:15 AM Signature Clayton Tour Experience: Gilded, Not Golden Immerse yourself in 1892, a pivotal year for our nation, Pittsburgh, and the Frick family
+23	 Learn More Car and Carriage Museum 10/09/2024 1:00 PM Car and Carriage Museum Guided Tour | 1 p
+24	m
+25	 Join a guided tour of the Car and Carriage Museum and explore the story of America's transition from carriage to car
+26	 Learn More Car and Carriage Museum 10/09/2024 3:00 PM Car and Carriage Museum Guided Tour | 3 p
+27	m
+28	 Join a guided tour of the Car and Carriage Museum and explore the story of America's transition from carriage to car
+29	 Learn More The Frick Art Museum 10/10/2024 2:00 PM Guided Exhibition Tours of Treasured Ornament: 10 Centuries of Islamic Art Join a guided tour of Treasured Ornament to explore diverse objects celebrating the everyday life, history and culture o
+30	
+31	
+32	 Learn More Frick Art Museum & Frick Pittsburgh Education Center 10/10/2024 6:30 PM Sip & Make: Artist Spotlight On October 10, 2024, visit The Frick Pittsburgh to Make art with Khadijat Yussuff (they/them), a Pittsburgh-based interd
+33	
+34	
+35	 Learn More The Frick Pittsburgh Education Center 10/11/2024 11:00 AM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+36	 11, 2024
+37	 Learn More The Frick Pittsburgh 10/17/2024 12:00 PM Site Tree Walk with Tree Pittsburgh On Thursday, October 17, join Tree Pittsburgh for a free tree walk through The Frick Pittsburgh's grounds
+38	 Learn More The Frick Art Museum Auditorium 10/19/2024 7:00 PM Resonance of Tradition: A Fusion of Islamic Art and Music Across the Ages Ten centuries of Islamic art meet the shimmering melodies of traditional Persian and Turkish music in this collaborative
+39	
+40	
+41	 Learn More The Frick Pittsburgh Education Center 10/20/2024 12:00 PM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+42	 20, 2024
+43	 Learn More Check in at the Grable Visitor Center 11/23/2024 10:15 AM Home for the Holidays at Clayton Celebrate the season and take in the cheerful atmosphere of a home decked for the holidays on a specialty tour of Clayto
+44	
+45	
+46	 Learn More The Frick Art Museum 10/08/2024 10:00 AM Treasured Ornament: 10 Centuries of Islamic Art Featuring fine glassware, ceramics, metalwork, painting, weaving, and much more, Treasured Ornament evokes the rich hist
+47	
+48	
+49	 Learn More Check in at the Grable Visitor Center 10/08/2024 10:15 AM Signature Clayton Tour Experience: Gilded, Not Golden Immerse yourself in 1892, a pivotal year for our nation, Pittsburgh, and the Frick family
+50	 Learn More Car and Carriage Museum 10/09/2024 1:00 PM Car and Carriage Museum Guided Tour | 1 p
+51	m
+52	 Join a guided tour of the Car and Carriage Museum and explore the story of America's transition from carriage to car
+53	 Learn More Car and Carriage Museum 10/09/2024 3:00 PM Car and Carriage Museum Guided Tour | 3 p
+54	m
+55	 Join a guided tour of the Car and Carriage Museum and explore the story of America's transition from carriage to car
+56	 Learn More The Frick Art Museum 10/10/2024 2:00 PM Guided Exhibition Tours of Treasured Ornament: 10 Centuries of Islamic Art Join a guided tour of Treasured Ornament to explore diverse objects celebrating the everyday life, history and culture o
+57	
+58	
+59	 Learn More Frick Art Museum & Frick Pittsburgh Education Center 10/10/2024 6:30 PM Sip & Make: Artist Spotlight On October 10, 2024, visit The Frick Pittsburgh to Make art with Khadijat Yussuff (they/them), a Pittsburgh-based interd
+60	
+61	
+62	 Learn More The Frick Pittsburgh Education Center 10/11/2024 11:00 AM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+63	 11, 2024
+64	 Learn More The Frick Pittsburgh 10/17/2024 12:00 PM Site Tree Walk with Tree Pittsburgh On Thursday, October 17, join Tree Pittsburgh for a free tree walk through The Frick Pittsburgh's grounds
+65	 Learn More The Frick Art Museum Auditorium 10/19/2024 7:00 PM Resonance of Tradition: A Fusion of Islamic Art and Music Across the Ages Ten centuries of Islamic art meet the shimmering melodies of traditional Persian and Turkish music in this collaborative
+66	
+67	
+68	 Learn More The Frick Pittsburgh Education Center 10/20/2024 12:00 PM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+69	 20, 2024
+70	 Learn More Check in at the Grable Visitor Center 11/23/2024 10:15 AM Home for the Holidays at Clayton Celebrate the season and take in the cheerful atmosphere of a home decked for the holidays on a specialty tour of Clayto
+71	
+72	
+73	 Learn More Programs and Events Explore the many exciting programs and events offered at the Frick, from lectures, to concerts and everything in between! View All Events Exhibition Programs The Frick offers a wide range of exhibition-related public programs for all ages
+74	 Learn More Special Events From exhibition openings to Summer Fridays, don't miss these special events
+75	 Learn More Lectures Attend a fascinating lecture by a leading scholar or expert
+76	 Learn More Music and Films Round out your cultural experience with music and films
+77	 Learn More Tours Enjoy a tour of Clayton or one of our museums
+78	 Learn More Workshops Get creative at a professionally-led workshop
+79	 Learn More Gallery Talks Learn more about an exhibition by attending a gallery talk
+80	 Learn More Exhibitions Explore world-class exhibitions covering a wide variety of cultural and artistic topics
+81	 Learn More Ticketed Buy your tickets in advance for these exhibitions, tours, events, and more
+82	 Learn More Free Enjoy member and donor supported free events and programs! Learn More Just for You The Frick is for everyone! Explore our in-person and virtual programs specially created for all ages
+83	 View All Events Adults Lectures, workshops, adult learning programs, and special events
+84	 Learn More Kids and Family Programs and events the entire family can enjoy
+85	 Learn More Online Programs and events you can enjoy virtually from anywhere
+86	 Learn More In-person Programs and events happening at The Frick Pittsburgh
+87	 Learn More Plan Ahead Make the Most of Your Visit Exhibitions Explore our museums for world-class permanent and temporary exhibitions Learn More Tours Enhance your experience with a docent-led tour Learn More The Café Enjoy a treat at The Café at the Frick Tuesday–Sunday, 9:30 AM–3 PM Learn More Store Visit the Museum Store for a unique and carefully curated selection of gifts Learn More Know Before You Go Familiarize yourself with the Frick's visitation guidelines and policies Learn More Accessibility We are committed to offering an inclusive experience for all visitors Learn More School Visits Let our staff personalize your school group visit Learn More Group Visits Get information on scheduling a customized group visit Learn More Visit our Virtual Museum Learn More @FrickPgh on Instagram Right now at the Frick It's free to visit The Frick Pittsburgh
+88	 Admission is required for Clayton tours and special exhibitions
+89	 Plan your visit Keep up to date with news and events from The Frick Pittsburgh newsletter
+90	 The Frick Pittsburgh 7227 Reynolds St
+91	 Pittsburgh, PA 15208 Hours: Monday: Closed Tuesday-Sunday: Gardens and grounds open 8 AM-Dusk
+92	 View detailed hours 412-371-0600 info@thefrickpittsburgh
+93	org Contact Staff Media Inquiries Employment Rentals Partnership Programs Membership About Our Mission Annual Report & Strategic Plan Leadership Board of Trustees Trustee Portal Accessibility Equity Land Acknowledgement Press Releases Photo Policy Trustee Login The Frick legacy The Frick Family Historic Home & Gardens Copyright 2018 | The Frick Pittsburgh | Website by Blue Archer × Customer Login Enter your Username and Password to login to your account
+94	 Don't have an account? Contact Us! Forgot Password? × Forgot Password Enter your Username and Password to login to your account
+95	 Don't have an account? Contact Us! × My Account Enter your Username and Password to login to your account
+96	 Don't have an account? Contact Us!
+0	Visit Treasured Ornament For Free Free admission to Treasured Ornament is available for Allegheny County Library Card holders through The Allegheny County Regional Asset District's RAD Pass program at RadPass
+1	org 
+2	 Toggle navigation Blog Calendar Equity Membership Rentals Café Shop Donate Plan Your Visit Visit Hours & Admission Today at the Frick Directions & Transit Site Map Accessibility Tours Group Visits Field Trips Explore The Frick Plan Your Visit See and Do See and Do The Frick Grounds Today at the Frick Programs and Events Events By Age Group Make the most of your visit Plan Ahead Learn Learn For Educators Family Programs Workshops Adult Programs Summer Camps Outreach Explore from anywhere Virtual Museum Exhibitions Exhibitions Current Exhibitions Upcoming Exhibitions Past Exhibitions Virtual Exhibitions Now On View Treasured Ornament Collection Support Membership The Frick Societies Reciprocal Museums Donate Legacy Planning Gifts of Stock Qualified Charitable Distributions Corporate Giving EITC Our Supporters Tickets membership Home See and Do See and Do Customize Your Frick Experience With so much to see and do, every visit to the Frick can be different
+3	 Experience the culture and refinement of the Gilded Age in a beautiful setting no other museum in Pittsburgh can offer
+4	 
+5	 Overview The Frick Grounds Today at The Frick Programs and Events Events By Age Group Virtual Experiences Grable Visitor Center Start your visit here! Purchase tickets, shop, and learn about the Frick site
+6	 Learn More Clayton Immerse yourself in the restored home of the Frick family
+7	 Learn More The Frick Art Museum View stunning temporary exhibitions and our permanent collection
+8	 Learn More Car and Carriage Museum Explore the Frick's collection of turn of the 20th century cars and carriages
+9	 Learn More Greenhouse and Gardens Stroll the 10-acre campus and visit a working Greenhouse
+10	 Learn More Playhouse Imagine playing in your own personal playhouse, complete with bowling alley! Learn More The Café Enjoy a treat at The Café at the Frick Tuesday–Sunday, 9:30 AM–3 PM
+11	 Learn More Community Room The perfect venue for a meeting or small event
+12	 Learn More What's Happening at the Frick There’s always something going on at The Frick Pittsburgh
+13	 We offer a variety of inspiring programs and events for visitors of all ages
+14	 The Frick Pittsburgh Education Center 10/20/2024 12:00 PM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+15	 20, 2024
+16	 Learn More Check in at the Grable Visitor Center 11/23/2024 10:15 AM Home for the Holidays at Clayton Celebrate the season and take in the cheerful atmosphere of a home decked for the holidays on a specialty tour of Clayto
+17	
+18	
+19	 Learn More The Frick Art Museum 10/08/2024 10:00 AM Treasured Ornament: 10 Centuries of Islamic Art Featuring fine glassware, ceramics, metalwork, painting, weaving, and much more, Treasured Ornament evokes the rich hist
+20	
+21	
+22	 Learn More Check in at the Grable Visitor Center 10/08/2024 10:15 AM Signature Clayton Tour Experience: Gilded, Not Golden Immerse yourself in 1892, a pivotal year for our nation, Pittsburgh, and the Frick family
+23	 Learn More Car and Carriage Museum 10/09/2024 1:00 PM Car and Carriage Museum Guided Tour | 1 p
+24	m
+25	 Join a guided tour of the Car and Carriage Museum and explore the story of America's transition from carriage to car
+26	 Learn More Car and Carriage Museum 10/09/2024 3:00 PM Car and Carriage Museum Guided Tour | 3 p
+27	m
+28	 Join a guided tour of the Car and Carriage Museum and explore the story of America's transition from carriage to car
+29	 Learn More The Frick Art Museum 10/10/2024 2:00 PM Guided Exhibition Tours of Treasured Ornament: 10 Centuries of Islamic Art Join a guided tour of Treasured Ornament to explore diverse objects celebrating the everyday life, history and culture o
+30	
+31	
+32	 Learn More Frick Art Museum & Frick Pittsburgh Education Center 10/10/2024 6:30 PM Sip & Make: Artist Spotlight On October 10, 2024, visit The Frick Pittsburgh to Make art with Khadijat Yussuff (they/them), a Pittsburgh-based interd
+33	
+34	
+35	 Learn More The Frick Pittsburgh Education Center 10/11/2024 11:00 AM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+36	 11, 2024
+37	 Learn More The Frick Pittsburgh 10/17/2024 12:00 PM Site Tree Walk with Tree Pittsburgh On Thursday, October 17, join Tree Pittsburgh for a free tree walk through The Frick Pittsburgh's grounds
+38	 Learn More The Frick Art Museum Auditorium 10/19/2024 7:00 PM Resonance of Tradition: A Fusion of Islamic Art and Music Across the Ages Ten centuries of Islamic art meet the shimmering melodies of traditional Persian and Turkish music in this collaborative
+39	
+40	
+41	 Learn More The Frick Pittsburgh Education Center 10/20/2024 12:00 PM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+42	 20, 2024
+43	 Learn More Check in at the Grable Visitor Center 11/23/2024 10:15 AM Home for the Holidays at Clayton Celebrate the season and take in the cheerful atmosphere of a home decked for the holidays on a specialty tour of Clayto
+44	
+45	
+46	 Learn More The Frick Art Museum 10/08/2024 10:00 AM Treasured Ornament: 10 Centuries of Islamic Art Featuring fine glassware, ceramics, metalwork, painting, weaving, and much more, Treasured Ornament evokes the rich hist
+47	
+48	
+49	 Learn More Check in at the Grable Visitor Center 10/08/2024 10:15 AM Signature Clayton Tour Experience: Gilded, Not Golden Immerse yourself in 1892, a pivotal year for our nation, Pittsburgh, and the Frick family
+50	 Learn More Car and Carriage Museum 10/09/2024 1:00 PM Car and Carriage Museum Guided Tour | 1 p
+51	m
+52	 Join a guided tour of the Car and Carriage Museum and explore the story of America's transition from carriage to car
+53	 Learn More Car and Carriage Museum 10/09/2024 3:00 PM Car and Carriage Museum Guided Tour | 3 p
+54	m
+55	 Join a guided tour of the Car and Carriage Museum and explore the story of America's transition from carriage to car
+56	 Learn More The Frick Art Museum 10/10/2024 2:00 PM Guided Exhibition Tours of Treasured Ornament: 10 Centuries of Islamic Art Join a guided tour of Treasured Ornament to explore diverse objects celebrating the everyday life, history and culture o
+57	
+58	
+59	 Learn More Frick Art Museum & Frick Pittsburgh Education Center 10/10/2024 6:30 PM Sip & Make: Artist Spotlight On October 10, 2024, visit The Frick Pittsburgh to Make art with Khadijat Yussuff (they/them), a Pittsburgh-based interd
+60	
+61	
+62	 Learn More The Frick Pittsburgh Education Center 10/11/2024 11:00 AM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+63	 11, 2024
+64	 Learn More The Frick Pittsburgh 10/17/2024 12:00 PM Site Tree Walk with Tree Pittsburgh On Thursday, October 17, join Tree Pittsburgh for a free tree walk through The Frick Pittsburgh's grounds
+65	 Learn More The Frick Art Museum Auditorium 10/19/2024 7:00 PM Resonance of Tradition: A Fusion of Islamic Art and Music Across the Ages Ten centuries of Islamic art meet the shimmering melodies of traditional Persian and Turkish music in this collaborative
+66	
+67	
+68	 Learn More The Frick Pittsburgh Education Center 10/20/2024 12:00 PM Artist Educator-in-Residence Open Studio Day Join Khadijat Yussuff, the Frick's current Artist Educator-in-Residence, for open studio days! Drop by on Oct
+69	 20, 2024
+70	 Learn More Check in at the Grable Visitor Center 11/23/2024 10:15 AM Home for the Holidays at Clayton Celebrate the season and take in the cheerful atmosphere of a home decked for the holidays on a specialty tour of Clayto
+71	
+72	
+73	 Learn More Programs and Events Explore the many exciting programs and events offered at the Frick, from lectures, to concerts and everything in between! View All Events Exhibition Programs The Frick offers a wide range of exhibition-related public programs for all ages
+74	 Learn More Special Events From exhibition openings to Summer Fridays, don't miss these special events
+75	 Learn More Lectures Attend a fascinating lecture by a leading scholar or expert
+76	 Learn More Music and Films Round out your cultural experience with music and films
+77	 Learn More Tours Enjoy a tour of Clayton or one of our museums
+78	 Learn More Workshops Get creative at a professionally-led workshop
+79	 Learn More Gallery Talks Learn more about an exhibition by attending a gallery talk
+80	 Learn More Exhibitions Explore world-class exhibitions covering a wide variety of cultural and artistic topics
+81	 Learn More Ticketed Buy your tickets in advance for these exhibitions, tours, events, and more
+82	 Learn More Free Enjoy member and donor supported free events and programs! Learn More Just for You The Frick is for everyone! Explore our in-person and virtual programs specially created for all ages
+83	 View All Events Adults Lectures, workshops, adult learning programs, and special events
+84	 Learn More Kids and Family Programs and events the entire family can enjoy
+85	 Learn More Online Programs and events you can enjoy virtually from anywhere
+86	 Learn More In-person Programs and events happening at The Frick Pittsburgh
+87	 Learn More Plan Ahead Make the Most of Your Visit Exhibitions Explore our museums for world-class permanent and temporary exhibitions Learn More Tours Enhance your experience with a docent-led tour Learn More The Café Enjoy a treat at The Café at the Frick Tuesday–Sunday, 9:30 AM–3 PM Learn More Store Visit the Museum Store for a unique and carefully curated selection of gifts Learn More Know Before You Go Familiarize yourself with the Frick's visitation guidelines and policies Learn More Accessibility We are committed to offering an inclusive experience for all visitors Learn More School Visits Let our staff personalize your school group visit Learn More Group Visits Get information on scheduling a customized group visit Learn More Visit our Virtual Museum Learn More @FrickPgh on Instagram Right now at the Frick It's free to visit The Frick Pittsburgh
+88	 Admission is required for Clayton tours and special exhibitions
+89	 Plan your visit Keep up to date with news and events from The Frick Pittsburgh newsletter
+90	 The Frick Pittsburgh 7227 Reynolds St
+91	 Pittsburgh, PA 15208 Hours: Monday: Closed Tuesday-Sunday: Gardens and grounds open 8 AM-Dusk
+92	 View detailed hours 412-371-0600 info@thefrickpittsburgh
+93	org Contact Staff Media Inquiries Employment Rentals Partnership Programs Membership About Our Mission Annual Report & Strategic Plan Leadership Board of Trustees Trustee Portal Accessibility Equity Land Acknowledgement Press Releases Photo Policy Trustee Login The Frick legacy The Frick Family Historic Home & Gardens Copyright 2018 | The Frick Pittsburgh | Website by Blue Archer × Customer Login Enter your Username and Password to login to your account
+94	 Don't have an account? Contact Us! Forgot Password? × Forgot Password Enter your Username and Password to login to your account
+95	 Don't have an account? Contact Us! × My Account Enter your Username and Password to login to your account
+96	 Don't have an account? Contact Us!

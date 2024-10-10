@@ -1,0 +1,9 @@
+0	Accessibility Accessibility Accessibility at Carnegie Museums Our museums welcome all visitors
+1	 We work to assist visitors with disabilities in obtaining reasonable and appropriate accommodations, and in supporting equal access to our websites, services, programs, and activities
+2	 Please note that requests for accommodations at our museums should be made at least two weeks prior to your visit
+3	 For specific questions about wheelchairs, strollers, or other programmatic or equipment needs, see Visitor Services at the museum information desk or email visitorservices@carnegiemuseums
+4	org , or call (412) 622-3131
+5	 The four Carnegie Museums are committed to keeping their websites compliant with the Americans with Disabilities Act
+6	 We welcome any feedback on how to improve our sites’ accessibility for all users, and we strive to develop websites that are accessible to all
+7	 For policy details, read the Carnegie Museums of Pittsburgh Notification/Resolution Procedure 
+8	 To learn about special programs and equipment accommodations at each facility, please visit our museums’ accessibility pages: Carnegie Museums of Art and Natural History Carnegie Science Center The Andy Warhol Museum

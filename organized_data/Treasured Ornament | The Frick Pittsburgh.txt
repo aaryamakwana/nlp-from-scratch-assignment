@@ -1,0 +1,432 @@
+0	Visit Treasured Ornament For Free Free admission to Treasured Ornament is available for Allegheny County Library Card holders through The Allegheny County Regional Asset District's RAD Pass program at RadPass
+1	org 
+2	 Toggle navigation Blog Calendar Equity Membership Rentals Café Shop Donate Plan Your Visit Visit Hours & Admission Today at the Frick Directions & Transit Site Map Accessibility Tours Group Visits Field Trips Explore The Frick Plan Your Visit See and Do See and Do The Frick Grounds Today at the Frick Programs and Events Events By Age Group Make the most of your visit Plan Ahead Learn Learn For Educators Family Programs Workshops Adult Programs Summer Camps Outreach Explore from anywhere Virtual Museum Exhibitions Exhibitions Current Exhibitions Upcoming Exhibitions Past Exhibitions Virtual Exhibitions Now On View Treasured Ornament Collection Support Membership The Frick Societies Reciprocal Museums Donate Legacy Planning Gifts of Stock Qualified Charitable Distributions Corporate Giving EITC Our Supporters Home Exhibitions Treasured Ornament: 10 Centuries of Islamic Art Treasured Ornament 10 Centuries of Islamic Art Tickets Now On Sale! Treasured Ornament: 10 Centuries of Islamic Art illuminates the expertly crafted and exquisitely ornate objects that anchored everyday life in Muslim civilizations in Southwest Asia, Northern Africa, and beyond, including Iran, Egypt, India, Syria, and Turkey
+3	 Featuring fine glassware, ceramics, metalwork, painting, weaving, and much more, Treasured Ornament evokes the rich history of the Islamic world, and the shared human experiences that bind us, transcending borders and boundaries
+4	 WQED's Voice of the Arts Chief Curator and Director of Collections, Dawn Brean, and Director of Learning and Visitor Experience, Amanda Gillen, spoke with WQED's Emily Brunner about Treasured Ornament and the unique exhibition programming coming to the Frick this autumn 
+5	 Treasured Ornament Resources Enhance your Treasured Ornament experience by taking a deeper dive into the art, themes, and history of the exhibition
+6	 Visit our resources page for more information about further reading, interactive maps, and exhibition texts
+7	 Visit The Resources Page Acknowledgements The Pittsburgh presentation is a collaborative institutional effort led by Dawn Brean, chief curator and director of collections along with Lauryn Smith, assistant curator; Morgan Lawrence, manager of collections and exhibitions; Bella Hanley, collections and exhibitions assistant; and Christina Cichra, collections technician
+8	 The exhibition was curated by Christopher Hatten and based on research published in the accompanying catalogue written by Walter B
+9	 Denny, Distinguished Professor of the History of Art and Architecture at the University of Massachusetts Amherst, and Sue D'Auria, former associate curator at the Huntington Museum of Art
+10	 Glenna Barlow, Curator of Education at the Columbia Museum of Art in South Carolina, generously shared the interpretive plan, didactics, and labels from CMA's 2023 presentation of the exhibition
+11	 The Frick is grateful to Sahar S
+12	 Hosseini, PhD, Assistant Professor of the History of Art and Architecture and Yasmine Flodin-Ali, PhD, Assistant Professor of Modern Islam and Race in the Department of Religious Studies, both at the University of Pittsburgh, for reviewing and refining the exhibition texts for the Frick Pittsburgh's display
+13	 Thank you to the partners, performers, and artists making our exhibition programming possible: Luqmon Abdus-Salaam, Benjamin Aysan, Carpe Diem String Quartet, Jim Cunningham, Fann Club at the University of Pittsburgh, Chad Hunter and the Pittsburgh Silent Film Society, Ishtar Vintage Bellydance Band, Mahtab Nadalian, Dr
+14	 Dariush Saghafi, Serap Uzunoglu, Reza Vali, and Khadijat Yussuf
+15	 Browse the calendar of upcoming exhibition events here 
+16	 Thank you to the talented team of art handlers who installed the exhibition: Scott Hunter, Duncan MacDiarmid, Kate Pirilla, and Briget Shield
+17	 Additional thanks to EngineHouse, Markantone Painting, and graphic designer Jennie Denton for helping to transform the galleries
+18	 Additional thanks are due to our colleagues at the Aga Khan Museum (Toronto) for leading a Frick all-staff learning opportunity on the exhibition's context and themes
+19	 Program Information Treasured Ornament: 10 Centuries of Islamic Art Dates: August 17, 2024 - October 20, 2024 Location: Frick Art Museum Admission: Experience Treasured Ornament from August 17 through October 20, 2024
+20	 Tickets are not timed
+21	 You may enter the exhibition at any time between 10:00 a
+22	m
+23	 and 4:00 p
+24	m
+25	 during the day of your ticket
+26	 Members: Free General Admission: $15 Seniors 65+, Students w/ ID, Military/Veterans, Adults w/ Disabilities, Teachers: $12 Museums for All (EBT): $1 Youth 17 & under:$5 Free admission to Treasured Ornament is available for Allegheny County library card holders through RAD Pass at radpass
+27	org 
+28	 Get Tickets Members are encouraged to call the Members Hotline at 412-342-4086 Share this event series: Treasured Ornament: 10 Centuries of Islamic Art is organized by the Huntington Museum of Art and is toured by International Arts & Artists, Washington, DC
+29	 Treasured Ornament: 10 Centuries of Islamic Art is made possible in part by the generous support of Kirk J
+30	 Johnson and Henry W
+31	 Krakovsky, Jr
+32	 Gallery Browse through a selection of  pieces on display in Treasured Ornament: 10 Centuries of Islamic Art 
+33	 (Header) Iran, Tile , 14th century, underglaze-painted fritware
+34	 Gift of Drs
+35	 Joseph B
+36	 and Omayma Tourma
+37	 Huntington Museum of Art (West Virginia)
+38	 Iran, Qajar, Helmet , 1850-1900, steel damascened with gold and silver
+39	 Gift of Drs
+40	 Joseph and Omayma Touma and family
+41	 Egypt or Syria, Bowl , 19th century, brass with silver and copper inlay
+42	 Gift of Drs
+43	 Joseph and Omayma Touma and family
+44	 Iran, Qajar, Covered Vessel , c
+45	 1860, brass
+46	 Gift of Drs
+47	 Joseph B
+48	 and Omayma Touma
+49	 Iran, Vessel , 11th -12th century, glass
+50	 Gift of Drs
+51	 Joseph B
+52	 and Omayma Touma
+53	 Filippo Bartolini, Preparing for Prayer , c
+54	 1875, watercolor on paper
+55	 Gift of Drs
+56	 Joseph B
+57	 and Omayma Touma
+58	 Iran, Celestial Globe , 19th century, brass
+59	 Gift of Drs
+60	 Joseph B
+61	 and Omayma Touma
+62	 Syria, Tile , 17th century, underglaze-painted fritware
+63	 Gift of Drs
+64	 Joseph B
+65	 and Omayma Touma
+66	 Tabriz, Iran, Rug , late 19th century, silk
+67	 Gift of Drs
+68	 Joseph and Omayma Touma and family
+69	 Iran, Qajar, Huqqa Base , 19th century, copper and painted enamel
+70	 Gift of Drs
+71	 Joseph B
+72	 and Omayma Touma
+73	 Iran, Qajar, Helmet , 1850-1900, steel damascened with gold and silver
+74	 Gift of Drs
+75	 Joseph and Omayma Touma and family
+76	 Egypt or Syria, Bowl , 19th century, brass with silver and copper inlay
+77	 Gift of Drs
+78	 Joseph and Omayma Touma and family
+79	 Iran, Qajar, Covered Vessel , c
+80	 1860, brass
+81	 Gift of Drs
+82	 Joseph B
+83	 and Omayma Touma
+84	 Iran, Vessel , 11th -12th century, glass
+85	 Gift of Drs
+86	 Joseph B
+87	 and Omayma Touma
+88	 Filippo Bartolini, Preparing for Prayer , c
+89	 1875, watercolor on paper
+90	 Gift of Drs
+91	 Joseph B
+92	 and Omayma Touma
+93	 Iran, Celestial Globe , 19th century, brass
+94	 Gift of Drs
+95	 Joseph B
+96	 and Omayma Touma
+97	 Syria, Tile , 17th century, underglaze-painted fritware
+98	 Gift of Drs
+99	 Joseph B
+100	 and Omayma Touma
+101	 Tabriz, Iran, Rug , late 19th century, silk
+102	 Gift of Drs
+103	 Joseph and Omayma Touma and family
+104	 Iran, Qajar, Huqqa Base , 19th century, copper and painted enamel
+105	 Gift of Drs
+106	 Joseph B
+107	 and Omayma Touma
+108	 Iran, Qajar, Helmet , 1850-1900, steel damascened with gold and silver
+109	 Gift of Drs
+110	 Joseph and Omayma Touma and family
+111	 Related Events Browse the full event schedule Frick Art Museum & Frick Pittsburgh Education Center 10/10/2024 6:30 PM Sip & Make: Artist Spotlight On October 10, 2024, visit The Frick Pittsburgh to Make art with Khadijat Yussuff (they/them), a Pit
+112	
+113	
+114	 Learn More The Frick Art Museum Auditorium 10/19/2024 7:00 PM Resonance of Tradition: A Fusion of Islamic Art and Music Across the Ages Ten centuries of Islamic art meet the shimmering melodies of traditional Persian and Turkish music i
+115	
+116	
+117	 Learn More The Frick Art Museum 10/10/2024 2:00 PM Guided Exhibition Tours of Treasured Ornament: 10 Centuries of Islamic Art Join a guided tour of Treasured Ornament to explore diverse objects celebrating the everyday life, h
+118	
+119	
+120	 Learn More Frick Art Museum & Frick Pittsburgh Education Center 10/10/2024 6:30 PM Sip & Make: Artist Spotlight On October 10, 2024, visit The Frick Pittsburgh to Make art with Khadijat Yussuff (they/them), a Pit
+121	
+122	
+123	 Learn More The Frick Art Museum Auditorium 10/19/2024 7:00 PM Resonance of Tradition: A Fusion of Islamic Art and Music Across the Ages Ten centuries of Islamic art meet the shimmering melodies of traditional Persian and Turkish music i
+124	
+125	
+126	 Learn More The Frick Art Museum 10/10/2024 2:00 PM Guided Exhibition Tours of Treasured Ornament: 10 Centuries of Islamic Art Join a guided tour of Treasured Ornament to explore diverse objects celebrating the everyday life, h
+127	
+128	
+129	 Learn More Frick Art Museum & Frick Pittsburgh Education Center 10/10/2024 6:30 PM Sip & Make: Artist Spotlight On October 10, 2024, visit The Frick Pittsburgh to Make art with Khadijat Yussuff (they/them), a Pit
+130	
+131	
+132	 Learn More The Frick Art Museum Auditorium 10/19/2024 7:00 PM Resonance of Tradition: A Fusion of Islamic Art and Music Across the Ages Ten centuries of Islamic art meet the shimmering melodies of traditional Persian and Turkish music i
+133	
+134	
+135	 Learn More It's free to visit The Frick Pittsburgh
+136	 Plan your visit Keep up to date with news and events from The Frick Pittsburgh newsletter
+137	 The Frick Pittsburgh 7227 Reynolds St
+138	 Pittsburgh, PA 15208 Hours: Monday: Closed Tuesday-Sunday: Gardens and grounds open 8 AM-Dusk
+139	 View detailed hours 412-371-0600 info@thefrickpittsburgh
+140	org Contact Staff Media Inquiries Employment Rentals Partnership Programs Membership About Our Mission Annual Report & Strategic Plan Leadership Board of Trustees Trustee Portal Accessibility Equity Land Acknowledgement Press Releases Photo Policy Trustee Login The Frick legacy The Frick Family Historic Home & Gardens Copyright 2018 | The Frick Pittsburgh | Website by Blue Archer × Customer Login Enter your Username and Password to login to your account
+141	 Don't have an account? Contact Us! Forgot Password? × Forgot Password Enter your Username and Password to login to your account
+142	 Don't have an account? Contact Us! × My Account Enter your Username and Password to login to your account
+143	 Don't have an account? Contact Us!
+0	Visit Treasured Ornament For Free Free admission to Treasured Ornament is available for Allegheny County Library Card holders through The Allegheny County Regional Asset District's RAD Pass program at RadPass
+1	org 
+2	 Toggle navigation Blog Calendar Equity Membership Rentals Café Shop Donate Plan Your Visit Visit Hours & Admission Today at the Frick Directions & Transit Site Map Accessibility Tours Group Visits Field Trips Explore The Frick Plan Your Visit See and Do See and Do The Frick Grounds Today at the Frick Programs and Events Events By Age Group Make the most of your visit Plan Ahead Learn Learn For Educators Family Programs Workshops Adult Programs Summer Camps Outreach Explore from anywhere Virtual Museum Exhibitions Exhibitions Current Exhibitions Upcoming Exhibitions Past Exhibitions Virtual Exhibitions Now On View Treasured Ornament Collection Support Membership The Frick Societies Reciprocal Museums Donate Legacy Planning Gifts of Stock Qualified Charitable Distributions Corporate Giving EITC Our Supporters Home Exhibitions Treasured Ornament: 10 Centuries of Islamic Art Treasured Ornament 10 Centuries of Islamic Art Tickets Now On Sale! Treasured Ornament: 10 Centuries of Islamic Art illuminates the expertly crafted and exquisitely ornate objects that anchored everyday life in Muslim civilizations in Southwest Asia, Northern Africa, and beyond, including Iran, Egypt, India, Syria, and Turkey
+3	 Featuring fine glassware, ceramics, metalwork, painting, weaving, and much more, Treasured Ornament evokes the rich history of the Islamic world, and the shared human experiences that bind us, transcending borders and boundaries
+4	 WQED's Voice of the Arts Chief Curator and Director of Collections, Dawn Brean, and Director of Learning and Visitor Experience, Amanda Gillen, spoke with WQED's Emily Brunner about Treasured Ornament and the unique exhibition programming coming to the Frick this autumn 
+5	 Treasured Ornament Resources Enhance your Treasured Ornament experience by taking a deeper dive into the art, themes, and history of the exhibition
+6	 Visit our resources page for more information about further reading, interactive maps, and exhibition texts
+7	 Visit The Resources Page Acknowledgements The Pittsburgh presentation is a collaborative institutional effort led by Dawn Brean, chief curator and director of collections along with Lauryn Smith, assistant curator; Morgan Lawrence, manager of collections and exhibitions; Bella Hanley, collections and exhibitions assistant; and Christina Cichra, collections technician
+8	 The exhibition was curated by Christopher Hatten and based on research published in the accompanying catalogue written by Walter B
+9	 Denny, Distinguished Professor of the History of Art and Architecture at the University of Massachusetts Amherst, and Sue D'Auria, former associate curator at the Huntington Museum of Art
+10	 Glenna Barlow, Curator of Education at the Columbia Museum of Art in South Carolina, generously shared the interpretive plan, didactics, and labels from CMA's 2023 presentation of the exhibition
+11	 The Frick is grateful to Sahar S
+12	 Hosseini, PhD, Assistant Professor of the History of Art and Architecture and Yasmine Flodin-Ali, PhD, Assistant Professor of Modern Islam and Race in the Department of Religious Studies, both at the University of Pittsburgh, for reviewing and refining the exhibition texts for the Frick Pittsburgh's display
+13	 Thank you to the partners, performers, and artists making our exhibition programming possible: Luqmon Abdus-Salaam, Benjamin Aysan, Carpe Diem String Quartet, Jim Cunningham, Fann Club at the University of Pittsburgh, Chad Hunter and the Pittsburgh Silent Film Society, Ishtar Vintage Bellydance Band, Mahtab Nadalian, Dr
+14	 Dariush Saghafi, Serap Uzunoglu, Reza Vali, and Khadijat Yussuf
+15	 Browse the calendar of upcoming exhibition events here 
+16	 Thank you to the talented team of art handlers who installed the exhibition: Scott Hunter, Duncan MacDiarmid, Kate Pirilla, and Briget Shield
+17	 Additional thanks to EngineHouse, Markantone Painting, and graphic designer Jennie Denton for helping to transform the galleries
+18	 Additional thanks are due to our colleagues at the Aga Khan Museum (Toronto) for leading a Frick all-staff learning opportunity on the exhibition's context and themes
+19	 Program Information Treasured Ornament: 10 Centuries of Islamic Art Dates: August 17, 2024 - October 20, 2024 Location: Frick Art Museum Admission: Experience Treasured Ornament from August 17 through October 20, 2024
+20	 Tickets are not timed
+21	 You may enter the exhibition at any time between 10:00 a
+22	m
+23	 and 4:00 p
+24	m
+25	 during the day of your ticket
+26	 Members: Free General Admission: $15 Seniors 65+, Students w/ ID, Military/Veterans, Adults w/ Disabilities, Teachers: $12 Museums for All (EBT): $1 Youth 17 & under:$5 Free admission to Treasured Ornament is available for Allegheny County library card holders through RAD Pass at radpass
+27	org 
+28	 Get Tickets Members are encouraged to call the Members Hotline at 412-342-4086 Share this event series: Treasured Ornament: 10 Centuries of Islamic Art is organized by the Huntington Museum of Art and is toured by International Arts & Artists, Washington, DC
+29	 Treasured Ornament: 10 Centuries of Islamic Art is made possible in part by the generous support of Kirk J
+30	 Johnson and Henry W
+31	 Krakovsky, Jr
+32	 Gallery Browse through a selection of  pieces on display in Treasured Ornament: 10 Centuries of Islamic Art 
+33	 (Header) Iran, Tile , 14th century, underglaze-painted fritware
+34	 Gift of Drs
+35	 Joseph B
+36	 and Omayma Tourma
+37	 Huntington Museum of Art (West Virginia)
+38	 Iran, Qajar, Helmet , 1850-1900, steel damascened with gold and silver
+39	 Gift of Drs
+40	 Joseph and Omayma Touma and family
+41	 Egypt or Syria, Bowl , 19th century, brass with silver and copper inlay
+42	 Gift of Drs
+43	 Joseph and Omayma Touma and family
+44	 Iran, Qajar, Covered Vessel , c
+45	 1860, brass
+46	 Gift of Drs
+47	 Joseph B
+48	 and Omayma Touma
+49	 Iran, Vessel , 11th -12th century, glass
+50	 Gift of Drs
+51	 Joseph B
+52	 and Omayma Touma
+53	 Filippo Bartolini, Preparing for Prayer , c
+54	 1875, watercolor on paper
+55	 Gift of Drs
+56	 Joseph B
+57	 and Omayma Touma
+58	 Iran, Celestial Globe , 19th century, brass
+59	 Gift of Drs
+60	 Joseph B
+61	 and Omayma Touma
+62	 Syria, Tile , 17th century, underglaze-painted fritware
+63	 Gift of Drs
+64	 Joseph B
+65	 and Omayma Touma
+66	 Tabriz, Iran, Rug , late 19th century, silk
+67	 Gift of Drs
+68	 Joseph and Omayma Touma and family
+69	 Iran, Qajar, Huqqa Base , 19th century, copper and painted enamel
+70	 Gift of Drs
+71	 Joseph B
+72	 and Omayma Touma
+73	 Iran, Qajar, Helmet , 1850-1900, steel damascened with gold and silver
+74	 Gift of Drs
+75	 Joseph and Omayma Touma and family
+76	 Egypt or Syria, Bowl , 19th century, brass with silver and copper inlay
+77	 Gift of Drs
+78	 Joseph and Omayma Touma and family
+79	 Iran, Qajar, Covered Vessel , c
+80	 1860, brass
+81	 Gift of Drs
+82	 Joseph B
+83	 and Omayma Touma
+84	 Iran, Vessel , 11th -12th century, glass
+85	 Gift of Drs
+86	 Joseph B
+87	 and Omayma Touma
+88	 Filippo Bartolini, Preparing for Prayer , c
+89	 1875, watercolor on paper
+90	 Gift of Drs
+91	 Joseph B
+92	 and Omayma Touma
+93	 Iran, Celestial Globe , 19th century, brass
+94	 Gift of Drs
+95	 Joseph B
+96	 and Omayma Touma
+97	 Syria, Tile , 17th century, underglaze-painted fritware
+98	 Gift of Drs
+99	 Joseph B
+100	 and Omayma Touma
+101	 Tabriz, Iran, Rug , late 19th century, silk
+102	 Gift of Drs
+103	 Joseph and Omayma Touma and family
+104	 Iran, Qajar, Huqqa Base , 19th century, copper and painted enamel
+105	 Gift of Drs
+106	 Joseph B
+107	 and Omayma Touma
+108	 Iran, Qajar, Helmet , 1850-1900, steel damascened with gold and silver
+109	 Gift of Drs
+110	 Joseph and Omayma Touma and family
+111	 Related Events Browse the full event schedule Frick Art Museum & Frick Pittsburgh Education Center 10/10/2024 6:30 PM Sip & Make: Artist Spotlight On October 10, 2024, visit The Frick Pittsburgh to Make art with Khadijat Yussuff (they/them), a Pit
+112	
+113	
+114	 Learn More The Frick Art Museum Auditorium 10/19/2024 7:00 PM Resonance of Tradition: A Fusion of Islamic Art and Music Across the Ages Ten centuries of Islamic art meet the shimmering melodies of traditional Persian and Turkish music i
+115	
+116	
+117	 Learn More The Frick Art Museum 10/10/2024 2:00 PM Guided Exhibition Tours of Treasured Ornament: 10 Centuries of Islamic Art Join a guided tour of Treasured Ornament to explore diverse objects celebrating the everyday life, h
+118	
+119	
+120	 Learn More Frick Art Museum & Frick Pittsburgh Education Center 10/10/2024 6:30 PM Sip & Make: Artist Spotlight On October 10, 2024, visit The Frick Pittsburgh to Make art with Khadijat Yussuff (they/them), a Pit
+121	
+122	
+123	 Learn More The Frick Art Museum Auditorium 10/19/2024 7:00 PM Resonance of Tradition: A Fusion of Islamic Art and Music Across the Ages Ten centuries of Islamic art meet the shimmering melodies of traditional Persian and Turkish music i
+124	
+125	
+126	 Learn More The Frick Art Museum 10/10/2024 2:00 PM Guided Exhibition Tours of Treasured Ornament: 10 Centuries of Islamic Art Join a guided tour of Treasured Ornament to explore diverse objects celebrating the everyday life, h
+127	
+128	
+129	 Learn More Frick Art Museum & Frick Pittsburgh Education Center 10/10/2024 6:30 PM Sip & Make: Artist Spotlight On October 10, 2024, visit The Frick Pittsburgh to Make art with Khadijat Yussuff (they/them), a Pit
+130	
+131	
+132	 Learn More The Frick Art Museum Auditorium 10/19/2024 7:00 PM Resonance of Tradition: A Fusion of Islamic Art and Music Across the Ages Ten centuries of Islamic art meet the shimmering melodies of traditional Persian and Turkish music i
+133	
+134	
+135	 Learn More It's free to visit The Frick Pittsburgh
+136	 Plan your visit Keep up to date with news and events from The Frick Pittsburgh newsletter
+137	 The Frick Pittsburgh 7227 Reynolds St
+138	 Pittsburgh, PA 15208 Hours: Monday: Closed Tuesday-Sunday: Gardens and grounds open 8 AM-Dusk
+139	 View detailed hours 412-371-0600 info@thefrickpittsburgh
+140	org Contact Staff Media Inquiries Employment Rentals Partnership Programs Membership About Our Mission Annual Report & Strategic Plan Leadership Board of Trustees Trustee Portal Accessibility Equity Land Acknowledgement Press Releases Photo Policy Trustee Login The Frick legacy The Frick Family Historic Home & Gardens Copyright 2018 | The Frick Pittsburgh | Website by Blue Archer × Customer Login Enter your Username and Password to login to your account
+141	 Don't have an account? Contact Us! Forgot Password? × Forgot Password Enter your Username and Password to login to your account
+142	 Don't have an account? Contact Us! × My Account Enter your Username and Password to login to your account
+143	 Don't have an account? Contact Us!
+0	Visit Treasured Ornament For Free Free admission to Treasured Ornament is available for Allegheny County Library Card holders through The Allegheny County Regional Asset District's RAD Pass program at RadPass
+1	org 
+2	 Toggle navigation Blog Calendar Equity Membership Rentals Café Shop Donate Plan Your Visit Visit Hours & Admission Today at the Frick Directions & Transit Site Map Accessibility Tours Group Visits Field Trips Explore The Frick Plan Your Visit See and Do See and Do The Frick Grounds Today at the Frick Programs and Events Events By Age Group Make the most of your visit Plan Ahead Learn Learn For Educators Family Programs Workshops Adult Programs Summer Camps Outreach Explore from anywhere Virtual Museum Exhibitions Exhibitions Current Exhibitions Upcoming Exhibitions Past Exhibitions Virtual Exhibitions Now On View Treasured Ornament Collection Support Membership The Frick Societies Reciprocal Museums Donate Legacy Planning Gifts of Stock Qualified Charitable Distributions Corporate Giving EITC Our Supporters Home Exhibitions Treasured Ornament: 10 Centuries of Islamic Art Treasured Ornament 10 Centuries of Islamic Art Tickets Now On Sale! Treasured Ornament: 10 Centuries of Islamic Art illuminates the expertly crafted and exquisitely ornate objects that anchored everyday life in Muslim civilizations in Southwest Asia, Northern Africa, and beyond, including Iran, Egypt, India, Syria, and Turkey
+3	 Featuring fine glassware, ceramics, metalwork, painting, weaving, and much more, Treasured Ornament evokes the rich history of the Islamic world, and the shared human experiences that bind us, transcending borders and boundaries
+4	 WQED's Voice of the Arts Chief Curator and Director of Collections, Dawn Brean, and Director of Learning and Visitor Experience, Amanda Gillen, spoke with WQED's Emily Brunner about Treasured Ornament and the unique exhibition programming coming to the Frick this autumn 
+5	 Treasured Ornament Resources Enhance your Treasured Ornament experience by taking a deeper dive into the art, themes, and history of the exhibition
+6	 Visit our resources page for more information about further reading, interactive maps, and exhibition texts
+7	 Visit The Resources Page Acknowledgements The Pittsburgh presentation is a collaborative institutional effort led by Dawn Brean, chief curator and director of collections along with Lauryn Smith, assistant curator; Morgan Lawrence, manager of collections and exhibitions; Bella Hanley, collections and exhibitions assistant; and Christina Cichra, collections technician
+8	 The exhibition was curated by Christopher Hatten and based on research published in the accompanying catalogue written by Walter B
+9	 Denny, Distinguished Professor of the History of Art and Architecture at the University of Massachusetts Amherst, and Sue D'Auria, former associate curator at the Huntington Museum of Art
+10	 Glenna Barlow, Curator of Education at the Columbia Museum of Art in South Carolina, generously shared the interpretive plan, didactics, and labels from CMA's 2023 presentation of the exhibition
+11	 The Frick is grateful to Sahar S
+12	 Hosseini, PhD, Assistant Professor of the History of Art and Architecture and Yasmine Flodin-Ali, PhD, Assistant Professor of Modern Islam and Race in the Department of Religious Studies, both at the University of Pittsburgh, for reviewing and refining the exhibition texts for the Frick Pittsburgh's display
+13	 Thank you to the partners, performers, and artists making our exhibition programming possible: Luqmon Abdus-Salaam, Benjamin Aysan, Carpe Diem String Quartet, Jim Cunningham, Fann Club at the University of Pittsburgh, Chad Hunter and the Pittsburgh Silent Film Society, Ishtar Vintage Bellydance Band, Mahtab Nadalian, Dr
+14	 Dariush Saghafi, Serap Uzunoglu, Reza Vali, and Khadijat Yussuf
+15	 Browse the calendar of upcoming exhibition events here 
+16	 Thank you to the talented team of art handlers who installed the exhibition: Scott Hunter, Duncan MacDiarmid, Kate Pirilla, and Briget Shield
+17	 Additional thanks to EngineHouse, Markantone Painting, and graphic designer Jennie Denton for helping to transform the galleries
+18	 Additional thanks are due to our colleagues at the Aga Khan Museum (Toronto) for leading a Frick all-staff learning opportunity on the exhibition's context and themes
+19	 Program Information Treasured Ornament: 10 Centuries of Islamic Art Dates: August 17, 2024 - October 20, 2024 Location: Frick Art Museum Admission: Experience Treasured Ornament from August 17 through October 20, 2024
+20	 Tickets are not timed
+21	 You may enter the exhibition at any time between 10:00 a
+22	m
+23	 and 4:00 p
+24	m
+25	 during the day of your ticket
+26	 Members: Free General Admission: $15 Seniors 65+, Students w/ ID, Military/Veterans, Adults w/ Disabilities, Teachers: $12 Museums for All (EBT): $1 Youth 17 & under:$5 Free admission to Treasured Ornament is available for Allegheny County library card holders through RAD Pass at radpass
+27	org 
+28	 Get Tickets Members are encouraged to call the Members Hotline at 412-342-4086 Share this event series: Treasured Ornament: 10 Centuries of Islamic Art is organized by the Huntington Museum of Art and is toured by International Arts & Artists, Washington, DC
+29	 Treasured Ornament: 10 Centuries of Islamic Art is made possible in part by the generous support of Kirk J
+30	 Johnson and Henry W
+31	 Krakovsky, Jr
+32	 Gallery Browse through a selection of  pieces on display in Treasured Ornament: 10 Centuries of Islamic Art 
+33	 (Header) Iran, Tile , 14th century, underglaze-painted fritware
+34	 Gift of Drs
+35	 Joseph B
+36	 and Omayma Tourma
+37	 Huntington Museum of Art (West Virginia)
+38	 Iran, Qajar, Helmet , 1850-1900, steel damascened with gold and silver
+39	 Gift of Drs
+40	 Joseph and Omayma Touma and family
+41	 Egypt or Syria, Bowl , 19th century, brass with silver and copper inlay
+42	 Gift of Drs
+43	 Joseph and Omayma Touma and family
+44	 Iran, Qajar, Covered Vessel , c
+45	 1860, brass
+46	 Gift of Drs
+47	 Joseph B
+48	 and Omayma Touma
+49	 Iran, Vessel , 11th -12th century, glass
+50	 Gift of Drs
+51	 Joseph B
+52	 and Omayma Touma
+53	 Filippo Bartolini, Preparing for Prayer , c
+54	 1875, watercolor on paper
+55	 Gift of Drs
+56	 Joseph B
+57	 and Omayma Touma
+58	 Iran, Celestial Globe , 19th century, brass
+59	 Gift of Drs
+60	 Joseph B
+61	 and Omayma Touma
+62	 Syria, Tile , 17th century, underglaze-painted fritware
+63	 Gift of Drs
+64	 Joseph B
+65	 and Omayma Touma
+66	 Tabriz, Iran, Rug , late 19th century, silk
+67	 Gift of Drs
+68	 Joseph and Omayma Touma and family
+69	 Iran, Qajar, Huqqa Base , 19th century, copper and painted enamel
+70	 Gift of Drs
+71	 Joseph B
+72	 and Omayma Touma
+73	 Iran, Qajar, Helmet , 1850-1900, steel damascened with gold and silver
+74	 Gift of Drs
+75	 Joseph and Omayma Touma and family
+76	 Egypt or Syria, Bowl , 19th century, brass with silver and copper inlay
+77	 Gift of Drs
+78	 Joseph and Omayma Touma and family
+79	 Iran, Qajar, Covered Vessel , c
+80	 1860, brass
+81	 Gift of Drs
+82	 Joseph B
+83	 and Omayma Touma
+84	 Iran, Vessel , 11th -12th century, glass
+85	 Gift of Drs
+86	 Joseph B
+87	 and Omayma Touma
+88	 Filippo Bartolini, Preparing for Prayer , c
+89	 1875, watercolor on paper
+90	 Gift of Drs
+91	 Joseph B
+92	 and Omayma Touma
+93	 Iran, Celestial Globe , 19th century, brass
+94	 Gift of Drs
+95	 Joseph B
+96	 and Omayma Touma
+97	 Syria, Tile , 17th century, underglaze-painted fritware
+98	 Gift of Drs
+99	 Joseph B
+100	 and Omayma Touma
+101	 Tabriz, Iran, Rug , late 19th century, silk
+102	 Gift of Drs
+103	 Joseph and Omayma Touma and family
+104	 Iran, Qajar, Huqqa Base , 19th century, copper and painted enamel
+105	 Gift of Drs
+106	 Joseph B
+107	 and Omayma Touma
+108	 Iran, Qajar, Helmet , 1850-1900, steel damascened with gold and silver
+109	 Gift of Drs
+110	 Joseph and Omayma Touma and family
+111	 Related Events Browse the full event schedule Frick Art Museum & Frick Pittsburgh Education Center 10/10/2024 6:30 PM Sip & Make: Artist Spotlight On October 10, 2024, visit The Frick Pittsburgh to Make art with Khadijat Yussuff (they/them), a Pit
+112	
+113	
+114	 Learn More The Frick Art Museum Auditorium 10/19/2024 7:00 PM Resonance of Tradition: A Fusion of Islamic Art and Music Across the Ages Ten centuries of Islamic art meet the shimmering melodies of traditional Persian and Turkish music i
+115	
+116	
+117	 Learn More The Frick Art Museum 10/10/2024 2:00 PM Guided Exhibition Tours of Treasured Ornament: 10 Centuries of Islamic Art Join a guided tour of Treasured Ornament to explore diverse objects celebrating the everyday life, h
+118	
+119	
+120	 Learn More Frick Art Museum & Frick Pittsburgh Education Center 10/10/2024 6:30 PM Sip & Make: Artist Spotlight On October 10, 2024, visit The Frick Pittsburgh to Make art with Khadijat Yussuff (they/them), a Pit
+121	
+122	
+123	 Learn More The Frick Art Museum Auditorium 10/19/2024 7:00 PM Resonance of Tradition: A Fusion of Islamic Art and Music Across the Ages Ten centuries of Islamic art meet the shimmering melodies of traditional Persian and Turkish music i
+124	
+125	
+126	 Learn More The Frick Art Museum 10/10/2024 2:00 PM Guided Exhibition Tours of Treasured Ornament: 10 Centuries of Islamic Art Join a guided tour of Treasured Ornament to explore diverse objects celebrating the everyday life, h
+127	
+128	
+129	 Learn More Frick Art Museum & Frick Pittsburgh Education Center 10/10/2024 6:30 PM Sip & Make: Artist Spotlight On October 10, 2024, visit The Frick Pittsburgh to Make art with Khadijat Yussuff (they/them), a Pit
+130	
+131	
+132	 Learn More The Frick Art Museum Auditorium 10/19/2024 7:00 PM Resonance of Tradition: A Fusion of Islamic Art and Music Across the Ages Ten centuries of Islamic art meet the shimmering melodies of traditional Persian and Turkish music i
+133	
+134	
+135	 Learn More It's free to visit The Frick Pittsburgh
+136	 Plan your visit Keep up to date with news and events from The Frick Pittsburgh newsletter
+137	 The Frick Pittsburgh 7227 Reynolds St
+138	 Pittsburgh, PA 15208 Hours: Monday: Closed Tuesday-Sunday: Gardens and grounds open 8 AM-Dusk
+139	 View detailed hours 412-371-0600 info@thefrickpittsburgh
+140	org Contact Staff Media Inquiries Employment Rentals Partnership Programs Membership About Our Mission Annual Report & Strategic Plan Leadership Board of Trustees Trustee Portal Accessibility Equity Land Acknowledgement Press Releases Photo Policy Trustee Login The Frick legacy The Frick Family Historic Home & Gardens Copyright 2018 | The Frick Pittsburgh | Website by Blue Archer × Customer Login Enter your Username and Password to login to your account
+141	 Don't have an account? Contact Us! Forgot Password? × Forgot Password Enter your Username and Password to login to your account
+142	 Don't have an account? Contact Us! × My Account Enter your Username and Password to login to your account
+143	 Don't have an account? Contact Us!

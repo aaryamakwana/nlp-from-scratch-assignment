@@ -1,529 +1,5746 @@
--1-CITY OF PITTSBURGH 
+0	-1-CITY OF PITTSBURGH 
 THE INSTITUTIO N AND SERVICE PRIVILE GE TAX 
 REGULATIONS 
 Revised January 20 20 
  -2-INTRODUCTION  
-Ordinance No. 676 of 1968 as amended and re -enacted, imposes a tax  upon the 
+Ordinance No
+1	 676 of 1968 as amended and re -enacted, imposes a tax  upon the 
 privilege of conducting or operating a service or service institution in the City of Pittsburgh, 
-at the rate of six mills as measured by gross receipts derived from all service transactions.   
-The Ordin ance was enacted under the authority of the Local Tax Enabling Act, 53 P.S. § 
-6924.101, and following.   The current text of the Ordinance can be found in Title Two, Article 
-VII, Chapter 247 of the City of Pittsburgh Code of Ordinances.  
+at the rate of six mills as measured by gross receipts derived from all service transactions
+2	   
+The Ordin ance was enacted under the authority of the Local Tax Enabling Act, 53 P
+3	S
+4	 § 
+6924
+5	101, and following
+6	   The current text of the Ordinance can be found in Title Two, Article 
+VII, Chapter 247 of the City of Pittsburgh Code of Ordinances
+7	  
 Questions relating t o specific institutions and specific institution operations not 
 answered in these Regulations, should be submitted in writing to the City Treasurer, on 
 prescribed forms available from: Treasurer, City of Pittsburgh, City­County  Building,  
-Pittsburgh, Pennsylvania 15219.   -3-TABLE OF CONTENTS  
-ARTICLE I – GENERAL PROVISIONS  ................................ ................................ ...........................  4 
-(1) SECTION 101 - DEFINITIONS  ................................ ................................ .................  4 
-(2) SECTION 102 – WHO MUST FILE A RETURN  ................................ .......................  7 
-(3) SECTION 103 – TAX BASE  ................................ ................................ .....................  8 
+Pittsburgh, Pennsylvania 15219
+8	   -3-TABLE OF CONTENTS  
+ARTICLE I – GENERAL PROVISIONS  
+9	
+10	
+11	
+12	
+13	
+14	
+15	
+16	
+17	
+18	
+19	
+20	
+21	
+22	
+23	
+24	
+25	
+26	
+27	
+28	
+29	
+30	
+31	
+32	
+33	
+34	
+35	
+36	
+37	
+38	
+39	
+40	 
+41	
+42	
+43	
+44	
+45	
+46	
+47	
+48	
+49	
+50	
+51	
+52	
+53	
+54	
+55	
+56	
+57	
+58	
+59	
+60	
+61	
+62	
+63	
+64	
+65	
+66	
+67	
+68	
+69	
+70	
+71	
+72	 
+73	
+74	
+75	
+76	
+77	
+78	
+79	
+80	
+81	
+82	
+83	
+84	
+85	
+86	
+87	
+88	
+89	
+90	
+91	
+92	
+93	
+94	
+95	
+96	
+97	
+98	
+99	  4 
+(1) SECTION 101 - DEFINITIONS  
+100	
+101	
+102	
+103	
+104	
+105	
+106	
+107	
+108	
+109	
+110	
+111	
+112	
+113	
+114	
+115	
+116	
+117	
+118	
+119	
+120	
+121	
+122	
+123	
+124	
+125	
+126	
+127	
+128	
+129	
+130	
+131	 
+132	
+133	
+134	
+135	
+136	
+137	
+138	
+139	
+140	
+141	
+142	
+143	
+144	
+145	
+146	
+147	
+148	
+149	
+150	
+151	
+152	
+153	
+154	
+155	
+156	
+157	
+158	
+159	
+160	
+161	
+162	
+163	 
+164	
+165	
+166	
+167	
+168	
+169	
+170	
+171	
+172	
+173	
+174	
+175	
+176	
+177	
+178	
+179	
+180	  4 
+(2) SECTION 102 – WHO MUST FILE A RETURN  
+181	
+182	
+183	
+184	
+185	
+186	
+187	
+188	
+189	
+190	
+191	
+192	
+193	
+194	
+195	
+196	
+197	
+198	
+199	
+200	
+201	
+202	
+203	
+204	
+205	
+206	
+207	
+208	
+209	
+210	
+211	
+212	 
+213	
+214	
+215	
+216	
+217	
+218	
+219	
+220	
+221	
+222	
+223	
+224	
+225	
+226	
+227	
+228	
+229	
+230	
+231	
+232	
+233	
+234	
+235	  7 
+(3) SECTION 103 – TAX BASE  
+236	
+237	
+238	
+239	
+240	
+241	
+242	
+243	
+244	
+245	
+246	
+247	
+248	
+249	
+250	
+251	
+252	
+253	
+254	
+255	
+256	
+257	
+258	
+259	
+260	
+261	
+262	
+263	
+264	
+265	
+266	
+267	 
+268	
+269	
+270	
+271	
+272	
+273	
+274	
+275	
+276	
+277	
+278	
+279	
+280	
+281	
+282	
+283	
+284	
+285	
+286	
+287	
+288	
+289	
+290	
+291	
+292	
+293	
+294	
+295	
+296	
+297	
+298	
+299	 
+300	
+301	
+302	
+303	
+304	
+305	
+306	
+307	
+308	
+309	
+310	
+311	
+312	
+313	
+314	
+315	
+316	
+317	
+318	
+319	
+320	  8 
 (4) SECTION 104 – WHAT CONSTITUTES RENDERING SERVICES IN
-PITTSBURGH  ................................ ................................ ................................ ..........  8 
+PITTSBURGH  
+321	
+322	
+323	
+324	
+325	
+326	
+327	
+328	
+329	
+330	
+331	
+332	
+333	
+334	
+335	
+336	
+337	
+338	
+339	
+340	
+341	
+342	
+343	
+344	
+345	
+346	
+347	
+348	
+349	
+350	
+351	
+352	 
+353	
+354	
+355	
+356	
+357	
+358	
+359	
+360	
+361	
+362	
+363	
+364	
+365	
+366	
+367	
+368	
+369	
+370	
+371	
+372	
+373	
+374	
+375	
+376	
+377	
+378	
+379	
+380	
+381	
+382	
+383	
+384	 
+385	
+386	
+387	
+388	
+389	
+390	
+391	
+392	
+393	
+394	
+395	
+396	
+397	
+398	
+399	
+400	
+401	
+402	
+403	
+404	
+405	
+406	
+407	
+408	
+409	
+410	
+411	
+412	
+413	
+414	
+415	
+416	 
+417	
+418	
+419	
+420	
+421	
+422	
+423	
+424	
+425	
+426	  8 
 (5) SECTION 105 – RECEIPTS FROM GOVERNMENTAL AGENCIES AND NON -
-PROFIT ORGANIZATIONS  ................................ ................................ .....................  8 
-(6) SECTION 106 – REFERENCES TO FEDERAL STATUTES  ................................ ... 8 
-ARTICLE II – RETURNS  ................................ ................................ ................................ .................  9 
-(1) SECTION 201 – FILING RETURN  ................................ ................................ ...........  9 
-(2) SECTION 202 – PAYMENT OF TAX  ................................ ................................ ....... 9 
-(3) SECTION 203 – TAX RATE  ................................ ................................ .....................  9 
-(4) SECTION 204 – PENALTIES AND INTEREST  ................................ ........................  9
-ARTICLE III – TAXABILITY  ................................ ................................ ................................ ...........  10 
-(1) SECTION 301 – PERIOD USED IN CALCULATING THE TAX  ..............................  10 
-(2) SECTION 302 – TAXABLE GROSS RECEIPTS  ................................ ....................  10 
-ARTICLE IV – DETERMINATION OF TAX BASE  ................................ ................................ .........  12 
-(1) SECTION 401 - INCLUSIONS  ................................ ................................ ...............  12 
-(2) SECTION 402 – PITTSBURGH RECEIPTS  ................................ ...........................  12 
-ARTICLE V – SUITS FOR COLLECTION, PENALTIES, ETC.  ................................ ......................  14 
-(1) SECTION 501 – SUITS FOR RECOVERY OF UNPAID TAXES  ............................  14 
-(2) SECTION 502 – PENALTY AND INTEREST FOR NON -PAYMENT  ......................  14 
-(3) SECTION 503 – FINES A ND PENALTIES FOR VIOLATION OF ACT  ...................  15 
-(4) SECTION 504 – REMEDIES NOT MUTUALLY EXCLUSIVE  ................................ . 15  -4-ARTICLE VI – TAXPAYER REMEDIES  ................................ ................................ ........................  16 
-(1) SECTION 601 – TREASURER (DIRECTOR) HEARINGS  ................................ ..... 16 
-(2) SECTION 602 – APPEALS  ................................ ................................ ....................  16 
-(3) SECTION 603 – PAYMENT UNDER PROTEST  ................................ ....................  17 
-(4) SECTION 604 – REFUNDS  ................................ ................................ ...................  17
-(5) SECTION 605 – INSTALLMENT PAYMENT PLAN FOR ANY DEFICIENCY  .........  17 
-ARTICLE VII – SAVINGS CLAUSE AND SEVERABILITY.  ................................ ...........................  19 
-(1) SECTION 701 – SAVINGS CLAUSE AND SEVERABILITY  ................................ ... 19 
-(2) SECTION 702 – DISCLOSURE STATEMENT  ................................ .......................  19  -5-ARTICLE I  
+PROFIT ORGANIZATIONS  
+427	
+428	
+429	
+430	
+431	
+432	
+433	
+434	
+435	
+436	
+437	
+438	
+439	
+440	
+441	
+442	
+443	
+444	
+445	
+446	
+447	
+448	
+449	
+450	
+451	
+452	
+453	
+454	
+455	
+456	
+457	
+458	 
+459	
+460	
+461	
+462	
+463	
+464	
+465	
+466	
+467	
+468	
+469	
+470	
+471	
+472	
+473	
+474	
+475	
+476	
+477	
+478	
+479	
+480	
+481	
+482	
+483	
+484	
+485	
+486	
+487	
+488	
+489	
+490	 
+491	
+492	
+493	
+494	
+495	
+496	
+497	
+498	
+499	
+500	
+501	
+502	
+503	
+504	
+505	
+506	
+507	
+508	
+509	
+510	
+511	  8 
+(6) SECTION 106 – REFERENCES TO FEDERAL STATUTES  
+512	
+513	
+514	
+515	
+516	
+517	
+518	
+519	
+520	
+521	
+522	
+523	
+524	
+525	
+526	
+527	
+528	
+529	
+530	
+531	
+532	
+533	
+534	
+535	
+536	
+537	
+538	
+539	
+540	
+541	
+542	
+543	 
+544	
+545	
+546	 8 
+ARTICLE II – RETURNS  
+547	
+548	
+549	
+550	
+551	
+552	
+553	
+554	
+555	
+556	
+557	
+558	
+559	
+560	
+561	
+562	
+563	
+564	
+565	
+566	
+567	
+568	
+569	
+570	
+571	
+572	
+573	
+574	
+575	
+576	
+577	
+578	 
+579	
+580	
+581	
+582	
+583	
+584	
+585	
+586	
+587	
+588	
+589	
+590	
+591	
+592	
+593	
+594	
+595	
+596	
+597	
+598	
+599	
+600	
+601	
+602	
+603	
+604	
+605	
+606	
+607	
+608	
+609	
+610	 
+611	
+612	
+613	
+614	
+615	
+616	
+617	
+618	
+619	
+620	
+621	
+622	
+623	
+624	
+625	
+626	
+627	
+628	
+629	
+630	
+631	
+632	
+633	
+634	
+635	
+636	
+637	
+638	
+639	
+640	
+641	
+642	 
+643	
+644	
+645	
+646	
+647	
+648	
+649	
+650	
+651	
+652	
+653	
+654	
+655	
+656	
+657	
+658	
+659	  9 
+(1) SECTION 201 – FILING RETURN  
+660	
+661	
+662	
+663	
+664	
+665	
+666	
+667	
+668	
+669	
+670	
+671	
+672	
+673	
+674	
+675	
+676	
+677	
+678	
+679	
+680	
+681	
+682	
+683	
+684	
+685	
+686	
+687	
+688	
+689	
+690	
+691	 
+692	
+693	
+694	
+695	
+696	
+697	
+698	
+699	
+700	
+701	
+702	
+703	
+704	
+705	
+706	
+707	
+708	
+709	
+710	
+711	
+712	
+713	
+714	
+715	
+716	
+717	
+718	
+719	
+720	
+721	
+722	
+723	 
+724	
+725	
+726	
+727	
+728	
+729	
+730	
+731	
+732	
+733	
+734	  9 
+(2) SECTION 202 – PAYMENT OF TAX  
+735	
+736	
+737	
+738	
+739	
+740	
+741	
+742	
+743	
+744	
+745	
+746	
+747	
+748	
+749	
+750	
+751	
+752	
+753	
+754	
+755	
+756	
+757	
+758	
+759	
+760	
+761	
+762	
+763	
+764	
+765	
+766	 
+767	
+768	
+769	
+770	
+771	
+772	
+773	
+774	
+775	
+776	
+777	
+778	
+779	
+780	
+781	
+782	
+783	
+784	
+785	
+786	
+787	
+788	
+789	
+790	
+791	
+792	
+793	
+794	
+795	
+796	
+797	
+798	 
+799	
+800	
+801	
+802	
+803	
+804	
+805	 9 
+(3) SECTION 203 – TAX RATE  
+806	
+807	
+808	
+809	
+810	
+811	
+812	
+813	
+814	
+815	
+816	
+817	
+818	
+819	
+820	
+821	
+822	
+823	
+824	
+825	
+826	
+827	
+828	
+829	
+830	
+831	
+832	
+833	
+834	
+835	
+836	
+837	 
+838	
+839	
+840	
+841	
+842	
+843	
+844	
+845	
+846	
+847	
+848	
+849	
+850	
+851	
+852	
+853	
+854	
+855	
+856	
+857	
+858	
+859	
+860	
+861	
+862	
+863	
+864	
+865	
+866	
+867	
+868	
+869	 
+870	
+871	
+872	
+873	
+874	
+875	
+876	
+877	
+878	
+879	
+880	
+881	
+882	
+883	
+884	
+885	
+886	
+887	
+888	
+889	
+890	  9 
+(4) SECTION 204 – PENALTIES AND INTEREST  
+891	
+892	
+893	
+894	
+895	
+896	
+897	
+898	
+899	
+900	
+901	
+902	
+903	
+904	
+905	
+906	
+907	
+908	
+909	
+910	
+911	
+912	
+913	
+914	
+915	
+916	
+917	
+918	
+919	
+920	
+921	
+922	 
+923	
+924	
+925	
+926	
+927	
+928	
+929	
+930	
+931	
+932	
+933	
+934	
+935	
+936	
+937	
+938	
+939	
+940	
+941	
+942	
+943	
+944	
+945	
+946	  9
+ARTICLE III – TAXABILITY  
+947	
+948	
+949	
+950	
+951	
+952	
+953	
+954	
+955	
+956	
+957	
+958	
+959	
+960	
+961	
+962	
+963	
+964	
+965	
+966	
+967	
+968	
+969	
+970	
+971	
+972	
+973	
+974	
+975	
+976	
+977	
+978	 
+979	
+980	
+981	
+982	
+983	
+984	
+985	
+986	
+987	
+988	
+989	
+990	
+991	
+992	
+993	
+994	
+995	
+996	
+997	
+998	
+999	
+1000	
+1001	
+1002	
+1003	
+1004	
+1005	
+1006	
+1007	
+1008	
+1009	
+1010	 
+1011	
+1012	
+1013	
+1014	
+1015	
+1016	
+1017	
+1018	
+1019	
+1020	
+1021	
+1022	
+1023	
+1024	
+1025	
+1026	
+1027	
+1028	
+1029	
+1030	
+1031	
+1032	
+1033	
+1034	
+1035	
+1036	
+1037	
+1038	
+1039	
+1040	
+1041	
+1042	 
+1043	
+1044	
+1045	
+1046	
+1047	
+1048	
+1049	
+1050	
+1051	
+1052	
+1053	  10 
+(1) SECTION 301 – PERIOD USED IN CALCULATING THE TAX  
+1054	
+1055	
+1056	
+1057	
+1058	
+1059	
+1060	
+1061	
+1062	
+1063	
+1064	
+1065	
+1066	
+1067	
+1068	
+1069	
+1070	
+1071	
+1072	
+1073	
+1074	
+1075	
+1076	
+1077	
+1078	
+1079	
+1080	
+1081	
+1082	
+1083	  10 
+(2) SECTION 302 – TAXABLE GROSS RECEIPTS  
+1084	
+1085	
+1086	
+1087	
+1088	
+1089	
+1090	
+1091	
+1092	
+1093	
+1094	
+1095	
+1096	
+1097	
+1098	
+1099	
+1100	
+1101	
+1102	
+1103	
+1104	
+1105	
+1106	
+1107	
+1108	
+1109	
+1110	
+1111	
+1112	
+1113	
+1114	
+1115	 
+1116	
+1117	
+1118	
+1119	
+1120	
+1121	
+1122	
+1123	
+1124	
+1125	
+1126	
+1127	
+1128	
+1129	
+1130	
+1131	
+1132	
+1133	
+1134	
+1135	  10 
+ARTICLE IV – DETERMINATION OF TAX BASE  
+1136	
+1137	
+1138	
+1139	
+1140	
+1141	
+1142	
+1143	
+1144	
+1145	
+1146	
+1147	
+1148	
+1149	
+1150	
+1151	
+1152	
+1153	
+1154	
+1155	
+1156	
+1157	
+1158	
+1159	
+1160	
+1161	
+1162	
+1163	
+1164	
+1165	
+1166	
+1167	 
+1168	
+1169	
+1170	
+1171	
+1172	
+1173	
+1174	
+1175	
+1176	
+1177	
+1178	
+1179	
+1180	
+1181	
+1182	
+1183	
+1184	
+1185	
+1186	
+1187	
+1188	
+1189	
+1190	
+1191	
+1192	
+1193	
+1194	
+1195	
+1196	
+1197	
+1198	
+1199	 
+1200	
+1201	
+1202	
+1203	
+1204	
+1205	
+1206	
+1207	
+1208	  12 
+(1) SECTION 401 - INCLUSIONS  
+1209	
+1210	
+1211	
+1212	
+1213	
+1214	
+1215	
+1216	
+1217	
+1218	
+1219	
+1220	
+1221	
+1222	
+1223	
+1224	
+1225	
+1226	
+1227	
+1228	
+1229	
+1230	
+1231	
+1232	
+1233	
+1234	
+1235	
+1236	
+1237	
+1238	
+1239	
+1240	 
+1241	
+1242	
+1243	
+1244	
+1245	
+1246	
+1247	
+1248	
+1249	
+1250	
+1251	
+1252	
+1253	
+1254	
+1255	
+1256	
+1257	
+1258	
+1259	
+1260	
+1261	
+1262	
+1263	
+1264	
+1265	
+1266	
+1267	
+1268	
+1269	
+1270	
+1271	
+1272	 
+1273	
+1274	
+1275	
+1276	
+1277	
+1278	
+1279	
+1280	
+1281	
+1282	
+1283	
+1284	
+1285	
+1286	
+1287	  12 
+(2) SECTION 402 – PITTSBURGH RECEIPTS  
+1288	
+1289	
+1290	
+1291	
+1292	
+1293	
+1294	
+1295	
+1296	
+1297	
+1298	
+1299	
+1300	
+1301	
+1302	
+1303	
+1304	
+1305	
+1306	
+1307	
+1308	
+1309	
+1310	
+1311	
+1312	
+1313	
+1314	
+1315	
+1316	
+1317	
+1318	
+1319	 
+1320	
+1321	
+1322	
+1323	
+1324	
+1325	
+1326	
+1327	
+1328	
+1329	
+1330	
+1331	
+1332	
+1333	
+1334	
+1335	
+1336	
+1337	
+1338	
+1339	
+1340	
+1341	
+1342	
+1343	
+1344	
+1345	
+1346	  12 
+ARTICLE V – SUITS FOR COLLECTION, PENALTIES, ETC
+1347	  
+1348	
+1349	
+1350	
+1351	
+1352	
+1353	
+1354	
+1355	
+1356	
+1357	
+1358	
+1359	
+1360	
+1361	
+1362	
+1363	
+1364	
+1365	
+1366	
+1367	
+1368	
+1369	
+1370	
+1371	
+1372	
+1373	
+1374	
+1375	
+1376	
+1377	
+1378	
+1379	 
+1380	
+1381	
+1382	
+1383	
+1384	
+1385	
+1386	
+1387	
+1388	
+1389	
+1390	
+1391	
+1392	
+1393	
+1394	
+1395	
+1396	
+1397	
+1398	
+1399	
+1400	
+1401	  14 
+(1) SECTION 501 – SUITS FOR RECOVERY OF UNPAID TAXES  
+1402	
+1403	
+1404	
+1405	
+1406	
+1407	
+1408	
+1409	
+1410	
+1411	
+1412	
+1413	
+1414	
+1415	
+1416	
+1417	
+1418	
+1419	
+1420	
+1421	
+1422	
+1423	
+1424	
+1425	
+1426	
+1427	
+1428	
+1429	  14 
+(2) SECTION 502 – PENALTY AND INTEREST FOR NON -PAYMENT  
+1430	
+1431	
+1432	
+1433	
+1434	
+1435	
+1436	
+1437	
+1438	
+1439	
+1440	
+1441	
+1442	
+1443	
+1444	
+1445	
+1446	
+1447	
+1448	
+1449	
+1450	
+1451	  14 
+(3) SECTION 503 – FINES A ND PENALTIES FOR VIOLATION OF ACT  
+1452	
+1453	
+1454	
+1455	
+1456	
+1457	
+1458	
+1459	
+1460	
+1461	
+1462	
+1463	
+1464	
+1465	
+1466	
+1467	
+1468	
+1469	
+1470	  15 
+(4) SECTION 504 – REMEDIES NOT MUTUALLY EXCLUSIVE  
+1471	
+1472	
+1473	
+1474	
+1475	
+1476	
+1477	
+1478	
+1479	
+1480	
+1481	
+1482	
+1483	
+1484	
+1485	
+1486	
+1487	
+1488	
+1489	
+1490	
+1491	
+1492	
+1493	
+1494	
+1495	
+1496	
+1497	
+1498	
+1499	
+1500	
+1501	
+1502	 
+1503	 15  -4-ARTICLE VI – TAXPAYER REMEDIES  
+1504	
+1505	
+1506	
+1507	
+1508	
+1509	
+1510	
+1511	
+1512	
+1513	
+1514	
+1515	
+1516	
+1517	
+1518	
+1519	
+1520	
+1521	
+1522	
+1523	
+1524	
+1525	
+1526	
+1527	
+1528	
+1529	
+1530	
+1531	
+1532	
+1533	
+1534	
+1535	 
+1536	
+1537	
+1538	
+1539	
+1540	
+1541	
+1542	
+1543	
+1544	
+1545	
+1546	
+1547	
+1548	
+1549	
+1550	
+1551	
+1552	
+1553	
+1554	
+1555	
+1556	
+1557	
+1558	
+1559	
+1560	
+1561	
+1562	
+1563	
+1564	
+1565	
+1566	
+1567	 
+1568	
+1569	
+1570	
+1571	
+1572	
+1573	
+1574	
+1575	
+1576	
+1577	
+1578	
+1579	
+1580	
+1581	
+1582	
+1583	
+1584	
+1585	
+1586	
+1587	
+1588	
+1589	
+1590	
+1591	  16 
+(1) SECTION 601 – TREASURER (DIRECTOR) HEARINGS  
+1592	
+1593	
+1594	
+1595	
+1596	
+1597	
+1598	
+1599	
+1600	
+1601	
+1602	
+1603	
+1604	
+1605	
+1606	
+1607	
+1608	
+1609	
+1610	
+1611	
+1612	
+1613	
+1614	
+1615	
+1616	
+1617	
+1618	
+1619	
+1620	
+1621	
+1622	
+1623	 
+1624	
+1625	
+1626	
+1627	
+1628	 16 
+(2) SECTION 602 – APPEALS  
+1629	
+1630	
+1631	
+1632	
+1633	
+1634	
+1635	
+1636	
+1637	
+1638	
+1639	
+1640	
+1641	
+1642	
+1643	
+1644	
+1645	
+1646	
+1647	
+1648	
+1649	
+1650	
+1651	
+1652	
+1653	
+1654	
+1655	
+1656	
+1657	
+1658	
+1659	
+1660	 
+1661	
+1662	
+1663	
+1664	
+1665	
+1666	
+1667	
+1668	
+1669	
+1670	
+1671	
+1672	
+1673	
+1674	
+1675	
+1676	
+1677	
+1678	
+1679	
+1680	
+1681	
+1682	
+1683	
+1684	
+1685	
+1686	
+1687	
+1688	
+1689	
+1690	
+1691	
+1692	 
+1693	
+1694	
+1695	
+1696	
+1697	
+1698	
+1699	
+1700	
+1701	
+1702	
+1703	
+1704	
+1705	
+1706	
+1707	
+1708	
+1709	
+1710	
+1711	
+1712	  16 
+(3) SECTION 603 – PAYMENT UNDER PROTEST  
+1713	
+1714	
+1715	
+1716	
+1717	
+1718	
+1719	
+1720	
+1721	
+1722	
+1723	
+1724	
+1725	
+1726	
+1727	
+1728	
+1729	
+1730	
+1731	
+1732	
+1733	
+1734	
+1735	
+1736	
+1737	
+1738	
+1739	
+1740	
+1741	
+1742	
+1743	
+1744	 
+1745	
+1746	
+1747	
+1748	
+1749	
+1750	
+1751	
+1752	
+1753	
+1754	
+1755	
+1756	
+1757	
+1758	
+1759	
+1760	
+1761	
+1762	
+1763	
+1764	  17 
+(4) SECTION 604 – REFUNDS  
+1765	
+1766	
+1767	
+1768	
+1769	
+1770	
+1771	
+1772	
+1773	
+1774	
+1775	
+1776	
+1777	
+1778	
+1779	
+1780	
+1781	
+1782	
+1783	
+1784	
+1785	
+1786	
+1787	
+1788	
+1789	
+1790	
+1791	
+1792	
+1793	
+1794	
+1795	
+1796	 
+1797	
+1798	
+1799	
+1800	
+1801	
+1802	
+1803	
+1804	
+1805	
+1806	
+1807	
+1808	
+1809	
+1810	
+1811	
+1812	
+1813	
+1814	
+1815	
+1816	
+1817	
+1818	
+1819	
+1820	
+1821	
+1822	
+1823	
+1824	
+1825	
+1826	
+1827	
+1828	 
+1829	
+1830	
+1831	
+1832	
+1833	
+1834	
+1835	
+1836	
+1837	
+1838	
+1839	
+1840	
+1841	
+1842	
+1843	
+1844	
+1845	
+1846	
+1847	  17
+(5) SECTION 605 – INSTALLMENT PAYMENT PLAN FOR ANY DEFICIENCY  
+1848	
+1849	
+1850	
+1851	
+1852	
+1853	
+1854	
+1855	
+1856	  17 
+ARTICLE VII – SAVINGS CLAUSE AND SEVERABILITY
+1857	  
+1858	
+1859	
+1860	
+1861	
+1862	
+1863	
+1864	
+1865	
+1866	
+1867	
+1868	
+1869	
+1870	
+1871	
+1872	
+1873	
+1874	
+1875	
+1876	
+1877	
+1878	
+1879	
+1880	
+1881	
+1882	
+1883	
+1884	
+1885	
+1886	
+1887	
+1888	
+1889	 
+1890	
+1891	
+1892	
+1893	
+1894	
+1895	
+1896	
+1897	
+1898	
+1899	
+1900	
+1901	
+1902	
+1903	
+1904	
+1905	
+1906	
+1907	
+1908	
+1909	
+1910	
+1911	
+1912	
+1913	
+1914	
+1915	
+1916	  19 
+(1) SECTION 701 – SAVINGS CLAUSE AND SEVERABILITY  
+1917	
+1918	
+1919	
+1920	
+1921	
+1922	
+1923	
+1924	
+1925	
+1926	
+1927	
+1928	
+1929	
+1930	
+1931	
+1932	
+1933	
+1934	
+1935	
+1936	
+1937	
+1938	
+1939	
+1940	
+1941	
+1942	
+1943	
+1944	
+1945	
+1946	
+1947	
+1948	 
+1949	
+1950	
+1951	 19 
+(2) SECTION 702 – DISCLOSURE STATEMENT  
+1952	
+1953	
+1954	
+1955	
+1956	
+1957	
+1958	
+1959	
+1960	
+1961	
+1962	
+1963	
+1964	
+1965	
+1966	
+1967	
+1968	
+1969	
+1970	
+1971	
+1972	
+1973	
+1974	
+1975	
+1976	
+1977	
+1978	
+1979	
+1980	
+1981	
+1982	
+1983	 
+1984	
+1985	
+1986	
+1987	
+1988	
+1989	
+1990	
+1991	
+1992	
+1993	
+1994	
+1995	
+1996	
+1997	
+1998	
+1999	
+2000	
+2001	
+2002	
+2003	
+2004	
+2005	
+2006	  19  -5-ARTICLE I  
 GENERAL PROVISIONS  
-Section  101. — Definitions . As used in this Ordinance, unless the context dearly 
+Section  101
+2007	 — Definitions 
+2008	 As used in this Ordinance, unless the context dearly 
 indicates a different meaning, the following words and phrases shall have the meaning 
 set forth below:  
-(a) “City" - the City of Pittsburgh.
+(a) “City" - the City of Pittsburgh
+2009	
 (b) “Exempt Institutions ” the following Institutions are exempt from the
 Institution and Service Privilege Tax : 
 (1) Corporations organized under an Act of Congress which are
-instrumentalities of the United States , including any entity described in 26 U .S.C. § 
+instrumentalities of the United States , including any entity described in 26 U 
+2010	S
+2011	C
+2012	 § 
 501(l) ; 
 (2) The United States, any S tate or political subdivision thereof,  any
 authority of the state or local government, any elementary or secondary school with in 
 the City  (public or private) , and any federal, state, or municipal pension plan;  
-(3) Any Institution of Purely Public charity, under 10 P.S. § 371, that
-provides the evidence required by 10 P.S. § 376(a) ; 
+(3) Any Institution of Purely Public charity, under 10 P
+2013	S
+2014	 § 371, that
+provides the evidence required by 10 P
+2015	S
+2016	 § 376(a) ; 
 (4) Any insurance company regulated by the Pennsylvania Insurance
 Department;  
 (5) Any utility regulated by the Pennsylvania Utility Commission;
 (6) Any voluntary employee’s beneficiary association  described in 26
-U.S.C. § 501(c)( 9), or a ny qualified pension or retirement plan or trust  of a private 
+U
+2017	S
+2018	C
+2019	 § 501(c)( 9), or a ny qualified pension or retirement plan or trust  of a private 
 employer or a multiemployer plan or trust; including any qualified plan or trust 
-described under; 26 U.S. C. § 501(c)(22); 26 U.S.C. § 501(c)(24); or 26 U.S.C. § § 
+described under; 26 U
+2020	S
+2021	 C
+2022	 § 501(c)(22); 26 U
+2023	S
+2024	C
+2025	 § 501(c)(24); or 26 U
+2026	S
+2027	C
+2028	 § § 
 501(c)(25)(C )(i), (ii) or (iii) ; 
 (7) Any regulated financial institution under the Tax Reform Code of
-1971, 72 P.S. § 7401(6) ; and . 
-(8) Any organization exempt from tax under 26 U.S.C. 501, which is
+1971, 72 P
+2029	S
+2030	 § 7401(6) ; and 
+2031	 
+(8) Any organization exempt from tax under 26 U
+2032	S
+2033	C
+2034	 501, which is
 not listed in the classes of Taxable Institutions under Section  101(e) of these 
-Regulations.  
+Regulations
+2035	  
 (c) "Gross Receipts " - cash, credits, property of any kind or nature received
 in or allocable to the City of Pittsburgh from an y Institution by reason of any S ervic e 
 rendered in the City, without deduction therefrom on account of property sold, materials 
-used, labor, service, or other cost, interest or discount paid, or any other expense.  
+used, labor, service, or other cost, interest or discount paid, or any other expense
+2036	  
 (1) “Gross Receipts" shall include payments from insurance or other
 third-party  paym ents for the cost of S ervice; 
 (2) “Gross Receipts” shall include payments for Service rendered to
-affiliates or subsidiaries. 
+affiliates or subsidiaries
+2037	 
 (3) “Gross Receipts” shall include any payment, income, grants, or
 other aid from federal, state or local governments , includin g the Medicare and Medicaid 
-Programs as well as Pennsylvania General Assistance.    -6-(4) “Gross Receipts” shall exclude receipts subject to the City
+Programs as well as Pennsylvania General Assistance
+2038	    -6-(4) “Gross Receipts” shall exclude receipts subject to the City
 Mercantile License Tax, the City Business Privilege Tax, the Earned Income Tax, or 
-any taxes collect ed as an agent for any government (such as sales taxes) . At this time, 
-the City does not collect any Mercantile License Tax or Business Privilege Tax.  
+any taxes collect ed as an agent for any government (such as sales taxes) 
+2039	 At this time, 
+the City does not collect any Mercantile License Tax or Business Privilege Tax
+2040	  
 (5)“Gross Receipts” shall exclude membership fees, dues of the
 members of the  Institution, voluntary or charitable contributions unrelated to individual 
-service or assessments which fall equally upon all members.   Local Tax Enabling Act, 
-53 P.S. § 6924.301.1(f)(7).   However, individual charges for service  to a member or 
+service or assessments which fall equally upon all members
+2041	   Local Tax Enabling Act, 
+53 P
+2042	S
+2043	 § 6924
+2044	301
+2045	1(f)(7)
+2046	   However, individual charges for service  to a member or 
 non-member of an Institution are not membership fees but Gross Receipts subject to 
-Tax.  
+Tax
+2047	  
 (6)Donations , dues , and receipts associated with religious services
-received by religious organizations , are excluded from “Gross Receipts.”  Non -religious 
-activities of religious organizations, i.e. bingo, bazaars, etc. are excluded from “Gross 
+received by religious organizations , are excluded from “Gross Receipts
+2048	”  Non -religious 
+activities of religious organizations, i
+2049	e
+2050	 bingo, bazaars, etc
+2051	 are excluded from “Gross 
 Receipts” unless the organizers and/or operators of such activities are paid for 
-rendering such services.  
+rendering such services
+2052	  
 (7)“Gross Receipts” shall exclude receipts attributab le to activities
 sponsored and conducted solely and completely by and for the entity by unpaid 
-volunteers.  
-(8)“Gross Receipts” shall exclude receipts of Exempt Institutions.
+volunteers
+2053	  
+(8)“Gross Receipts” shall exclude receipts of Exempt Institutions
+2054	
 (9)“Gross Receipts” shall exclude any receipts which the City is
 prohibiting fro m taxing by reason of federal law, the Constitution of the United States, 
-or the laws Commonwealth.  Any person making such as claim shall provide on its tax 
+or the laws Commonwealth
+2055	  Any person making such as claim shall provide on its tax 
 return a short citation to applicable case or statutory law that is the basis for the 
-exemption cl aim. 
+exemption cl aim
+2056	 
 (10)“Gross Receipts” that are excluded from Tax are called “ Exempt
-Receipts .” 
+Receipts 
+2057	” 
 (d) "Person " - any foundation, partnership, corporation,  charitable trust,
 limited liability company,  unincorporated association or any other organization 
 operating under a non -profit charter or organized as a non -profit charter or organized 
 as a non -profit entity, which provides Service to the public or to any select or limited 
-number thereof.   Examples of entities organized as a non -profit entity include, non -
-profit corporations formed under the Non-Profit Corporation Law of 1988 , 15 Pa.C.S.  
+number thereof
+2058	   Examples of entities organized as a non -profit entity include, non -
+profit corporations formed under the Non-Profit Corporation Law of 1988 , 15 Pa
+2059	C
+2060	S
+2061	  
 § 5101, or any predecessor or successor law, or the Pennsylvania Uniform
-Unincorporated Nonprofit Association Law,  15 Pa.C.S. § 9111, or any predecessor or
-successor law.
+Unincorporated Nonprofit Association Law,  15 Pa
+2062	C
+2063	S
+2064	 § 9111, or any predecessor or
+successor law
+2065	
 (1) The word “person”  includes an y incorporated or unincorporated
 entity , trust, or foundation , which provides a taxable Service,  which is exempt  from the 
-Corporate Net Income tax under  72 P.S. § 7401 (1)3 and § 7401(1)4(i) , and which is a 
-member of one of following classes of non-profit entities described under 26 U.S.C. § 
+Corporate Net Income tax under  72 P
+2066	S
+2067	 § 7401 (1)3 and § 7401(1)4(i) , and which is a 
+member of one of following classes of non-profit entities described under 26 U
+2068	S
+2069	C
+2070	 § 
 501: 
 (i) corporations or other organizations exempt under 26
-U.S.C. § 501(c)(3) (such as religious, charitable, scientific,
+U
+2071	S
+2072	C
+2073	 § 501(c)(3) (such as religious, charitable, scientific,
 or sporting  organizations) ; -7-(ii) organizations that would qualify for exemption under 26
-U.S.C. § 501(c)(3) but are excused from applying for
-recognition under 26 U.S.C. § 508(c)(1)(A) or § 508( c)(2)
+U
+2074	S
+2075	C
+2076	 § 501(c)(3) but are excused from applying for
+recognition under 26 U
+2077	S
+2078	C
+2079	 § 508(c)(1)(A) or § 508( c)(2)
 (such as some religious organizations) ;
 (iii) civic leagues , public advocacy,  or social welfare
-organizations exempt under 26 U.S.C. § 501(c)(4) ;
+organizations exempt under 26 U
+2080	S
+2081	C
+2082	 § 501(c)(4) ;
 (iv) labor, agricultural, or horticultural organizations exempt
-under 26 U.S.C. § 501(c)(5) ;
+under 26 U
+2083	S
+2084	C
+2085	 § 501(c)(5) ;
 (v) business leagues, chambers of commerce, boards of trade
 (but expressly excluding professional football leagues)
-exempt under 26 U.S.C. § 501(c)(6) ;
+exempt under 26 U
+2086	S
+2087	C
+2088	 § 501(c)(6) ;
 (vi) social clubs (including sports, recreation, golf, exercise,
-and country clubs) exempt under 26 U.S.C. § 501(c)(7);
+and country clubs) exempt under 26 U
+2089	S
+2090	C
+2091	 § 501(c)(7);
 (vii) fraternal benefit societies, orders or associations exempt
-under 26 U.S.C.  § 501(c)(8);
-(viii) domestic fraternal organizations exempt under 26 U.S.C.
+under 26 U
+2092	S
+2093	C
+2094	  § 501(c)(8);
+(viii) domestic fraternal organizations exempt under 26 U
+2095	S
+2096	C
+2097	
 § 501(c)(10) ;
-(ix) cemeter ies exempt under 26 U.S.C. § 501(c)(13);
-(x) veterans organization s exempt under 26 U.S.C. §
-501(c)(19 ) or 26 U.S.C. § 501(c)(23 );
+(ix) cemeter ies exempt under 26 U
+2098	S
+2099	C
+2100	 § 501(c)(13);
+(x) veterans organization s exempt under 26 U
+2101	S
+2102	C
+2103	 §
+501(c)(19 ) or 26 U
+2104	S
+2105	C
+2106	 § 501(c)(23 );
 (xi) religious and apostolic organizations exempt  under 26
-U.S.C. § 501(d);
+U
+2107	S
+2108	C
+2109	 § 501(d);
 (xii) cooperative hospital service organizations exempt under
-26 U.S.C. § 501(e);  and
+26 U
+2110	S
+2111	C
+2112	 § 501(e);  and
 (xiii) cooperative service organizations operating educational
-organizations exempt under 26 U.S.C. § 501(f).
+organizations exempt under 26 U
+2113	S
+2114	C
+2115	 § 501(f)
+2116	
 (2) Whenever used in any pro visions prescribing a fine or penalty,
 the word "person" as applied to partnerships shall mean the partners thereof; as 
 applied to corporations and  unincorporated associations shall mean the officers 
-thereof; as applied to foundations shall mean the truste es thereof.  
+thereof; as applied to foundations shall mean the truste es thereof
+2117	  
 (3) The word “person” shall not  include any Institution of Purely Public
-Charity  that is recognized as such under 10 P.S. § 371.  The receipt of a sales tax 
+Charity  that is recognized as such under 10 P
+2118	S
+2119	 § 371
+2120	  The receipt of a sales tax 
 exemption issued by the Pennsylvania Department of Revenue is evidence that the 
-person is an Institution of Purely Public Charity.   10 P.S. § 376(a) .  An entity that is 
+person is an Institution of Purely Public Charity
+2121	   10 P
+2122	S
+2123	 § 376(a) 
+2124	  An entity that is 
 merely affiliated with an Institution of Purely Public Charity is not itself exempt unless 
-that entity is itself recognized as an Institution of Purely Pu blic Charity  under 10 P .S. § 
-371. 
+that entity is itself recognized as an Institution of Purely Pu blic Charity  under 10 P 
+2125	S
+2126	 § 
+371
+2127	 
 (4) The word “person” shall not include a natural person, an estate of
 a decedent, or an entity subject to Corporate Net Income Tax, as set forth in  the Tax 
-Reform Code of 1971, 72 P.S. § 7401,  et. seq .  -8-(e) "Service " - carrying on or exercising within the City of Pittsburgh,
+Reform Code of 1971, 72 P
+2128	S
+2129	 § 7401,  et
+2130	 seq 
+2131	  -8-(e) "Service " - carrying on or exercising within the City of Pittsburgh,
 medical , education al, beneficial, social,  recreational,  vocational,  or any other type of 
 service for which a charge is made, as a non -profit entity  and which is not a business 
-subject to the City Business Privilege Tax .  A Service does not include the sale or 
-rental of personal property.   Such Service , when provide d by a Taxable Institution , is 
-an “Institutional Service .” 
+subject to the City Business Privilege Tax 
+2132	  A Service does not include the sale or 
+rental of personal property
+2133	   Such Service , when provide d by a Taxable Institution , is 
+an “Institutional Service 
+2134	” 
 (f) "Taxable Institution " - any person, organization,  foundation,
 corporation or unincorporated associat ion operating under a non -profit charter or 
 recognized as a non -profit entity by the Commonwealth of Pennsylvania, including, 
 but not limited to, hospitals, nursing homes, colleges, universities, schools other than 
 elementary and secondary  schools , cemeteries, veterans organizations, recreational 
 centers, fund -raising organizations and all other organizations which provide Service 
-to the public , listed under Section 101( d) of these Regulations .   The phrase “Taxable 
+to the public , listed under Section 101( d) of these Regulations 
+2135	   The phrase “Taxable 
 Institution” shall not include a ny Exempt Institution  or any entity or unincorporated 
-association that is not a “person.”  
+association that is not a “person
+2136	”  
 (g) “Tax” – means the Institution and Service Privilege imposed by Title
-Two, Article VII, Chapter 247 of the City of Pittsburgh Code of Ordinances . 
-(h) "Tax Year ” - the twel ve-month period from January 1  to December 31.
+Two, Article VII, Chapter 247 of the City of Pittsburgh Code of Ordinances 
+2137	 
+(h) "Tax Year ” - the twel ve-month period from January 1  to December 31
+2138	
 (i) “Taxpayer ” includes any person  or Institution  subject to the Privilege
 Tax that is not an E xempt Institution or any  entity or unincorporated association that 
-is not a “person.”  
-(j) "Treasurer " - the Treasurer of the City of Pittsburgh.
-Section  102. — Who must file a return . 
+is not a “person
+2139	”  
+(j) "Treasurer " - the Treasurer of the City of Pittsburgh
+2140	
+Section  102
+2141	 — Who must file a return 
+2142	 
 (a) Every person or Taxable Institution engaging in a non -profit Service
-in the City of Pittsburgh.  
+in the City of Pittsburgh
+2143	  
 (b) Every person or Taxable Institution subject to  the tax imposed by
 Ordinance shall forthwith register with the Treasurer and set forth the name, address 
 and nature of the service activity in which it is engaged  and shall obtain the license 
-required by Section 247.05 of the Pittsburgh Code of Ordinances.   -9-Section  103.—Tax Base.  
+required by Section 247
+2144	05 of the Pittsburgh Code of Ordinances
+2145	   -9-Section  103
+2146	—Tax Base
+2147	  
 The gross receipts o f every person engaged in any institution or non -profit Service in 
-the City of Pittsburgh.   Specifically excluded from tax are Exempt Receipts.  
-Section  104.—What Constitutes Rendering Services in Pittsburgh.  
+the City of Pittsburgh
+2148	   Specifically excluded from tax are Exempt Receipts
+2149	  
+Section  104
+2150	—What Constitutes Rendering Services in Pittsburgh
+2151	  
 (a) Whether or not a person carries on a taxable activity within the meaning
-of the Institution and Service Privilege Tax is essentially a question of fact. In general, 
+of the Institution and Service Privilege Tax is essentially a question of fact
+2152	 In general, 
 taxable activity includes any activity by a person or institution engaging in a Service 
-for which a charge is made.  
+for which a charge is made
+2153	  
 (b) A person or Institution who engages in a taxable activity in Pittsburgh, is
 subject to this tax, whether he is a resident or whether he has a permanent location in 
-Pittsburgh.  
-Section  105. – Receipts from Governmental Agenc ies and  Non-Profit Organization s. 
+Pittsburgh
+2154	  
+Section  105
+2155	 – Receipts from Governmental Agenc ies and  Non-Profit Organization s
+2156	 
 (a) Receipts from sales made or Services rendered to all government
 bodies, including authorities, and to religious, charitable and educational corporations 
-and associations shall not be excluded from the tax base.   Receipts from thi rd party 
+and associations shall not be excluded from the tax base
+2157	   Receipts from thi rd party 
 payments made by government agencies for Services rendered to others shall be 
-included in the tax base.  
+included in the tax base
+2158	  
 (b) Notwithstanding the above, Exempt Receipts and receipts of Exempt
-Institutions are excluded from the tax base.  
-Section 106 . – References to Federal Statutes  
+Institutions are excluded from the tax base
+2159	  
+Section 106 
+2160	 – References to Federal Statutes  
 All references in these regulations to federal statutes are intended to include 
 references to federal statutes in effect on January 1, 20 20, without regard to any later 
-amendment or repeal.   -10-ARTICLE  II 
+amendment or repeal
+2161	   -10-ARTICLE  II 
 RETURNS  
-Sectio n 201 . — Filin g Return.  
+Sectio n 201 
+2162	 — Filin g Return
+2163	  
 (a) Excep t as to new busine ss, bot h the tax retu rn an d paymen t of the tax 
-are du e on April 15t h of eve ry year. 
+are du e on April 15t h of eve ry year
+2164	 
 (b) Forms  may  be obtained  from  the City  Treasurer,  City-County  Building, 
-Pittsburgh, Pennsylvania 15219. Failure to receive the  forms will not excuse a taxpayer 
-for failure to file his return. 
+Pittsburgh, Pennsylvania 15219
+2165	 Failure to receive the  forms will not excuse a taxpayer 
+for failure to file his return
+2166	 
 (c) The return must be file d with th e City Treasu rer, City-Coun ty Building , 
-Pittsburgh , Pennsylvan ia 15219. 
-(d) If the taxpayer is an individual, he shall sign the return.  If the taxpayer is 
+Pittsburgh , Pennsylvan ia 15219
+2167	 
+(d) If the taxpayer is an individual, he shall sign the return
+2168	  If the taxpayer is 
 a corporation  or unincorporated  entity,  a Director,  President,  Trustee  or Officer  may 
-sign the return. 
+sign the return
+2169	 
 (e) If a taxpayer  maintains  more  than  one  location  in Pittsburgh,  he is 
 required  to file only  one  (1) return  and  may  include  therein  the receipts  from 
-transactions  occurring  in all  his locations  in Pittsburgh.  Where  one (1) return  covers 
+transactions  occurring  in all  his locations  in Pittsburgh
+2170	  Where  one (1) return  covers 
 more  than  one (1) location,  a schedule  shall  be attached  to the return  showing  the 
-various locations at which the taxpayer conducts business in Pittsburgh. 
-Sectio n 202 . — Paymen t of Tax. 
+various locations at which the taxpayer conducts business in Pittsburgh
+2171	 
+Sectio n 202 
+2172	 — Paymen t of Tax
+2173	 
 Payment of tax may be made in cash, or by check or money order drawn to the order 
-of the Treasurer  of the City  of Pittsburgh.  Cash  payments  must  be made  only  to a 
+of the Treasurer  of the City  of Pittsburgh
+2174	  Cash  payments  must  be made  only  to a 
 cashier  in the  Department  of Treasurer,  City-County  Building,  Pittsburgh, 
-Pennsylvania. 
-Sectio n 203.—Tax Rate. 
-The rate of tax is six (6) mills on each dollar of annual receipts. (Six mills equals $6.00 
-per $1,000 or 6/10 of 1%).   In no event may the rate of tax on proprietors of restaurants 
+Pennsylvania
+2175	 
+Sectio n 203
+2176	—Tax Rate
+2177	 
+The rate of tax is six (6) mills on each dollar of annual receipts
+2178	 (Six mills equals $6
+2179	00 
+per $1,000 or 6/10 of 1%)
+2180	   In no event may the rate of tax on proprietors of restaurants 
 and other places where food, drink and  refreshments are served exceed two (2) mills 
-on each dollar of annual receipts.  53 P.S. § 6924.311(2).   (Two mills equals $2.00 per 
-$1,000 or 2/10 of 1%). 
-Section 204. – Penalties and Interest. 
+on each dollar of annual receipts
+2181	  53 P
+2182	S
+2183	 § 6924
+2184	311(2)
+2185	   (Two mills equals $2
+2186	00 per 
+$1,000 or 2/10 of 1%)
+2187	 
+Section 204
+2188	 – Penalties and Interest
+2189	 
 If the tax is not paid when due, interest at the rate of one percent (1%) per month shall 
-be added to the amount of the tax. In addition, a penalty of one-half of one 
-percent ( 0.5%) of the amount of the unpaid tax or each month or fraction thereof, 
-during which the tax remains unpaid, shall be added and collected.  -11-ARTICLE  III 
+be added to the amount of the tax
+2190	 In addition, a penalty of one-half of one 
+percent ( 0
+2191	5%) of the amount of the unpaid tax or each month or fraction thereof, 
+during which the tax remains unpaid, shall be added and collected
+2192	  -11-ARTICLE  III 
 TAXABILITY  
-Section  301.—Period Used in Calculating the Tax . 
+Section  301
+2193	—Period Used in Calculating the Tax 
+2194	 
 (a) The tax is measured by the amount of service transacted by the Taxpayer
 or Institution during the entire receding calendar year, except for those taxpayers:  
 (1) who were not in service during the whole of the preceding calendar
 year, or  
 (2) who began services during the current calendar year, or
-(3) whose service is temporary, seasonal or itinerant.
+(3) whose service is temporary, seasonal or itinerant
+2195	
 (b) Every person subject to the tax imposed by this Ordinance, who has
 commenced its service at least one (1) full year prior to the beginning of any tax year 
 shall,  on or before the fifteenth (15th) day of  April , following and annually thereafter, 
 file with the Treasurer, a return setting forth the name, the service rendered, the person 
 or Institution address and such other information as may be necessary, in arriving at 
 the annual gross volume of services transa cted by it during the preceding year and 
-amount of tax due.  
+amount of tax due
+2196	  
 (c) Every person or Institution subject to the tax imposed by this Ordinance,
 who has commenced its service less than one (1) full year prior to the beginning of the 
 tax year shall, on or before the fifteenth (15th) day of April , following, file with the 
 Treasurer a return and compute its annual gross receipts, for such tax year upon the 
 gross receipts generated by the services transacted within the City during the first 
-month it engages in such servic e activity multiplied by twelve (12).  
+month it engages in such servic e activity multiplied by twelve (12)
+2197	  
 (d) Every person subject to the tax imposed by Ordinance, who commences,
 subsequent to the beginning of the tax year, shall within forty days from the date of 
 commencing such service, file a return with the Treasurer setti ng forth the name, the 
 service rendered, the institution address and such other information as may be 
 necessary in arriving at the actual volume of services transacted by it during the first 
-month of service and amount of tax due . 
+month of service and amount of tax due 
+2198	 
 (e) Every person or Institution subject to the payment of the tax imposed by
 this Ordinance who engages in a service temporary, seasonal or itinerant by its nature 
 shall,  with seven (7 ) days from the day it completes such service, file a return with the 
 Treasurer setting forth  its name, service, the person or Institution address and such 
 other information as may be necessary in arriving at the actual gross volume of service, 
-during the tax period and the amount of tax due . 
-Section  302. – Taxable Gross Receipts  
+during the tax period and the amount of tax due 
+2199	 
+Section  302
+2200	 – Taxable Gross Receipts  
 (a) Cash, credits, property of any kind or nature received in or allocable to
 The City from any Institution by reason of any transaction or  any service 
 without deduction therefrom on account of property sold, materials used,  labor, service 
-or other cost, int erest or discount paid,  or any other expense.  
+or other cost, int erest or discount paid,  or any other expense
+2201	  
  -12-(1) Includes payments from insurance or other third -party payments
-for the cost of service .  All forms of government third -party payments , income or grants  
+for the cost of service 
+2202	  All forms of government third -party payments , income or grants  
 for Service, received by the Institution such as Medicare, Medicaid and General 
-Assistance receipts, are subject to tax.  
-(2) Excludes Exempt Receipt s or receipts of Exempt Institutions.
+Assistance receipts, are subject to tax
+2203	  
+(2) Excludes Exempt Receipt s or receipts of Exempt Institutions
+2204	
 (b) To assist in the review of Taxable Gross Receipts, th e taxpayer shall
 attach a duplicate of any Form 990 -T filed with the Internal Revenue Service for the 
-most recent period.    -13-ARTICLE IV  
+most recent period
+2205	    -13-ARTICLE IV  
 DETERMINATION OF TAX BASE  
-Section  401. — Inclusions.  
+Section  401
+2206	 — Inclusions
+2207	  
 The tax is imposed on every person engaging in any Institutional or non -profit Service 
-in the City of Pittsburgh.   The tax is not imposed on Exempt Institutions.   
-Section  402.  –   Pittsburgh Receipts . 
-(a) General .  Except for receipts associated with interstate commerce,
+in the City of Pittsburgh
+2208	   The tax is not imposed on Exempt Institutions
+2209	   
+Section  402
+2210	  –   Pittsburgh Receipts 
+2211	 
+(a) General 
+2212	  Except for receipts associated with interstate commerce,
 receipts from any transaction shall b e attributable  to Pittsburgh, if  any event forming a 
 part of the transaction occurs within Pittsburgh  or the taxpayer’s only office is located 
-within the City  and the Service is offered from a Pittsburgh location . 
+within the City  and the Service is offered from a Pittsburgh location 
+2213	 
 (b) Any receipts arising from Institutional on non -profit service to the general
-public or any select or limited number thereof, is taxable if a charge is made.   Intrastate 
+public or any select or limited number thereof, is taxable if a charge is made
+2214	   Intrastate 
 receipts from services which are the result of business activities carried on through a 
 branch office located outs ide Pittsburgh, are taxable if such services are performed in 
-Pittsburgh  if the service is offered from the City . 
+Pittsburgh  if the service is offered from the City 
+2215	 
 (c) Persons engaging in any Institutional or non -profit service be it
-professional, commercial , or personal services, are subject to the  tax. If a  person 
+professional, commercial , or personal services, are subject to the  tax
+2216	 If a  person 
 engaging in any Institutional or non -profit service only maintains a place of business in 
 the City of Pittsburgh, the entire receipts from intrastate activity  in the Commonwealth  
 from personal services must be included in the measure of the tax, wh ether or not the 
-services are performed in Pittsburgh. Receipts will be deemed attributable to Pittsburgh, 
+services are performed in Pittsburgh
+2217	 Receipts will be deemed attributable to Pittsburgh, 
 if they result from the efforts of employees who work in,  or from or are attached to 
-taxpayer's Pittsburgh place of business.   If any taxpayer is subject to Privilege tax in two 
+taxpayer's Pittsburgh place of business
+2218	   If any taxpayer is subject to Privilege tax in two 
 or more jurisdictions in Pennsylvania, he may request a ruling from the Treasurer  to 
-address the issue of potential double taxation .  
+address the issue of potential double taxation 
+2219	  
 (d) Receipts associated with interstate commerce shall be apportioned to
 the City by multiplying total receipts earned everywhere times the City Apportionment 
-percentage.  The City Apportionment percentage  is the sum of the following three 
+percentage
+2220	  The City Apportionment percentage  is the sum of the following three 
 apportionment factors:  Payroll  Percentage factor , Property  Percentage factor , and 
-Sales Percentage  factor , divided by three . If one of the percentage factors is zero, the 
-denominator shall be two.  If two of the percentage factors are zero, the dominator shall 
-be one.   In no event can a percentage factor be less than zero.  
+Sales Percentage  factor , divided by three 
+2221	 If one of the percentage factors is zero, the 
+denominator shall be two
+2222	  If two of the percentage factors are zero, the dominator shall 
+be one
+2223	   In no event can a percentage factor be less than zero
+2224	  
 (1) The Payroll Percentage factor  shall be payroll reported by the
 taxpayer subject to City local earned income tax divided by total payroll reported on 
-Federal Form 940.  If the taxpayer only has one office in the Commonwealth and that 
+Federal Form 940
+2225	  If the taxpayer only has one office in the Commonwealth and that 
 office is in the City, the numerator  of the Payroll percentage factor shall be total payroll 
-reported to the Pennsylvania Department of Revenue.  
+reported to the Pennsylvania Department of Revenue
+2226	  
 (2) The Property Percentage factor  shall be the sum of tangible
 property located in the Cit y divided by the sum of tangible property located everywhere  
-in the United States, determined as of December 31 .  Property shall be recorded at its 
-original cost before any depreciation , amortization, or cost depletion .  Leased property  -14-shall be recorded as an item of tangible property at eight  (8) times annual rent  for the 
-leased property .  Movable property is in the City if it is in the City on December 31 of 
-the calendar year.   If the taxpayer only has one office in the Commonwealth and that 
+in the United States, determined as of December 31 
+2227	  Property shall be recorded at its 
+original cost before any depreciation , amortization, or cost depletion 
+2228	  Leased property  -14-shall be recorded as an item of tangible property at eight  (8) times annual rent  for the 
+leased property 
+2229	  Movable property is in the City if it is in the City on December 31 of 
+the calendar year
+2230	   If the taxpayer only has one office in the Commonwealth and that 
 office is in the City, the numerator of the Property pe rcentage factor shall be sum of 
-tangible property located in the Commonwealth.  
+tangible property located in the Commonwealth
+2231	  
 (3) The Sales Percentage factor  shall be gross receipts from
 Services provided in the  City or offered from a City location divided by gross receipts 
-everywhere.   If additional guidance is required with regard to the definition of Sales, 
+everywhere
+2232	   If additional guidance is required with regard to the definition of Sales, 
 the taxpayer shall follow the practice of the Pennsylvania Department of Revenue 
-under the Corporate Net Income Tax provisions of the Tax Reform Act, 72 P.S. § 7401, 
-so long as such pr actice is not inconsistent with the purposes of the Privilege Tax.  
+under the Corporate Net Income Tax provisions of the Tax Reform Act, 72 P
+2233	S
+2234	 § 7401, 
+so long as such pr actice is not inconsistent with the purposes of the Privilege Tax
+2235	  
 (4) A taxpayer is engaged in interstate commerce if it is subject to tax
 in another jurisdiction , outside the Commonwealth,  on its net income or on its gross 
-receipts.   A taxpayer can show it is subject to tax in another jurisdiction by providing 
-copies of tax returns  filed with taxing jurisdictions outside the Commonwealth.   If 
+receipts
+2236	   A taxpayer can show it is subject to tax in another jurisdiction by providing 
+copies of tax returns  filed with taxing jurisdictions outside the Commonwealth
+2237	   If 
 intrastate receipts are co -mingled with interstate activity, all receipts shall be 
-considered interstate receipts.  
+considered interstate receipts
+2238	  
 (5) If the application of the City apportionment percentage  results in
 the same gross receipts of the Taxpayer being taxable , for gross receipts or privilege 
 tax purposes,  by two or more jurisdictions  in the United States , the Taxpayer may 
 approach the Treasurer  for a ruling  to avoid this double taxation, such as receiving a 
 credit for gross receipts or privilege taxes paid  elsewhere , or by a modification of the 
-City apportionment percentage.   No credit will be granted by the City for net income 
-taxes , excise taxes,  or transaction taxes  paid to another jurisdiction.   -15-ARTICLE V  
-SUITS FOR COLLECTION, PENALTIES, ETC.  
-Section  501. — Suits for Recovery of Unpaid T axes.  
+City apportionment percentage
+2239	   No credit will be granted by the City for net income 
+taxes , excise taxes,  or transaction taxes  paid to another jurisdiction
+2240	   -15-ARTICLE V  
+SUITS FOR COLLECTION, PENALTIES, ETC
+2241	  
+Section  501
+2242	 — Suits for Recovery of Unpaid T axes
+2243	  
 (a) The following periods of limitations shall apply to suits for collection of
-taxes.  
+taxes
+2244	  
 (1) When a return has been filed but no tax paid, any suit brought to
 recover the tax due and unpaid shall be filed within three (3) years after the return was 
-due or filed, whichever is later. Where no return was filed, there shall be no limit to file 
-suit for the  collection of taxes.  
+due or filed, whichever is later
+2245	 Where no return was filed, there shall be no limit to file 
+suit for the  collection of taxes
+2246	  
 (2) In the case of a deficiency assessment, suit shall be filed within
-three (3) years after the assessment has been made.  
+three (3) years after the assessment has been made
+2247	  
 (b) The limitations set forth in paragraph (a) shall not prevent the institution
 of a suit for the collection of any ta x due or determined to be due in the following cases:  
-(1) When no return was filed, there is no limitation.
-(2) When the return is fraudulent, there is no limitation.
+(1) When no return was filed, there is no limitation
+2248	
+(2) When the return is fraudulent, there is no limitation
+2249	
 (3) When there is an understatement of tax liability of twenty -five
-(25%) or more, and not due to fra ud, suit must be begun within six (6) years.  
+(25%) or more, and not due to fra ud, suit must be begun within six (6) years
+2250	  
 (4) A return filed before the due date is deemed to be filed on the due
-date.  
-Section 502 . — Penalty and Interest for N on-payment.  
+date
+2251	  
+Section 502 
+2252	 — Penalty and Interest for N on-payment
+2253	  
 (a) If, however, any Taxpayer shall fail to make any report and payment as
-herein required a penalty at the rate of one-half  of one percent (0.5%) per month for 
+herein required a penalty at the rate of one-half  of one percent (0
+2254	5%) per month for 
 each month or a fraction of a whole month on the amount of tax and interest of one 
 (1%) percent per month for each month or fraction of a whole month during the period 
-in which the tax remains unpaid shall be added to the tax.  In no event shall the 
+in which the tax remains unpaid shall be added to the tax
+2255	  In no event shall the 
 interest rate assessed exceed the maximum rate allowed by the Municipal Claims and 
-Tax Liens Act, 53 P.S. §7143, or applicable law. 
-(b) There is no limit or cut off point, for applying penalty and interest.
+Tax Liens Act, 53 P
+2256	S
+2257	 §7143, or applicable law
+2258	 
+(b) There is no limit or cut off point, for applying penalty and interest
+2259	
 (c) On any additional tax determined to be due as a result of a deficiency
 assessment, penalty and interest will be assessed from the day the tax should have 
-been paid to t he date of payment.  Penalty and interest is calculated as described 
-above.  
+been paid to t he date of payment
+2260	  Penalty and interest is calculated as described 
+above
+2261	  
 (d) Where suit is brought for the recovery of such tax, the person liable
 therefore shall, in addition, be liable for the costs of collection and the interest and 
-penalties herein impo sed. Once due and owing, penalty and interest become part of 
-the tax and shall be collected as such. A person’s belief that no tax is due and owing, 
+penalties herein impo sed
+2262	 Once due and owing, penalty and interest become part of 
+the tax and shall be collected as such
+2263	 A person’s belief that no tax is due and owing, 
 or the failure of any person to receive or obtain the forms required for making the 
 returns required under the City Code is not a valid defense to the imposition of penalties 
-herein for violation.  Good faith shall not be a defense to the imposition of penalty.   -16-Section  503. – Fines and Penalties for Violation of Act.  
+herein for violation
+2264	  Good faith shall not be a defense to the imposition of penalty
+2265	   -16-Section  503
+2266	 – Fines and Penalties for Violation of Act
+2267	  
 (a) Whoever willfully makes any false or untrue  statement on the return shall,
 upon summary conviction thereof, be sentenced to pay a fine of not more than five 
-hundred dollars ($500.00) or to undergo imprisonment for not more than thirty (30) 
-days.  
+hundred dollars ($500
+2268	00) or to undergo imprisonment for not more than thirty (30) 
+days
+2269	  
 (b) Whoever willfully fails or refuses to appear before the Treasurer, in
 person with his books, records or accounts for  examination when required under the 
 provisions of the Institution and Service Privilege Tax Ordinance, to do so, or who 
 willfully refuses to permit inspection of the books, records or accounts of any services 
 in custody or control,  when the right to make such inspection by the Treasurer is 
 requested,  shall upon summary conviction thereof, be sentenced to pay a fine of not 
-more than Five Hundred Dollars  ($500.00), or to undergo imprisonm ent for not more 
-than thirty (30 ) days.  
+more than Five Hundred Dollars  ($500
+2270	00), or to undergo imprisonm ent for not more 
+than thirty (30 ) days
+2271	  
 (c) Whoever willfully fails or refuses to file a return required by the  Instit ution
 and Service Privilege Tax Ordinance , shall, upon summary conviction thereof, be 
-sentenced to pay a fine of not more than Five Hundred Dollars ($500.00), or undergo 
-imprisonment for not more than thirty (30) days . 
-Section 504 . – Remedies Not Mutually Exclusive  
-The remedies provided in this Article are not mutually exclusive.  The utilization by the 
-Treasurer of one remedy does n ot preclude utilization of the other.  
+sentenced to pay a fine of not more than Five Hundred Dollars ($500
+2272	00), or undergo 
+imprisonment for not more than thirty (30) days 
+2273	 
+Section 504 
+2274	 – Remedies Not Mutually Exclusive  
+The remedies provided in this Article are not mutually exclusive
+2275	  The utilization by the 
+Treasurer of one remedy does n ot preclude utilization of the other
+2276	  
 Moreover, use of either or both of the remedies provided in these Sections does not 
 preclude the use by the City of Pittsburgh of any other legal or administrative procedure 
 which can bring about compliance by the Taxp ayer with the provisions of Chapter 241 
-of the Pittsburgh Code and these regulations.  
+of the Pittsburgh Code and these regulations
+2277	  
 Once it has been determined that that a Taxpayer owes a tax, the Treasurer will take 
-all actions legally permitted to enforce its claim. Such action may include obtaining  
+all actions legally permitted to enforce its claim
+2278	 Such action may include obtaining  
 additional information, auditing Taxpayer records, entering into a settlement of the 
 disputed amount of the tax, or obtaining liens on the Taxpayer’s property, wage 
 attachments, levies, and seizures and sales of the Taxpayer’s property in appropriate 
-circumstances. The Treasurer may enter into a written agreement with the Taxpayer for 
+circumstances
+2279	 The Treasurer may enter into a written agreement with the Taxpayer for 
 payment of the tax in installments if the Treasurer believes that such an agreement will 
-facilitate collection. The Treasurer may also impose interest and applicable penaltie s 
-on the tax due, and may seek criminal charges in appropriate circumstances.    -17- 
+facilitate collection
+2280	 The Treasurer may also impose interest and applicable penaltie s 
+on the tax due, and may seek criminal charges in appropriate circumstances
+2281	    -17- 
  ARTICLE VI  
 TAXPAYER REMEDIES  
-Section  601. – Treasurer (Director) Hearings  
+Section  601
+2282	 – Treasurer (Director) Hearings  
 (a) Any taxpayer aggrieved by an assessment by the Treasurer shall, within 
 ninety (90) days after the date of notice of the assessment, request a Treasurer’s 
-Hearing on a form obtained from the Treasurer for that purpose. 53 Pa.C.S. § 8431. 
-The Treasurer may o n his/her own initiative cite a Taxpayer for a hearing.  
+Hearing on a form obtained from the Treasurer for that purpose
+2283	 53 Pa
+2284	C
+2285	S
+2286	 § 8431
+2287	 
+The Treasurer may o n his/her own initiative cite a Taxpayer for a hearing
+2288	  
 (b) Any taxpayer who fails to request a Treasurer’s Hearing within a timely 
 manner, waives the right to contest any element of the assessment, and that party’s 
 failure to challenge the Treasurer’s adjudication will be construed as an admission by 
-that party as to the propriety of the assessment.  
+that party as to the propriety of the assessment
+2289	  
 (c) The written petition for reassessment shall contain at minimum:  
-1. The petitioner’s name, address, and daytime telephone number.  
-2. The petitioner’s account and/ or social security number.  
-3. A copy of the assessment notice the party received from the 
-Finance Department.  
-4. A detailed explanation consisting of the reason or reasons the 
+1
+2290	 The petitioner’s name, address, and daytime telephone number
+2291	  
+2
+2292	 The petitioner’s account and/ or social security number
+2293	  
+3
+2294	 A copy of the assessment notice the party received from the 
+Finance Department
+2295	  
+4
+2296	 A detailed explanation consisting of the reason or reasons the 
 petitioner disagrees with the assessment and any documentation necessary to support 
-the petitioner’s claims.  
-5. Petitioner’s signature.  
+the petitioner’s claims
+2297	  
+5
+2298	 Petitioner’s signature
+2299	  
 (d) The completed petition should be mailed to:  
 TREASURER HEARINGS  
 TREASURER – CITY OF PITTSBURGH  
 414 GRANT ST  
 PITTSBURGH PA 15219 -2476  
 (e) Any taxpayer may request a Treasurer’s Hearing so that his tax refund 
-request can be reviewed.  
+request can be reviewed
+2300	  
 (f) The Treasurer will abate any penalties and interest only in accordance 
-with 53 Pa.C.S. § 8428.  
+with 53 Pa
+2301	C
+2302	S
+2303	 § 8428
+2304	  
 (g) The Treasurer will issue its decision within 60 days of the receipt of the 
-petitioner’s complete and accurate petition form.  
+petitioner’s complete and accurate petition form
+2305	  
  
-Section 602 . – Appeals  
+Section 602 
+2306	 – Appeals  
 Any person aggrieved by the decision of the Treasurer, following a hearing, shall have 
 the right to make an appeal to the Court of Common Pleas of Allegheny County, in 
-accordance with the Taxpayer’s Bill of Rights Act. 53 Pa.C.S. § 8434.  Any appeal must 
+accordance with the Taxpayer’s Bill of Rights Act
+2307	 53 Pa
+2308	C
+2309	S
+2310	 § 8434
+2311	  Any appeal must 
 be commenced within thirty (30) days of the date of the notice of the Treasurer’s 
-decision. If no such appeal is timely filed, the aggrieved party waives his/her right to 
+decision
+2312	 If no such appeal is timely filed, the aggrieved party waives his/her right to 
 contest any element of the Treasurer’s adjudication, and that party’s fai lure to challenge  -18- 
  the same will be construed as an admission by that party as to the propriety of the 
-Treasurer’s decision. No hearing or appeal will operate to suspend the accrual of 
-penalty and interest from the date the tax was due to the date it is act ually paid.  
+Treasurer’s decision
+2313	 No hearing or appeal will operate to suspend the accrual of 
+penalty and interest from the date the tax was due to the date it is act ually paid
+2314	  
  
-Section 603 . – Payment Under Protest  
+Section 603 
+2315	 – Payment Under Protest  
 The Treasurer will accept payments of disputed tax amounts under protest pending 
 appeals; however, any request for refund of such monies must be filed in accordance 
-with Section 604.  
+with Section 604
+2316	  
  
-Section 604. — Refunds . 
+Section 604
+2317	 — Refunds 
+2318	 
 (a) A Taxpayer who has overpaid the Privilege Tax, or who believes he/she 
 is not obligated to remit the Privilege Tax may file a written request on an amended tax 
-return with the Department of Finance for a refund or a credit of the tax. A request for 
+return with the Department of Finance for a refund or a credit of the tax
+2319	 A request for 
 refund  or a credit shall be made within three (3) years of the due date for filing the 
-report or one (1) year after actual payment of the tax, whichever is later. If no report is 
+report or one (1) year after actual payment of the tax, whichever is later
+2320	 If no report is 
 required, the request shall be made within three (3) years after the due date for 
 payment of the tax or within one (1) year after actual payment of the tax, whichever is 
-later.  
+later
+2321	  
 (b) For amounts paid as a result of a notice asserting or informing a Taxpayer 
 of an underpayment, a written request for a refund shall be filed with the Department 
-of Finance within one (1) year of the date of the payment.  
+of Finance within one (1) year of the date of the payment
+2322	  
 (c) Every person or institution who ceases to carry on services during any 
 tax year after having paid the Institution and Service Privilege Tax for the entire year 
 shall, upon making proper application to the Treasurer, be entitled to receive entitled 
 to receive a refund of the prorate amount of the tax paid based upon the period of time 
-he was not in service during the license year. In the event that a person who 
+he was not in service during the license year
+2323	 In the event that a person who 
 discontinues services during any tax yea r does so before payment of its tax becomes 
 due for such tax year, it shall be permitted to apportion its tax for such tax year and 
 shall pay an amount to be computed by multiplying its gross receipts for the preceding 
 full calendar year by a fraction whos e numerator shall be the number of months such 
 person or institution was in service during the tax year and whose denominator shall 
-be twelve (12). 
-Section 605 . – Installment Payment Plan For Any Deficiency  
+be twelve (12)
+2324	 
+Section 605 
+2325	 – Installment Payment Plan For Any Deficiency  
 In the appropriate circumstances, the Treasurer will enter an installment payment plan 
 and defer further collection action, if the Taxpayer enters into a written  agreement with 
-the Treasurer. The Treasurer will approve installment payment plans only if suc h a plan 
-is in the best interests of the City.  The Taxpayer must specifically request the installment 
-payment plan from the Treasurer. For the required terms of any installment plan See, 
-Second Class City Treasurer’s Sale and Collection Act, 53 P.S. § 2720 7 and Local 
-Taxpayer Bill of Rights, 53 Pa.C.S. § 8436.  If the Taxpayer fails to abide by the terms 
+the Treasurer
+2326	 The Treasurer will approve installment payment plans only if suc h a plan 
+is in the best interests of the City
+2327	  The Taxpayer must specifically request the installment 
+payment plan from the Treasurer
+2328	 For the required terms of any installment plan See, 
+Second Class City Treasurer’s Sale and Collection Act, 53 P
+2329	S
+2330	 § 2720 7 and Local 
+Taxpayer Bill of Rights, 53 Pa
+2331	C
+2332	S
+2333	 § 8436
+2334	  If the Taxpayer fails to abide by the terms 
 of the installment payment plan, the Treasurer may demand immediate payment of tax, 
-penalty, and interest.   -19- 
+penalty, and interest
+2335	   -19- 
  ARTICLE VII  
 SAVINGS CLAUSE AND SEVERAB ILITY  
  
-Section 701 . – Savings Clause and Severability . 
+Section 701 
+2336	 – Savings Clause and Severability 
+2337	 
 If a final decision of a court of competent jurisdiction holds any provision of these 
 regulations, or the application of any provision to any circumstances, to be illegal or 
 unconstitutional, the other  provisions in these regulations, or the application of such 
-provision to other circumstances, shall remain in full force and effect.  
+provision to other circumstances, shall remain in full force and effect
+2338	  
 The intent of the Treasurer is that the provisions of these regulations shall be severable 
 and that they would have been a dopted if any such illegal or unconstitutional provisions 
-had not been included herein.  
+had not been included herein
+2339	  
  
-Section 702 . – Disclosure Statement  
+Section 702 
+2340	 – Disclosure Statement  
 A copy of the Taxpayer Bill of Rights can be requested in writing at the address below 
-or downloaded at http://apps.pittsburghpa.gov/finance/10_taxpayers_bill_of_rights.pdf   
+or downloaded at http://apps
+2341	pittsburghpa
+2342	gov/finance/10_taxpayers_bill_of_rights
+2343	pdf   
+ 
+TREASURER, CITY OF PITTSBURGH AUDIT SECTION  
+414 GRANT ST RM 206  
+PITTSBURGH PA 15219 -2476  
+ 
+0	-1-CITY OF PITTSBURGH 
+THE INSTITUTIO N AND SERVICE PRIVILE GE TAX 
+REGULATIONS 
+Revised January 20 20 
+ -2-INTRODUCTION  
+Ordinance No
+1	 676 of 1968 as amended and re -enacted, imposes a tax  upon the 
+privilege of conducting or operating a service or service institution in the City of Pittsburgh, 
+at the rate of six mills as measured by gross receipts derived from all service transactions
+2	   
+The Ordin ance was enacted under the authority of the Local Tax Enabling Act, 53 P
+3	S
+4	 § 
+6924
+5	101, and following
+6	   The current text of the Ordinance can be found in Title Two, Article 
+VII, Chapter 247 of the City of Pittsburgh Code of Ordinances
+7	  
+Questions relating t o specific institutions and specific institution operations not 
+answered in these Regulations, should be submitted in writing to the City Treasurer, on 
+prescribed forms available from: Treasurer, City of Pittsburgh, City­County  Building,  
+Pittsburgh, Pennsylvania 15219
+8	   -3-TABLE OF CONTENTS  
+ARTICLE I – GENERAL PROVISIONS  
+9	
+10	
+11	
+12	
+13	
+14	
+15	
+16	
+17	
+18	
+19	
+20	
+21	
+22	
+23	
+24	
+25	
+26	
+27	
+28	
+29	
+30	
+31	
+32	
+33	
+34	
+35	
+36	
+37	
+38	
+39	
+40	 
+41	
+42	
+43	
+44	
+45	
+46	
+47	
+48	
+49	
+50	
+51	
+52	
+53	
+54	
+55	
+56	
+57	
+58	
+59	
+60	
+61	
+62	
+63	
+64	
+65	
+66	
+67	
+68	
+69	
+70	
+71	
+72	 
+73	
+74	
+75	
+76	
+77	
+78	
+79	
+80	
+81	
+82	
+83	
+84	
+85	
+86	
+87	
+88	
+89	
+90	
+91	
+92	
+93	
+94	
+95	
+96	
+97	
+98	
+99	  4 
+(1) SECTION 101 - DEFINITIONS  
+100	
+101	
+102	
+103	
+104	
+105	
+106	
+107	
+108	
+109	
+110	
+111	
+112	
+113	
+114	
+115	
+116	
+117	
+118	
+119	
+120	
+121	
+122	
+123	
+124	
+125	
+126	
+127	
+128	
+129	
+130	
+131	 
+132	
+133	
+134	
+135	
+136	
+137	
+138	
+139	
+140	
+141	
+142	
+143	
+144	
+145	
+146	
+147	
+148	
+149	
+150	
+151	
+152	
+153	
+154	
+155	
+156	
+157	
+158	
+159	
+160	
+161	
+162	
+163	 
+164	
+165	
+166	
+167	
+168	
+169	
+170	
+171	
+172	
+173	
+174	
+175	
+176	
+177	
+178	
+179	
+180	  4 
+(2) SECTION 102 – WHO MUST FILE A RETURN  
+181	
+182	
+183	
+184	
+185	
+186	
+187	
+188	
+189	
+190	
+191	
+192	
+193	
+194	
+195	
+196	
+197	
+198	
+199	
+200	
+201	
+202	
+203	
+204	
+205	
+206	
+207	
+208	
+209	
+210	
+211	
+212	 
+213	
+214	
+215	
+216	
+217	
+218	
+219	
+220	
+221	
+222	
+223	
+224	
+225	
+226	
+227	
+228	
+229	
+230	
+231	
+232	
+233	
+234	
+235	  7 
+(3) SECTION 103 – TAX BASE  
+236	
+237	
+238	
+239	
+240	
+241	
+242	
+243	
+244	
+245	
+246	
+247	
+248	
+249	
+250	
+251	
+252	
+253	
+254	
+255	
+256	
+257	
+258	
+259	
+260	
+261	
+262	
+263	
+264	
+265	
+266	
+267	 
+268	
+269	
+270	
+271	
+272	
+273	
+274	
+275	
+276	
+277	
+278	
+279	
+280	
+281	
+282	
+283	
+284	
+285	
+286	
+287	
+288	
+289	
+290	
+291	
+292	
+293	
+294	
+295	
+296	
+297	
+298	
+299	 
+300	
+301	
+302	
+303	
+304	
+305	
+306	
+307	
+308	
+309	
+310	
+311	
+312	
+313	
+314	
+315	
+316	
+317	
+318	
+319	
+320	  8 
+(4) SECTION 104 – WHAT CONSTITUTES RENDERING SERVICES IN
+PITTSBURGH  
+321	
+322	
+323	
+324	
+325	
+326	
+327	
+328	
+329	
+330	
+331	
+332	
+333	
+334	
+335	
+336	
+337	
+338	
+339	
+340	
+341	
+342	
+343	
+344	
+345	
+346	
+347	
+348	
+349	
+350	
+351	
+352	 
+353	
+354	
+355	
+356	
+357	
+358	
+359	
+360	
+361	
+362	
+363	
+364	
+365	
+366	
+367	
+368	
+369	
+370	
+371	
+372	
+373	
+374	
+375	
+376	
+377	
+378	
+379	
+380	
+381	
+382	
+383	
+384	 
+385	
+386	
+387	
+388	
+389	
+390	
+391	
+392	
+393	
+394	
+395	
+396	
+397	
+398	
+399	
+400	
+401	
+402	
+403	
+404	
+405	
+406	
+407	
+408	
+409	
+410	
+411	
+412	
+413	
+414	
+415	
+416	 
+417	
+418	
+419	
+420	
+421	
+422	
+423	
+424	
+425	
+426	  8 
+(5) SECTION 105 – RECEIPTS FROM GOVERNMENTAL AGENCIES AND NON -
+PROFIT ORGANIZATIONS  
+427	
+428	
+429	
+430	
+431	
+432	
+433	
+434	
+435	
+436	
+437	
+438	
+439	
+440	
+441	
+442	
+443	
+444	
+445	
+446	
+447	
+448	
+449	
+450	
+451	
+452	
+453	
+454	
+455	
+456	
+457	
+458	 
+459	
+460	
+461	
+462	
+463	
+464	
+465	
+466	
+467	
+468	
+469	
+470	
+471	
+472	
+473	
+474	
+475	
+476	
+477	
+478	
+479	
+480	
+481	
+482	
+483	
+484	
+485	
+486	
+487	
+488	
+489	
+490	 
+491	
+492	
+493	
+494	
+495	
+496	
+497	
+498	
+499	
+500	
+501	
+502	
+503	
+504	
+505	
+506	
+507	
+508	
+509	
+510	
+511	  8 
+(6) SECTION 106 – REFERENCES TO FEDERAL STATUTES  
+512	
+513	
+514	
+515	
+516	
+517	
+518	
+519	
+520	
+521	
+522	
+523	
+524	
+525	
+526	
+527	
+528	
+529	
+530	
+531	
+532	
+533	
+534	
+535	
+536	
+537	
+538	
+539	
+540	
+541	
+542	
+543	 
+544	
+545	
+546	 8 
+ARTICLE II – RETURNS  
+547	
+548	
+549	
+550	
+551	
+552	
+553	
+554	
+555	
+556	
+557	
+558	
+559	
+560	
+561	
+562	
+563	
+564	
+565	
+566	
+567	
+568	
+569	
+570	
+571	
+572	
+573	
+574	
+575	
+576	
+577	
+578	 
+579	
+580	
+581	
+582	
+583	
+584	
+585	
+586	
+587	
+588	
+589	
+590	
+591	
+592	
+593	
+594	
+595	
+596	
+597	
+598	
+599	
+600	
+601	
+602	
+603	
+604	
+605	
+606	
+607	
+608	
+609	
+610	 
+611	
+612	
+613	
+614	
+615	
+616	
+617	
+618	
+619	
+620	
+621	
+622	
+623	
+624	
+625	
+626	
+627	
+628	
+629	
+630	
+631	
+632	
+633	
+634	
+635	
+636	
+637	
+638	
+639	
+640	
+641	
+642	 
+643	
+644	
+645	
+646	
+647	
+648	
+649	
+650	
+651	
+652	
+653	
+654	
+655	
+656	
+657	
+658	
+659	  9 
+(1) SECTION 201 – FILING RETURN  
+660	
+661	
+662	
+663	
+664	
+665	
+666	
+667	
+668	
+669	
+670	
+671	
+672	
+673	
+674	
+675	
+676	
+677	
+678	
+679	
+680	
+681	
+682	
+683	
+684	
+685	
+686	
+687	
+688	
+689	
+690	
+691	 
+692	
+693	
+694	
+695	
+696	
+697	
+698	
+699	
+700	
+701	
+702	
+703	
+704	
+705	
+706	
+707	
+708	
+709	
+710	
+711	
+712	
+713	
+714	
+715	
+716	
+717	
+718	
+719	
+720	
+721	
+722	
+723	 
+724	
+725	
+726	
+727	
+728	
+729	
+730	
+731	
+732	
+733	
+734	  9 
+(2) SECTION 202 – PAYMENT OF TAX  
+735	
+736	
+737	
+738	
+739	
+740	
+741	
+742	
+743	
+744	
+745	
+746	
+747	
+748	
+749	
+750	
+751	
+752	
+753	
+754	
+755	
+756	
+757	
+758	
+759	
+760	
+761	
+762	
+763	
+764	
+765	
+766	 
+767	
+768	
+769	
+770	
+771	
+772	
+773	
+774	
+775	
+776	
+777	
+778	
+779	
+780	
+781	
+782	
+783	
+784	
+785	
+786	
+787	
+788	
+789	
+790	
+791	
+792	
+793	
+794	
+795	
+796	
+797	
+798	 
+799	
+800	
+801	
+802	
+803	
+804	
+805	 9 
+(3) SECTION 203 – TAX RATE  
+806	
+807	
+808	
+809	
+810	
+811	
+812	
+813	
+814	
+815	
+816	
+817	
+818	
+819	
+820	
+821	
+822	
+823	
+824	
+825	
+826	
+827	
+828	
+829	
+830	
+831	
+832	
+833	
+834	
+835	
+836	
+837	 
+838	
+839	
+840	
+841	
+842	
+843	
+844	
+845	
+846	
+847	
+848	
+849	
+850	
+851	
+852	
+853	
+854	
+855	
+856	
+857	
+858	
+859	
+860	
+861	
+862	
+863	
+864	
+865	
+866	
+867	
+868	
+869	 
+870	
+871	
+872	
+873	
+874	
+875	
+876	
+877	
+878	
+879	
+880	
+881	
+882	
+883	
+884	
+885	
+886	
+887	
+888	
+889	
+890	  9 
+(4) SECTION 204 – PENALTIES AND INTEREST  
+891	
+892	
+893	
+894	
+895	
+896	
+897	
+898	
+899	
+900	
+901	
+902	
+903	
+904	
+905	
+906	
+907	
+908	
+909	
+910	
+911	
+912	
+913	
+914	
+915	
+916	
+917	
+918	
+919	
+920	
+921	
+922	 
+923	
+924	
+925	
+926	
+927	
+928	
+929	
+930	
+931	
+932	
+933	
+934	
+935	
+936	
+937	
+938	
+939	
+940	
+941	
+942	
+943	
+944	
+945	
+946	  9
+ARTICLE III – TAXABILITY  
+947	
+948	
+949	
+950	
+951	
+952	
+953	
+954	
+955	
+956	
+957	
+958	
+959	
+960	
+961	
+962	
+963	
+964	
+965	
+966	
+967	
+968	
+969	
+970	
+971	
+972	
+973	
+974	
+975	
+976	
+977	
+978	 
+979	
+980	
+981	
+982	
+983	
+984	
+985	
+986	
+987	
+988	
+989	
+990	
+991	
+992	
+993	
+994	
+995	
+996	
+997	
+998	
+999	
+1000	
+1001	
+1002	
+1003	
+1004	
+1005	
+1006	
+1007	
+1008	
+1009	
+1010	 
+1011	
+1012	
+1013	
+1014	
+1015	
+1016	
+1017	
+1018	
+1019	
+1020	
+1021	
+1022	
+1023	
+1024	
+1025	
+1026	
+1027	
+1028	
+1029	
+1030	
+1031	
+1032	
+1033	
+1034	
+1035	
+1036	
+1037	
+1038	
+1039	
+1040	
+1041	
+1042	 
+1043	
+1044	
+1045	
+1046	
+1047	
+1048	
+1049	
+1050	
+1051	
+1052	
+1053	  10 
+(1) SECTION 301 – PERIOD USED IN CALCULATING THE TAX  
+1054	
+1055	
+1056	
+1057	
+1058	
+1059	
+1060	
+1061	
+1062	
+1063	
+1064	
+1065	
+1066	
+1067	
+1068	
+1069	
+1070	
+1071	
+1072	
+1073	
+1074	
+1075	
+1076	
+1077	
+1078	
+1079	
+1080	
+1081	
+1082	
+1083	  10 
+(2) SECTION 302 – TAXABLE GROSS RECEIPTS  
+1084	
+1085	
+1086	
+1087	
+1088	
+1089	
+1090	
+1091	
+1092	
+1093	
+1094	
+1095	
+1096	
+1097	
+1098	
+1099	
+1100	
+1101	
+1102	
+1103	
+1104	
+1105	
+1106	
+1107	
+1108	
+1109	
+1110	
+1111	
+1112	
+1113	
+1114	
+1115	 
+1116	
+1117	
+1118	
+1119	
+1120	
+1121	
+1122	
+1123	
+1124	
+1125	
+1126	
+1127	
+1128	
+1129	
+1130	
+1131	
+1132	
+1133	
+1134	
+1135	  10 
+ARTICLE IV – DETERMINATION OF TAX BASE  
+1136	
+1137	
+1138	
+1139	
+1140	
+1141	
+1142	
+1143	
+1144	
+1145	
+1146	
+1147	
+1148	
+1149	
+1150	
+1151	
+1152	
+1153	
+1154	
+1155	
+1156	
+1157	
+1158	
+1159	
+1160	
+1161	
+1162	
+1163	
+1164	
+1165	
+1166	
+1167	 
+1168	
+1169	
+1170	
+1171	
+1172	
+1173	
+1174	
+1175	
+1176	
+1177	
+1178	
+1179	
+1180	
+1181	
+1182	
+1183	
+1184	
+1185	
+1186	
+1187	
+1188	
+1189	
+1190	
+1191	
+1192	
+1193	
+1194	
+1195	
+1196	
+1197	
+1198	
+1199	 
+1200	
+1201	
+1202	
+1203	
+1204	
+1205	
+1206	
+1207	
+1208	  12 
+(1) SECTION 401 - INCLUSIONS  
+1209	
+1210	
+1211	
+1212	
+1213	
+1214	
+1215	
+1216	
+1217	
+1218	
+1219	
+1220	
+1221	
+1222	
+1223	
+1224	
+1225	
+1226	
+1227	
+1228	
+1229	
+1230	
+1231	
+1232	
+1233	
+1234	
+1235	
+1236	
+1237	
+1238	
+1239	
+1240	 
+1241	
+1242	
+1243	
+1244	
+1245	
+1246	
+1247	
+1248	
+1249	
+1250	
+1251	
+1252	
+1253	
+1254	
+1255	
+1256	
+1257	
+1258	
+1259	
+1260	
+1261	
+1262	
+1263	
+1264	
+1265	
+1266	
+1267	
+1268	
+1269	
+1270	
+1271	
+1272	 
+1273	
+1274	
+1275	
+1276	
+1277	
+1278	
+1279	
+1280	
+1281	
+1282	
+1283	
+1284	
+1285	
+1286	
+1287	  12 
+(2) SECTION 402 – PITTSBURGH RECEIPTS  
+1288	
+1289	
+1290	
+1291	
+1292	
+1293	
+1294	
+1295	
+1296	
+1297	
+1298	
+1299	
+1300	
+1301	
+1302	
+1303	
+1304	
+1305	
+1306	
+1307	
+1308	
+1309	
+1310	
+1311	
+1312	
+1313	
+1314	
+1315	
+1316	
+1317	
+1318	
+1319	 
+1320	
+1321	
+1322	
+1323	
+1324	
+1325	
+1326	
+1327	
+1328	
+1329	
+1330	
+1331	
+1332	
+1333	
+1334	
+1335	
+1336	
+1337	
+1338	
+1339	
+1340	
+1341	
+1342	
+1343	
+1344	
+1345	
+1346	  12 
+ARTICLE V – SUITS FOR COLLECTION, PENALTIES, ETC
+1347	  
+1348	
+1349	
+1350	
+1351	
+1352	
+1353	
+1354	
+1355	
+1356	
+1357	
+1358	
+1359	
+1360	
+1361	
+1362	
+1363	
+1364	
+1365	
+1366	
+1367	
+1368	
+1369	
+1370	
+1371	
+1372	
+1373	
+1374	
+1375	
+1376	
+1377	
+1378	
+1379	 
+1380	
+1381	
+1382	
+1383	
+1384	
+1385	
+1386	
+1387	
+1388	
+1389	
+1390	
+1391	
+1392	
+1393	
+1394	
+1395	
+1396	
+1397	
+1398	
+1399	
+1400	
+1401	  14 
+(1) SECTION 501 – SUITS FOR RECOVERY OF UNPAID TAXES  
+1402	
+1403	
+1404	
+1405	
+1406	
+1407	
+1408	
+1409	
+1410	
+1411	
+1412	
+1413	
+1414	
+1415	
+1416	
+1417	
+1418	
+1419	
+1420	
+1421	
+1422	
+1423	
+1424	
+1425	
+1426	
+1427	
+1428	
+1429	  14 
+(2) SECTION 502 – PENALTY AND INTEREST FOR NON -PAYMENT  
+1430	
+1431	
+1432	
+1433	
+1434	
+1435	
+1436	
+1437	
+1438	
+1439	
+1440	
+1441	
+1442	
+1443	
+1444	
+1445	
+1446	
+1447	
+1448	
+1449	
+1450	
+1451	  14 
+(3) SECTION 503 – FINES A ND PENALTIES FOR VIOLATION OF ACT  
+1452	
+1453	
+1454	
+1455	
+1456	
+1457	
+1458	
+1459	
+1460	
+1461	
+1462	
+1463	
+1464	
+1465	
+1466	
+1467	
+1468	
+1469	
+1470	  15 
+(4) SECTION 504 – REMEDIES NOT MUTUALLY EXCLUSIVE  
+1471	
+1472	
+1473	
+1474	
+1475	
+1476	
+1477	
+1478	
+1479	
+1480	
+1481	
+1482	
+1483	
+1484	
+1485	
+1486	
+1487	
+1488	
+1489	
+1490	
+1491	
+1492	
+1493	
+1494	
+1495	
+1496	
+1497	
+1498	
+1499	
+1500	
+1501	
+1502	 
+1503	 15  -4-ARTICLE VI – TAXPAYER REMEDIES  
+1504	
+1505	
+1506	
+1507	
+1508	
+1509	
+1510	
+1511	
+1512	
+1513	
+1514	
+1515	
+1516	
+1517	
+1518	
+1519	
+1520	
+1521	
+1522	
+1523	
+1524	
+1525	
+1526	
+1527	
+1528	
+1529	
+1530	
+1531	
+1532	
+1533	
+1534	
+1535	 
+1536	
+1537	
+1538	
+1539	
+1540	
+1541	
+1542	
+1543	
+1544	
+1545	
+1546	
+1547	
+1548	
+1549	
+1550	
+1551	
+1552	
+1553	
+1554	
+1555	
+1556	
+1557	
+1558	
+1559	
+1560	
+1561	
+1562	
+1563	
+1564	
+1565	
+1566	
+1567	 
+1568	
+1569	
+1570	
+1571	
+1572	
+1573	
+1574	
+1575	
+1576	
+1577	
+1578	
+1579	
+1580	
+1581	
+1582	
+1583	
+1584	
+1585	
+1586	
+1587	
+1588	
+1589	
+1590	
+1591	  16 
+(1) SECTION 601 – TREASURER (DIRECTOR) HEARINGS  
+1592	
+1593	
+1594	
+1595	
+1596	
+1597	
+1598	
+1599	
+1600	
+1601	
+1602	
+1603	
+1604	
+1605	
+1606	
+1607	
+1608	
+1609	
+1610	
+1611	
+1612	
+1613	
+1614	
+1615	
+1616	
+1617	
+1618	
+1619	
+1620	
+1621	
+1622	
+1623	 
+1624	
+1625	
+1626	
+1627	
+1628	 16 
+(2) SECTION 602 – APPEALS  
+1629	
+1630	
+1631	
+1632	
+1633	
+1634	
+1635	
+1636	
+1637	
+1638	
+1639	
+1640	
+1641	
+1642	
+1643	
+1644	
+1645	
+1646	
+1647	
+1648	
+1649	
+1650	
+1651	
+1652	
+1653	
+1654	
+1655	
+1656	
+1657	
+1658	
+1659	
+1660	 
+1661	
+1662	
+1663	
+1664	
+1665	
+1666	
+1667	
+1668	
+1669	
+1670	
+1671	
+1672	
+1673	
+1674	
+1675	
+1676	
+1677	
+1678	
+1679	
+1680	
+1681	
+1682	
+1683	
+1684	
+1685	
+1686	
+1687	
+1688	
+1689	
+1690	
+1691	
+1692	 
+1693	
+1694	
+1695	
+1696	
+1697	
+1698	
+1699	
+1700	
+1701	
+1702	
+1703	
+1704	
+1705	
+1706	
+1707	
+1708	
+1709	
+1710	
+1711	
+1712	  16 
+(3) SECTION 603 – PAYMENT UNDER PROTEST  
+1713	
+1714	
+1715	
+1716	
+1717	
+1718	
+1719	
+1720	
+1721	
+1722	
+1723	
+1724	
+1725	
+1726	
+1727	
+1728	
+1729	
+1730	
+1731	
+1732	
+1733	
+1734	
+1735	
+1736	
+1737	
+1738	
+1739	
+1740	
+1741	
+1742	
+1743	
+1744	 
+1745	
+1746	
+1747	
+1748	
+1749	
+1750	
+1751	
+1752	
+1753	
+1754	
+1755	
+1756	
+1757	
+1758	
+1759	
+1760	
+1761	
+1762	
+1763	
+1764	  17 
+(4) SECTION 604 – REFUNDS  
+1765	
+1766	
+1767	
+1768	
+1769	
+1770	
+1771	
+1772	
+1773	
+1774	
+1775	
+1776	
+1777	
+1778	
+1779	
+1780	
+1781	
+1782	
+1783	
+1784	
+1785	
+1786	
+1787	
+1788	
+1789	
+1790	
+1791	
+1792	
+1793	
+1794	
+1795	
+1796	 
+1797	
+1798	
+1799	
+1800	
+1801	
+1802	
+1803	
+1804	
+1805	
+1806	
+1807	
+1808	
+1809	
+1810	
+1811	
+1812	
+1813	
+1814	
+1815	
+1816	
+1817	
+1818	
+1819	
+1820	
+1821	
+1822	
+1823	
+1824	
+1825	
+1826	
+1827	
+1828	 
+1829	
+1830	
+1831	
+1832	
+1833	
+1834	
+1835	
+1836	
+1837	
+1838	
+1839	
+1840	
+1841	
+1842	
+1843	
+1844	
+1845	
+1846	
+1847	  17
+(5) SECTION 605 – INSTALLMENT PAYMENT PLAN FOR ANY DEFICIENCY  
+1848	
+1849	
+1850	
+1851	
+1852	
+1853	
+1854	
+1855	
+1856	  17 
+ARTICLE VII – SAVINGS CLAUSE AND SEVERABILITY
+1857	  
+1858	
+1859	
+1860	
+1861	
+1862	
+1863	
+1864	
+1865	
+1866	
+1867	
+1868	
+1869	
+1870	
+1871	
+1872	
+1873	
+1874	
+1875	
+1876	
+1877	
+1878	
+1879	
+1880	
+1881	
+1882	
+1883	
+1884	
+1885	
+1886	
+1887	
+1888	
+1889	 
+1890	
+1891	
+1892	
+1893	
+1894	
+1895	
+1896	
+1897	
+1898	
+1899	
+1900	
+1901	
+1902	
+1903	
+1904	
+1905	
+1906	
+1907	
+1908	
+1909	
+1910	
+1911	
+1912	
+1913	
+1914	
+1915	
+1916	  19 
+(1) SECTION 701 – SAVINGS CLAUSE AND SEVERABILITY  
+1917	
+1918	
+1919	
+1920	
+1921	
+1922	
+1923	
+1924	
+1925	
+1926	
+1927	
+1928	
+1929	
+1930	
+1931	
+1932	
+1933	
+1934	
+1935	
+1936	
+1937	
+1938	
+1939	
+1940	
+1941	
+1942	
+1943	
+1944	
+1945	
+1946	
+1947	
+1948	 
+1949	
+1950	
+1951	 19 
+(2) SECTION 702 – DISCLOSURE STATEMENT  
+1952	
+1953	
+1954	
+1955	
+1956	
+1957	
+1958	
+1959	
+1960	
+1961	
+1962	
+1963	
+1964	
+1965	
+1966	
+1967	
+1968	
+1969	
+1970	
+1971	
+1972	
+1973	
+1974	
+1975	
+1976	
+1977	
+1978	
+1979	
+1980	
+1981	
+1982	
+1983	 
+1984	
+1985	
+1986	
+1987	
+1988	
+1989	
+1990	
+1991	
+1992	
+1993	
+1994	
+1995	
+1996	
+1997	
+1998	
+1999	
+2000	
+2001	
+2002	
+2003	
+2004	
+2005	
+2006	  19  -5-ARTICLE I  
+GENERAL PROVISIONS  
+Section  101
+2007	 — Definitions 
+2008	 As used in this Ordinance, unless the context dearly 
+indicates a different meaning, the following words and phrases shall have the meaning 
+set forth below:  
+(a) “City" - the City of Pittsburgh
+2009	
+(b) “Exempt Institutions ” the following Institutions are exempt from the
+Institution and Service Privilege Tax : 
+(1) Corporations organized under an Act of Congress which are
+instrumentalities of the United States , including any entity described in 26 U 
+2010	S
+2011	C
+2012	 § 
+501(l) ; 
+(2) The United States, any S tate or political subdivision thereof,  any
+authority of the state or local government, any elementary or secondary school with in 
+the City  (public or private) , and any federal, state, or municipal pension plan;  
+(3) Any Institution of Purely Public charity, under 10 P
+2013	S
+2014	 § 371, that
+provides the evidence required by 10 P
+2015	S
+2016	 § 376(a) ; 
+(4) Any insurance company regulated by the Pennsylvania Insurance
+Department;  
+(5) Any utility regulated by the Pennsylvania Utility Commission;
+(6) Any voluntary employee’s beneficiary association  described in 26
+U
+2017	S
+2018	C
+2019	 § 501(c)( 9), or a ny qualified pension or retirement plan or trust  of a private 
+employer or a multiemployer plan or trust; including any qualified plan or trust 
+described under; 26 U
+2020	S
+2021	 C
+2022	 § 501(c)(22); 26 U
+2023	S
+2024	C
+2025	 § 501(c)(24); or 26 U
+2026	S
+2027	C
+2028	 § § 
+501(c)(25)(C )(i), (ii) or (iii) ; 
+(7) Any regulated financial institution under the Tax Reform Code of
+1971, 72 P
+2029	S
+2030	 § 7401(6) ; and 
+2031	 
+(8) Any organization exempt from tax under 26 U
+2032	S
+2033	C
+2034	 501, which is
+not listed in the classes of Taxable Institutions under Section  101(e) of these 
+Regulations
+2035	  
+(c) "Gross Receipts " - cash, credits, property of any kind or nature received
+in or allocable to the City of Pittsburgh from an y Institution by reason of any S ervic e 
+rendered in the City, without deduction therefrom on account of property sold, materials 
+used, labor, service, or other cost, interest or discount paid, or any other expense
+2036	  
+(1) “Gross Receipts" shall include payments from insurance or other
+third-party  paym ents for the cost of S ervice; 
+(2) “Gross Receipts” shall include payments for Service rendered to
+affiliates or subsidiaries
+2037	 
+(3) “Gross Receipts” shall include any payment, income, grants, or
+other aid from federal, state or local governments , includin g the Medicare and Medicaid 
+Programs as well as Pennsylvania General Assistance
+2038	    -6-(4) “Gross Receipts” shall exclude receipts subject to the City
+Mercantile License Tax, the City Business Privilege Tax, the Earned Income Tax, or 
+any taxes collect ed as an agent for any government (such as sales taxes) 
+2039	 At this time, 
+the City does not collect any Mercantile License Tax or Business Privilege Tax
+2040	  
+(5)“Gross Receipts” shall exclude membership fees, dues of the
+members of the  Institution, voluntary or charitable contributions unrelated to individual 
+service or assessments which fall equally upon all members
+2041	   Local Tax Enabling Act, 
+53 P
+2042	S
+2043	 § 6924
+2044	301
+2045	1(f)(7)
+2046	   However, individual charges for service  to a member or 
+non-member of an Institution are not membership fees but Gross Receipts subject to 
+Tax
+2047	  
+(6)Donations , dues , and receipts associated with religious services
+received by religious organizations , are excluded from “Gross Receipts
+2048	”  Non -religious 
+activities of religious organizations, i
+2049	e
+2050	 bingo, bazaars, etc
+2051	 are excluded from “Gross 
+Receipts” unless the organizers and/or operators of such activities are paid for 
+rendering such services
+2052	  
+(7)“Gross Receipts” shall exclude receipts attributab le to activities
+sponsored and conducted solely and completely by and for the entity by unpaid 
+volunteers
+2053	  
+(8)“Gross Receipts” shall exclude receipts of Exempt Institutions
+2054	
+(9)“Gross Receipts” shall exclude any receipts which the City is
+prohibiting fro m taxing by reason of federal law, the Constitution of the United States, 
+or the laws Commonwealth
+2055	  Any person making such as claim shall provide on its tax 
+return a short citation to applicable case or statutory law that is the basis for the 
+exemption cl aim
+2056	 
+(10)“Gross Receipts” that are excluded from Tax are called “ Exempt
+Receipts 
+2057	” 
+(d) "Person " - any foundation, partnership, corporation,  charitable trust,
+limited liability company,  unincorporated association or any other organization 
+operating under a non -profit charter or organized as a non -profit charter or organized 
+as a non -profit entity, which provides Service to the public or to any select or limited 
+number thereof
+2058	   Examples of entities organized as a non -profit entity include, non -
+profit corporations formed under the Non-Profit Corporation Law of 1988 , 15 Pa
+2059	C
+2060	S
+2061	  
+§ 5101, or any predecessor or successor law, or the Pennsylvania Uniform
+Unincorporated Nonprofit Association Law,  15 Pa
+2062	C
+2063	S
+2064	 § 9111, or any predecessor or
+successor law
+2065	
+(1) The word “person”  includes an y incorporated or unincorporated
+entity , trust, or foundation , which provides a taxable Service,  which is exempt  from the 
+Corporate Net Income tax under  72 P
+2066	S
+2067	 § 7401 (1)3 and § 7401(1)4(i) , and which is a 
+member of one of following classes of non-profit entities described under 26 U
+2068	S
+2069	C
+2070	 § 
+501: 
+(i) corporations or other organizations exempt under 26
+U
+2071	S
+2072	C
+2073	 § 501(c)(3) (such as religious, charitable, scientific,
+or sporting  organizations) ; -7-(ii) organizations that would qualify for exemption under 26
+U
+2074	S
+2075	C
+2076	 § 501(c)(3) but are excused from applying for
+recognition under 26 U
+2077	S
+2078	C
+2079	 § 508(c)(1)(A) or § 508( c)(2)
+(such as some religious organizations) ;
+(iii) civic leagues , public advocacy,  or social welfare
+organizations exempt under 26 U
+2080	S
+2081	C
+2082	 § 501(c)(4) ;
+(iv) labor, agricultural, or horticultural organizations exempt
+under 26 U
+2083	S
+2084	C
+2085	 § 501(c)(5) ;
+(v) business leagues, chambers of commerce, boards of trade
+(but expressly excluding professional football leagues)
+exempt under 26 U
+2086	S
+2087	C
+2088	 § 501(c)(6) ;
+(vi) social clubs (including sports, recreation, golf, exercise,
+and country clubs) exempt under 26 U
+2089	S
+2090	C
+2091	 § 501(c)(7);
+(vii) fraternal benefit societies, orders or associations exempt
+under 26 U
+2092	S
+2093	C
+2094	  § 501(c)(8);
+(viii) domestic fraternal organizations exempt under 26 U
+2095	S
+2096	C
+2097	
+§ 501(c)(10) ;
+(ix) cemeter ies exempt under 26 U
+2098	S
+2099	C
+2100	 § 501(c)(13);
+(x) veterans organization s exempt under 26 U
+2101	S
+2102	C
+2103	 §
+501(c)(19 ) or 26 U
+2104	S
+2105	C
+2106	 § 501(c)(23 );
+(xi) religious and apostolic organizations exempt  under 26
+U
+2107	S
+2108	C
+2109	 § 501(d);
+(xii) cooperative hospital service organizations exempt under
+26 U
+2110	S
+2111	C
+2112	 § 501(e);  and
+(xiii) cooperative service organizations operating educational
+organizations exempt under 26 U
+2113	S
+2114	C
+2115	 § 501(f)
+2116	
+(2) Whenever used in any pro visions prescribing a fine or penalty,
+the word "person" as applied to partnerships shall mean the partners thereof; as 
+applied to corporations and  unincorporated associations shall mean the officers 
+thereof; as applied to foundations shall mean the truste es thereof
+2117	  
+(3) The word “person” shall not  include any Institution of Purely Public
+Charity  that is recognized as such under 10 P
+2118	S
+2119	 § 371
+2120	  The receipt of a sales tax 
+exemption issued by the Pennsylvania Department of Revenue is evidence that the 
+person is an Institution of Purely Public Charity
+2121	   10 P
+2122	S
+2123	 § 376(a) 
+2124	  An entity that is 
+merely affiliated with an Institution of Purely Public Charity is not itself exempt unless 
+that entity is itself recognized as an Institution of Purely Pu blic Charity  under 10 P 
+2125	S
+2126	 § 
+371
+2127	 
+(4) The word “person” shall not include a natural person, an estate of
+a decedent, or an entity subject to Corporate Net Income Tax, as set forth in  the Tax 
+Reform Code of 1971, 72 P
+2128	S
+2129	 § 7401,  et
+2130	 seq 
+2131	  -8-(e) "Service " - carrying on or exercising within the City of Pittsburgh,
+medical , education al, beneficial, social,  recreational,  vocational,  or any other type of 
+service for which a charge is made, as a non -profit entity  and which is not a business 
+subject to the City Business Privilege Tax 
+2132	  A Service does not include the sale or 
+rental of personal property
+2133	   Such Service , when provide d by a Taxable Institution , is 
+an “Institutional Service 
+2134	” 
+(f) "Taxable Institution " - any person, organization,  foundation,
+corporation or unincorporated associat ion operating under a non -profit charter or 
+recognized as a non -profit entity by the Commonwealth of Pennsylvania, including, 
+but not limited to, hospitals, nursing homes, colleges, universities, schools other than 
+elementary and secondary  schools , cemeteries, veterans organizations, recreational 
+centers, fund -raising organizations and all other organizations which provide Service 
+to the public , listed under Section 101( d) of these Regulations 
+2135	   The phrase “Taxable 
+Institution” shall not include a ny Exempt Institution  or any entity or unincorporated 
+association that is not a “person
+2136	”  
+(g) “Tax” – means the Institution and Service Privilege imposed by Title
+Two, Article VII, Chapter 247 of the City of Pittsburgh Code of Ordinances 
+2137	 
+(h) "Tax Year ” - the twel ve-month period from January 1  to December 31
+2138	
+(i) “Taxpayer ” includes any person  or Institution  subject to the Privilege
+Tax that is not an E xempt Institution or any  entity or unincorporated association that 
+is not a “person
+2139	”  
+(j) "Treasurer " - the Treasurer of the City of Pittsburgh
+2140	
+Section  102
+2141	 — Who must file a return 
+2142	 
+(a) Every person or Taxable Institution engaging in a non -profit Service
+in the City of Pittsburgh
+2143	  
+(b) Every person or Taxable Institution subject to  the tax imposed by
+Ordinance shall forthwith register with the Treasurer and set forth the name, address 
+and nature of the service activity in which it is engaged  and shall obtain the license 
+required by Section 247
+2144	05 of the Pittsburgh Code of Ordinances
+2145	   -9-Section  103
+2146	—Tax Base
+2147	  
+The gross receipts o f every person engaged in any institution or non -profit Service in 
+the City of Pittsburgh
+2148	   Specifically excluded from tax are Exempt Receipts
+2149	  
+Section  104
+2150	—What Constitutes Rendering Services in Pittsburgh
+2151	  
+(a) Whether or not a person carries on a taxable activity within the meaning
+of the Institution and Service Privilege Tax is essentially a question of fact
+2152	 In general, 
+taxable activity includes any activity by a person or institution engaging in a Service 
+for which a charge is made
+2153	  
+(b) A person or Institution who engages in a taxable activity in Pittsburgh, is
+subject to this tax, whether he is a resident or whether he has a permanent location in 
+Pittsburgh
+2154	  
+Section  105
+2155	 – Receipts from Governmental Agenc ies and  Non-Profit Organization s
+2156	 
+(a) Receipts from sales made or Services rendered to all government
+bodies, including authorities, and to religious, charitable and educational corporations 
+and associations shall not be excluded from the tax base
+2157	   Receipts from thi rd party 
+payments made by government agencies for Services rendered to others shall be 
+included in the tax base
+2158	  
+(b) Notwithstanding the above, Exempt Receipts and receipts of Exempt
+Institutions are excluded from the tax base
+2159	  
+Section 106 
+2160	 – References to Federal Statutes  
+All references in these regulations to federal statutes are intended to include 
+references to federal statutes in effect on January 1, 20 20, without regard to any later 
+amendment or repeal
+2161	   -10-ARTICLE  II 
+RETURNS  
+Sectio n 201 
+2162	 — Filin g Return
+2163	  
+(a) Excep t as to new busine ss, bot h the tax retu rn an d paymen t of the tax 
+are du e on April 15t h of eve ry year
+2164	 
+(b) Forms  may  be obtained  from  the City  Treasurer,  City-County  Building, 
+Pittsburgh, Pennsylvania 15219
+2165	 Failure to receive the  forms will not excuse a taxpayer 
+for failure to file his return
+2166	 
+(c) The return must be file d with th e City Treasu rer, City-Coun ty Building , 
+Pittsburgh , Pennsylvan ia 15219
+2167	 
+(d) If the taxpayer is an individual, he shall sign the return
+2168	  If the taxpayer is 
+a corporation  or unincorporated  entity,  a Director,  President,  Trustee  or Officer  may 
+sign the return
+2169	 
+(e) If a taxpayer  maintains  more  than  one  location  in Pittsburgh,  he is 
+required  to file only  one  (1) return  and  may  include  therein  the receipts  from 
+transactions  occurring  in all  his locations  in Pittsburgh
+2170	  Where  one (1) return  covers 
+more  than  one (1) location,  a schedule  shall  be attached  to the return  showing  the 
+various locations at which the taxpayer conducts business in Pittsburgh
+2171	 
+Sectio n 202 
+2172	 — Paymen t of Tax
+2173	 
+Payment of tax may be made in cash, or by check or money order drawn to the order 
+of the Treasurer  of the City  of Pittsburgh
+2174	  Cash  payments  must  be made  only  to a 
+cashier  in the  Department  of Treasurer,  City-County  Building,  Pittsburgh, 
+Pennsylvania
+2175	 
+Sectio n 203
+2176	—Tax Rate
+2177	 
+The rate of tax is six (6) mills on each dollar of annual receipts
+2178	 (Six mills equals $6
+2179	00 
+per $1,000 or 6/10 of 1%)
+2180	   In no event may the rate of tax on proprietors of restaurants 
+and other places where food, drink and  refreshments are served exceed two (2) mills 
+on each dollar of annual receipts
+2181	  53 P
+2182	S
+2183	 § 6924
+2184	311(2)
+2185	   (Two mills equals $2
+2186	00 per 
+$1,000 or 2/10 of 1%)
+2187	 
+Section 204
+2188	 – Penalties and Interest
+2189	 
+If the tax is not paid when due, interest at the rate of one percent (1%) per month shall 
+be added to the amount of the tax
+2190	 In addition, a penalty of one-half of one 
+percent ( 0
+2191	5%) of the amount of the unpaid tax or each month or fraction thereof, 
+during which the tax remains unpaid, shall be added and collected
+2192	  -11-ARTICLE  III 
+TAXABILITY  
+Section  301
+2193	—Period Used in Calculating the Tax 
+2194	 
+(a) The tax is measured by the amount of service transacted by the Taxpayer
+or Institution during the entire receding calendar year, except for those taxpayers:  
+(1) who were not in service during the whole of the preceding calendar
+year, or  
+(2) who began services during the current calendar year, or
+(3) whose service is temporary, seasonal or itinerant
+2195	
+(b) Every person subject to the tax imposed by this Ordinance, who has
+commenced its service at least one (1) full year prior to the beginning of any tax year 
+shall,  on or before the fifteenth (15th) day of  April , following and annually thereafter, 
+file with the Treasurer, a return setting forth the name, the service rendered, the person 
+or Institution address and such other information as may be necessary, in arriving at 
+the annual gross volume of services transa cted by it during the preceding year and 
+amount of tax due
+2196	  
+(c) Every person or Institution subject to the tax imposed by this Ordinance,
+who has commenced its service less than one (1) full year prior to the beginning of the 
+tax year shall, on or before the fifteenth (15th) day of April , following, file with the 
+Treasurer a return and compute its annual gross receipts, for such tax year upon the 
+gross receipts generated by the services transacted within the City during the first 
+month it engages in such servic e activity multiplied by twelve (12)
+2197	  
+(d) Every person subject to the tax imposed by Ordinance, who commences,
+subsequent to the beginning of the tax year, shall within forty days from the date of 
+commencing such service, file a return with the Treasurer setti ng forth the name, the 
+service rendered, the institution address and such other information as may be 
+necessary in arriving at the actual volume of services transacted by it during the first 
+month of service and amount of tax due 
+2198	 
+(e) Every person or Institution subject to the payment of the tax imposed by
+this Ordinance who engages in a service temporary, seasonal or itinerant by its nature 
+shall,  with seven (7 ) days from the day it completes such service, file a return with the 
+Treasurer setting forth  its name, service, the person or Institution address and such 
+other information as may be necessary in arriving at the actual gross volume of service, 
+during the tax period and the amount of tax due 
+2199	 
+Section  302
+2200	 – Taxable Gross Receipts  
+(a) Cash, credits, property of any kind or nature received in or allocable to
+The City from any Institution by reason of any transaction or  any service 
+without deduction therefrom on account of property sold, materials used,  labor, service 
+or other cost, int erest or discount paid,  or any other expense
+2201	  
+ -12-(1) Includes payments from insurance or other third -party payments
+for the cost of service 
+2202	  All forms of government third -party payments , income or grants  
+for Service, received by the Institution such as Medicare, Medicaid and General 
+Assistance receipts, are subject to tax
+2203	  
+(2) Excludes Exempt Receipt s or receipts of Exempt Institutions
+2204	
+(b) To assist in the review of Taxable Gross Receipts, th e taxpayer shall
+attach a duplicate of any Form 990 -T filed with the Internal Revenue Service for the 
+most recent period
+2205	    -13-ARTICLE IV  
+DETERMINATION OF TAX BASE  
+Section  401
+2206	 — Inclusions
+2207	  
+The tax is imposed on every person engaging in any Institutional or non -profit Service 
+in the City of Pittsburgh
+2208	   The tax is not imposed on Exempt Institutions
+2209	   
+Section  402
+2210	  –   Pittsburgh Receipts 
+2211	 
+(a) General 
+2212	  Except for receipts associated with interstate commerce,
+receipts from any transaction shall b e attributable  to Pittsburgh, if  any event forming a 
+part of the transaction occurs within Pittsburgh  or the taxpayer’s only office is located 
+within the City  and the Service is offered from a Pittsburgh location 
+2213	 
+(b) Any receipts arising from Institutional on non -profit service to the general
+public or any select or limited number thereof, is taxable if a charge is made
+2214	   Intrastate 
+receipts from services which are the result of business activities carried on through a 
+branch office located outs ide Pittsburgh, are taxable if such services are performed in 
+Pittsburgh  if the service is offered from the City 
+2215	 
+(c) Persons engaging in any Institutional or non -profit service be it
+professional, commercial , or personal services, are subject to the  tax
+2216	 If a  person 
+engaging in any Institutional or non -profit service only maintains a place of business in 
+the City of Pittsburgh, the entire receipts from intrastate activity  in the Commonwealth  
+from personal services must be included in the measure of the tax, wh ether or not the 
+services are performed in Pittsburgh
+2217	 Receipts will be deemed attributable to Pittsburgh, 
+if they result from the efforts of employees who work in,  or from or are attached to 
+taxpayer's Pittsburgh place of business
+2218	   If any taxpayer is subject to Privilege tax in two 
+or more jurisdictions in Pennsylvania, he may request a ruling from the Treasurer  to 
+address the issue of potential double taxation 
+2219	  
+(d) Receipts associated with interstate commerce shall be apportioned to
+the City by multiplying total receipts earned everywhere times the City Apportionment 
+percentage
+2220	  The City Apportionment percentage  is the sum of the following three 
+apportionment factors:  Payroll  Percentage factor , Property  Percentage factor , and 
+Sales Percentage  factor , divided by three 
+2221	 If one of the percentage factors is zero, the 
+denominator shall be two
+2222	  If two of the percentage factors are zero, the dominator shall 
+be one
+2223	   In no event can a percentage factor be less than zero
+2224	  
+(1) The Payroll Percentage factor  shall be payroll reported by the
+taxpayer subject to City local earned income tax divided by total payroll reported on 
+Federal Form 940
+2225	  If the taxpayer only has one office in the Commonwealth and that 
+office is in the City, the numerator  of the Payroll percentage factor shall be total payroll 
+reported to the Pennsylvania Department of Revenue
+2226	  
+(2) The Property Percentage factor  shall be the sum of tangible
+property located in the Cit y divided by the sum of tangible property located everywhere  
+in the United States, determined as of December 31 
+2227	  Property shall be recorded at its 
+original cost before any depreciation , amortization, or cost depletion 
+2228	  Leased property  -14-shall be recorded as an item of tangible property at eight  (8) times annual rent  for the 
+leased property 
+2229	  Movable property is in the City if it is in the City on December 31 of 
+the calendar year
+2230	   If the taxpayer only has one office in the Commonwealth and that 
+office is in the City, the numerator of the Property pe rcentage factor shall be sum of 
+tangible property located in the Commonwealth
+2231	  
+(3) The Sales Percentage factor  shall be gross receipts from
+Services provided in the  City or offered from a City location divided by gross receipts 
+everywhere
+2232	   If additional guidance is required with regard to the definition of Sales, 
+the taxpayer shall follow the practice of the Pennsylvania Department of Revenue 
+under the Corporate Net Income Tax provisions of the Tax Reform Act, 72 P
+2233	S
+2234	 § 7401, 
+so long as such pr actice is not inconsistent with the purposes of the Privilege Tax
+2235	  
+(4) A taxpayer is engaged in interstate commerce if it is subject to tax
+in another jurisdiction , outside the Commonwealth,  on its net income or on its gross 
+receipts
+2236	   A taxpayer can show it is subject to tax in another jurisdiction by providing 
+copies of tax returns  filed with taxing jurisdictions outside the Commonwealth
+2237	   If 
+intrastate receipts are co -mingled with interstate activity, all receipts shall be 
+considered interstate receipts
+2238	  
+(5) If the application of the City apportionment percentage  results in
+the same gross receipts of the Taxpayer being taxable , for gross receipts or privilege 
+tax purposes,  by two or more jurisdictions  in the United States , the Taxpayer may 
+approach the Treasurer  for a ruling  to avoid this double taxation, such as receiving a 
+credit for gross receipts or privilege taxes paid  elsewhere , or by a modification of the 
+City apportionment percentage
+2239	   No credit will be granted by the City for net income 
+taxes , excise taxes,  or transaction taxes  paid to another jurisdiction
+2240	   -15-ARTICLE V  
+SUITS FOR COLLECTION, PENALTIES, ETC
+2241	  
+Section  501
+2242	 — Suits for Recovery of Unpaid T axes
+2243	  
+(a) The following periods of limitations shall apply to suits for collection of
+taxes
+2244	  
+(1) When a return has been filed but no tax paid, any suit brought to
+recover the tax due and unpaid shall be filed within three (3) years after the return was 
+due or filed, whichever is later
+2245	 Where no return was filed, there shall be no limit to file 
+suit for the  collection of taxes
+2246	  
+(2) In the case of a deficiency assessment, suit shall be filed within
+three (3) years after the assessment has been made
+2247	  
+(b) The limitations set forth in paragraph (a) shall not prevent the institution
+of a suit for the collection of any ta x due or determined to be due in the following cases:  
+(1) When no return was filed, there is no limitation
+2248	
+(2) When the return is fraudulent, there is no limitation
+2249	
+(3) When there is an understatement of tax liability of twenty -five
+(25%) or more, and not due to fra ud, suit must be begun within six (6) years
+2250	  
+(4) A return filed before the due date is deemed to be filed on the due
+date
+2251	  
+Section 502 
+2252	 — Penalty and Interest for N on-payment
+2253	  
+(a) If, however, any Taxpayer shall fail to make any report and payment as
+herein required a penalty at the rate of one-half  of one percent (0
+2254	5%) per month for 
+each month or a fraction of a whole month on the amount of tax and interest of one 
+(1%) percent per month for each month or fraction of a whole month during the period 
+in which the tax remains unpaid shall be added to the tax
+2255	  In no event shall the 
+interest rate assessed exceed the maximum rate allowed by the Municipal Claims and 
+Tax Liens Act, 53 P
+2256	S
+2257	 §7143, or applicable law
+2258	 
+(b) There is no limit or cut off point, for applying penalty and interest
+2259	
+(c) On any additional tax determined to be due as a result of a deficiency
+assessment, penalty and interest will be assessed from the day the tax should have 
+been paid to t he date of payment
+2260	  Penalty and interest is calculated as described 
+above
+2261	  
+(d) Where suit is brought for the recovery of such tax, the person liable
+therefore shall, in addition, be liable for the costs of collection and the interest and 
+penalties herein impo sed
+2262	 Once due and owing, penalty and interest become part of 
+the tax and shall be collected as such
+2263	 A person’s belief that no tax is due and owing, 
+or the failure of any person to receive or obtain the forms required for making the 
+returns required under the City Code is not a valid defense to the imposition of penalties 
+herein for violation
+2264	  Good faith shall not be a defense to the imposition of penalty
+2265	   -16-Section  503
+2266	 – Fines and Penalties for Violation of Act
+2267	  
+(a) Whoever willfully makes any false or untrue  statement on the return shall,
+upon summary conviction thereof, be sentenced to pay a fine of not more than five 
+hundred dollars ($500
+2268	00) or to undergo imprisonment for not more than thirty (30) 
+days
+2269	  
+(b) Whoever willfully fails or refuses to appear before the Treasurer, in
+person with his books, records or accounts for  examination when required under the 
+provisions of the Institution and Service Privilege Tax Ordinance, to do so, or who 
+willfully refuses to permit inspection of the books, records or accounts of any services 
+in custody or control,  when the right to make such inspection by the Treasurer is 
+requested,  shall upon summary conviction thereof, be sentenced to pay a fine of not 
+more than Five Hundred Dollars  ($500
+2270	00), or to undergo imprisonm ent for not more 
+than thirty (30 ) days
+2271	  
+(c) Whoever willfully fails or refuses to file a return required by the  Instit ution
+and Service Privilege Tax Ordinance , shall, upon summary conviction thereof, be 
+sentenced to pay a fine of not more than Five Hundred Dollars ($500
+2272	00), or undergo 
+imprisonment for not more than thirty (30) days 
+2273	 
+Section 504 
+2274	 – Remedies Not Mutually Exclusive  
+The remedies provided in this Article are not mutually exclusive
+2275	  The utilization by the 
+Treasurer of one remedy does n ot preclude utilization of the other
+2276	  
+Moreover, use of either or both of the remedies provided in these Sections does not 
+preclude the use by the City of Pittsburgh of any other legal or administrative procedure 
+which can bring about compliance by the Taxp ayer with the provisions of Chapter 241 
+of the Pittsburgh Code and these regulations
+2277	  
+Once it has been determined that that a Taxpayer owes a tax, the Treasurer will take 
+all actions legally permitted to enforce its claim
+2278	 Such action may include obtaining  
+additional information, auditing Taxpayer records, entering into a settlement of the 
+disputed amount of the tax, or obtaining liens on the Taxpayer’s property, wage 
+attachments, levies, and seizures and sales of the Taxpayer’s property in appropriate 
+circumstances
+2279	 The Treasurer may enter into a written agreement with the Taxpayer for 
+payment of the tax in installments if the Treasurer believes that such an agreement will 
+facilitate collection
+2280	 The Treasurer may also impose interest and applicable penaltie s 
+on the tax due, and may seek criminal charges in appropriate circumstances
+2281	    -17- 
+ ARTICLE VI  
+TAXPAYER REMEDIES  
+Section  601
+2282	 – Treasurer (Director) Hearings  
+(a) Any taxpayer aggrieved by an assessment by the Treasurer shall, within 
+ninety (90) days after the date of notice of the assessment, request a Treasurer’s 
+Hearing on a form obtained from the Treasurer for that purpose
+2283	 53 Pa
+2284	C
+2285	S
+2286	 § 8431
+2287	 
+The Treasurer may o n his/her own initiative cite a Taxpayer for a hearing
+2288	  
+(b) Any taxpayer who fails to request a Treasurer’s Hearing within a timely 
+manner, waives the right to contest any element of the assessment, and that party’s 
+failure to challenge the Treasurer’s adjudication will be construed as an admission by 
+that party as to the propriety of the assessment
+2289	  
+(c) The written petition for reassessment shall contain at minimum:  
+1
+2290	 The petitioner’s name, address, and daytime telephone number
+2291	  
+2
+2292	 The petitioner’s account and/ or social security number
+2293	  
+3
+2294	 A copy of the assessment notice the party received from the 
+Finance Department
+2295	  
+4
+2296	 A detailed explanation consisting of the reason or reasons the 
+petitioner disagrees with the assessment and any documentation necessary to support 
+the petitioner’s claims
+2297	  
+5
+2298	 Petitioner’s signature
+2299	  
+(d) The completed petition should be mailed to:  
+TREASURER HEARINGS  
+TREASURER – CITY OF PITTSBURGH  
+414 GRANT ST  
+PITTSBURGH PA 15219 -2476  
+(e) Any taxpayer may request a Treasurer’s Hearing so that his tax refund 
+request can be reviewed
+2300	  
+(f) The Treasurer will abate any penalties and interest only in accordance 
+with 53 Pa
+2301	C
+2302	S
+2303	 § 8428
+2304	  
+(g) The Treasurer will issue its decision within 60 days of the receipt of the 
+petitioner’s complete and accurate petition form
+2305	  
+ 
+Section 602 
+2306	 – Appeals  
+Any person aggrieved by the decision of the Treasurer, following a hearing, shall have 
+the right to make an appeal to the Court of Common Pleas of Allegheny County, in 
+accordance with the Taxpayer’s Bill of Rights Act
+2307	 53 Pa
+2308	C
+2309	S
+2310	 § 8434
+2311	  Any appeal must 
+be commenced within thirty (30) days of the date of the notice of the Treasurer’s 
+decision
+2312	 If no such appeal is timely filed, the aggrieved party waives his/her right to 
+contest any element of the Treasurer’s adjudication, and that party’s fai lure to challenge  -18- 
+ the same will be construed as an admission by that party as to the propriety of the 
+Treasurer’s decision
+2313	 No hearing or appeal will operate to suspend the accrual of 
+penalty and interest from the date the tax was due to the date it is act ually paid
+2314	  
+ 
+Section 603 
+2315	 – Payment Under Protest  
+The Treasurer will accept payments of disputed tax amounts under protest pending 
+appeals; however, any request for refund of such monies must be filed in accordance 
+with Section 604
+2316	  
+ 
+Section 604
+2317	 — Refunds 
+2318	 
+(a) A Taxpayer who has overpaid the Privilege Tax, or who believes he/she 
+is not obligated to remit the Privilege Tax may file a written request on an amended tax 
+return with the Department of Finance for a refund or a credit of the tax
+2319	 A request for 
+refund  or a credit shall be made within three (3) years of the due date for filing the 
+report or one (1) year after actual payment of the tax, whichever is later
+2320	 If no report is 
+required, the request shall be made within three (3) years after the due date for 
+payment of the tax or within one (1) year after actual payment of the tax, whichever is 
+later
+2321	  
+(b) For amounts paid as a result of a notice asserting or informing a Taxpayer 
+of an underpayment, a written request for a refund shall be filed with the Department 
+of Finance within one (1) year of the date of the payment
+2322	  
+(c) Every person or institution who ceases to carry on services during any 
+tax year after having paid the Institution and Service Privilege Tax for the entire year 
+shall, upon making proper application to the Treasurer, be entitled to receive entitled 
+to receive a refund of the prorate amount of the tax paid based upon the period of time 
+he was not in service during the license year
+2323	 In the event that a person who 
+discontinues services during any tax yea r does so before payment of its tax becomes 
+due for such tax year, it shall be permitted to apportion its tax for such tax year and 
+shall pay an amount to be computed by multiplying its gross receipts for the preceding 
+full calendar year by a fraction whos e numerator shall be the number of months such 
+person or institution was in service during the tax year and whose denominator shall 
+be twelve (12)
+2324	 
+Section 605 
+2325	 – Installment Payment Plan For Any Deficiency  
+In the appropriate circumstances, the Treasurer will enter an installment payment plan 
+and defer further collection action, if the Taxpayer enters into a written  agreement with 
+the Treasurer
+2326	 The Treasurer will approve installment payment plans only if suc h a plan 
+is in the best interests of the City
+2327	  The Taxpayer must specifically request the installment 
+payment plan from the Treasurer
+2328	 For the required terms of any installment plan See, 
+Second Class City Treasurer’s Sale and Collection Act, 53 P
+2329	S
+2330	 § 2720 7 and Local 
+Taxpayer Bill of Rights, 53 Pa
+2331	C
+2332	S
+2333	 § 8436
+2334	  If the Taxpayer fails to abide by the terms 
+of the installment payment plan, the Treasurer may demand immediate payment of tax, 
+penalty, and interest
+2335	   -19- 
+ ARTICLE VII  
+SAVINGS CLAUSE AND SEVERAB ILITY  
+ 
+Section 701 
+2336	 – Savings Clause and Severability 
+2337	 
+If a final decision of a court of competent jurisdiction holds any provision of these 
+regulations, or the application of any provision to any circumstances, to be illegal or 
+unconstitutional, the other  provisions in these regulations, or the application of such 
+provision to other circumstances, shall remain in full force and effect
+2338	  
+The intent of the Treasurer is that the provisions of these regulations shall be severable 
+and that they would have been a dopted if any such illegal or unconstitutional provisions 
+had not been included herein
+2339	  
+ 
+Section 702 
+2340	 – Disclosure Statement  
+A copy of the Taxpayer Bill of Rights can be requested in writing at the address below 
+or downloaded at http://apps
+2341	pittsburghpa
+2342	gov/finance/10_taxpayers_bill_of_rights
+2343	pdf   
  
 TREASURER, CITY OF PITTSBURGH AUDIT SECTION  
 414 GRANT ST RM 206  

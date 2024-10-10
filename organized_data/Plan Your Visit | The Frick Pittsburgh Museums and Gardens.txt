@@ -1,0 +1,256 @@
+0	Visit Treasured Ornament For Free Free admission to Treasured Ornament is available for Allegheny County Library Card holders through The Allegheny County Regional Asset District's RAD Pass program at RadPass
+1	org 
+2	 Toggle navigation Blog Calendar Equity Membership Rentals Café Shop Donate Plan Your Visit Visit Hours & Admission Today at the Frick Directions & Transit Site Map Accessibility Tours Group Visits Field Trips Explore The Frick Plan Your Visit See and Do See and Do The Frick Grounds Today at the Frick Programs and Events Events By Age Group Make the most of your visit Plan Ahead Learn Learn For Educators Family Programs Workshops Adult Programs Summer Camps Outreach Explore from anywhere Virtual Museum Exhibitions Exhibitions Current Exhibitions Upcoming Exhibitions Past Exhibitions Virtual Exhibitions Now On View Treasured Ornament Collection Support Membership The Frick Societies Reciprocal Museums Donate Legacy Planning Gifts of Stock Qualified Charitable Distributions Corporate Giving EITC Our Supporters Tickets membership Home Plan Your Visit Plan Your Visit Ready to explore? At The Frick Pittsburgh, get ready to experience art, history, and nature
+3	 To ensure you enjoy as much as possible during your visit, check our calendar for all offerings and get your tickets in advance
+4	 Clayton tours are limited and do sell out! For the best experience, begin your visit at Grable Visitor Center
+5	 A Museum Experience Associate will orient you to our campus and help you purchase day-of tickets, if available
+6	 Tickets Overview Hours & Admission Today at the Frick Directions & Transportation Plan Your Visit Site Map Accessibility Tours Group Visits Visit Hours & Admission Admission to the gardens, permanent collection of The Frick Art Museum, and a section of the Car and Carriage Museum is always free
+7	 Admission fees apply to certain special exhibitions in The Frick Art Museum, Car and Carriage Museum, and to Clayton tours
+8	 Clayton tours do sell out and advanced purchase is strongly recommended
+9	 Tuesday - Sunday 8:00 AM - Dusk Gardens and Grounds 9:30 AM - 3 PM The Café at the Frick 10 AM - 5 PM Grable Visitor Center, The Frick Art Museum, Car and Carriage Museum, Greenhouse, Frick Museum Store 10:15 AM - 3 PM Clayton Tours Monday Closed Current Exhibitions Tickets Closed for New Year's Day, Easter, Memorial Day, Juneteenth, Independence Day, Labor Day, Indigenous Peoples' Day, Thanksgiving Day, Christmas Eve, Christmas Day Download visitor map SEE & DO Today at the Frick Tuesday, October 8 10:00 AM - 5:00 PM Treasured Ornament: 10 Centuries of Islamic Art 10:15 AM - 3:00 PM Signature Clayton Tour Experience: Gilded, Not Golden View All Getting Here Directions to the Frick The Frick is approximately 20 minutes east of downtown Pittsburgh at the corner of Penn and South Homewood avenues in Point Breeze
+10	 The entrance is located on Reynolds Street where parking is available in our free lot
+11	 From downtown Pittsburgh, the Pittsburgh Airport or PA Turnpike, the Frick is reached via the Parkway East (I-376)
+12	 Exit at #77–Edgewood Swissvale (take the Edgewood ramp), follow Braddock Ave
+13	 to Penn Ave
+14	 and turn left
+15	 Continue four blocks and turn left on South Homewood Ave
+16	 Proceed one long block to traffic circle (Reynolds St
+17	) and follow signs to parking lot entrance
+18	 PUBLIC TRANSPORTATION Pittsburgh Regional Transit buses 67, 69, and 71C* provide service from downtown Pittsburgh
+19	 *Starting October 1, 2023, the 71C will terminate in Oakland and no longer serve Uptown and downtown Pittsburgh
+20	 Please plan accordingly
+21	 Learn more about the schedule changes on Pittsburgh Regional Transit's website 
+22	 Get Directions Public Transportation Plan Ahead Make the Most of Your Visit Exhibitions Explore our museums for world-class permanent and temporary exhibitions Learn more Tours Enhance your experience with a docent-led tour Learn More The Café Enjoy a treat at The Café at the Frick Tuesday–Sunday, 9:30 AM–3 PM Learn More Store Visit the Museum Store for a unique and carefully curated selection of gifts Learn More Know Before You Go Familiarize yourself with the Frick's visitation guidelines and policies Learn More Accessibility We are committed to offering an inclusive experience for all visitors Learn More School Visits Let our staff personalize your school group visit Learn More Group Visits Get information on scheduling a customized group visit Learn More Get ready to visit The Frick Pittsburgh Download our Mobile Landscape App to prepare for your visit! Learn More @FrickPgh on Instagram Happening now at the Frick It's free to visit The Frick Pittsburgh
+23	 Admission is required for Clayton tours and special exhibitions
+24	 View Events Keep up to date with news and events from The Frick Pittsburgh newsletter
+25	 The Frick Pittsburgh 7227 Reynolds St
+26	 Pittsburgh, PA 15208 Hours: Monday: Closed Tuesday-Sunday: Gardens and grounds open 8 AM-Dusk
+27	 View detailed hours 412-371-0600 info@thefrickpittsburgh
+28	org Contact Staff Media Inquiries Employment Rentals Partnership Programs Membership About Our Mission Annual Report & Strategic Plan Leadership Board of Trustees Trustee Portal Accessibility Equity Land Acknowledgement Press Releases Photo Policy Trustee Login The Frick legacy The Frick Family Historic Home & Gardens Copyright 2018 | The Frick Pittsburgh | Website by Blue Archer × Customer Login Enter your Username and Password to login to your account
+29	 Don't have an account? Contact Us! Forgot Password? × Forgot Password Enter your Username and Password to login to your account
+30	 Don't have an account? Contact Us! × My Account Enter your Username and Password to login to your account
+31	 Don't have an account? Contact Us!
+0	Visit Treasured Ornament For Free Free admission to Treasured Ornament is available for Allegheny County Library Card holders through The Allegheny County Regional Asset District's RAD Pass program at RadPass
+1	org 
+2	 Toggle navigation Blog Calendar Equity Membership Rentals Café Shop Donate Plan Your Visit Visit Hours & Admission Today at the Frick Directions & Transit Site Map Accessibility Tours Group Visits Field Trips Explore The Frick Plan Your Visit See and Do See and Do The Frick Grounds Today at the Frick Programs and Events Events By Age Group Make the most of your visit Plan Ahead Learn Learn For Educators Family Programs Workshops Adult Programs Summer Camps Outreach Explore from anywhere Virtual Museum Exhibitions Exhibitions Current Exhibitions Upcoming Exhibitions Past Exhibitions Virtual Exhibitions Now On View Treasured Ornament Collection Support Membership The Frick Societies Reciprocal Museums Donate Legacy Planning Gifts of Stock Qualified Charitable Distributions Corporate Giving EITC Our Supporters Tickets membership Home Plan Your Visit Plan Your Visit Ready to explore? At The Frick Pittsburgh, get ready to experience art, history, and nature
+3	 To ensure you enjoy as much as possible during your visit, check our calendar for all offerings and get your tickets in advance
+4	 Clayton tours are limited and do sell out! For the best experience, begin your visit at Grable Visitor Center
+5	 A Museum Experience Associate will orient you to our campus and help you purchase day-of tickets, if available
+6	 Tickets Overview Hours & Admission Today at the Frick Directions & Transportation Plan Your Visit Site Map Accessibility Tours Group Visits Visit Hours & Admission Admission to the gardens, permanent collection of The Frick Art Museum, and a section of the Car and Carriage Museum is always free
+7	 Admission fees apply to certain special exhibitions in The Frick Art Museum, Car and Carriage Museum, and to Clayton tours
+8	 Clayton tours do sell out and advanced purchase is strongly recommended
+9	 Tuesday - Sunday 8:00 AM - Dusk Gardens and Grounds 9:30 AM - 3 PM The Café at the Frick 10 AM - 5 PM Grable Visitor Center, The Frick Art Museum, Car and Carriage Museum, Greenhouse, Frick Museum Store 10:15 AM - 3 PM Clayton Tours Monday Closed Current Exhibitions Tickets Closed for New Year's Day, Easter, Memorial Day, Juneteenth, Independence Day, Labor Day, Indigenous Peoples' Day, Thanksgiving Day, Christmas Eve, Christmas Day Download visitor map SEE & DO Today at the Frick Tuesday, October 8 10:00 AM - 5:00 PM Treasured Ornament: 10 Centuries of Islamic Art 10:15 AM - 3:00 PM Signature Clayton Tour Experience: Gilded, Not Golden View All Getting Here Directions to the Frick The Frick is approximately 20 minutes east of downtown Pittsburgh at the corner of Penn and South Homewood avenues in Point Breeze
+10	 The entrance is located on Reynolds Street where parking is available in our free lot
+11	 From downtown Pittsburgh, the Pittsburgh Airport or PA Turnpike, the Frick is reached via the Parkway East (I-376)
+12	 Exit at #77–Edgewood Swissvale (take the Edgewood ramp), follow Braddock Ave
+13	 to Penn Ave
+14	 and turn left
+15	 Continue four blocks and turn left on South Homewood Ave
+16	 Proceed one long block to traffic circle (Reynolds St
+17	) and follow signs to parking lot entrance
+18	 PUBLIC TRANSPORTATION Pittsburgh Regional Transit buses 67, 69, and 71C* provide service from downtown Pittsburgh
+19	 *Starting October 1, 2023, the 71C will terminate in Oakland and no longer serve Uptown and downtown Pittsburgh
+20	 Please plan accordingly
+21	 Learn more about the schedule changes on Pittsburgh Regional Transit's website 
+22	 Get Directions Public Transportation Plan Ahead Make the Most of Your Visit Exhibitions Explore our museums for world-class permanent and temporary exhibitions Learn more Tours Enhance your experience with a docent-led tour Learn More The Café Enjoy a treat at The Café at the Frick Tuesday–Sunday, 9:30 AM–3 PM Learn More Store Visit the Museum Store for a unique and carefully curated selection of gifts Learn More Know Before You Go Familiarize yourself with the Frick's visitation guidelines and policies Learn More Accessibility We are committed to offering an inclusive experience for all visitors Learn More School Visits Let our staff personalize your school group visit Learn More Group Visits Get information on scheduling a customized group visit Learn More Get ready to visit The Frick Pittsburgh Download our Mobile Landscape App to prepare for your visit! Learn More @FrickPgh on Instagram Happening now at the Frick It's free to visit The Frick Pittsburgh
+23	 Admission is required for Clayton tours and special exhibitions
+24	 View Events Keep up to date with news and events from The Frick Pittsburgh newsletter
+25	 The Frick Pittsburgh 7227 Reynolds St
+26	 Pittsburgh, PA 15208 Hours: Monday: Closed Tuesday-Sunday: Gardens and grounds open 8 AM-Dusk
+27	 View detailed hours 412-371-0600 info@thefrickpittsburgh
+28	org Contact Staff Media Inquiries Employment Rentals Partnership Programs Membership About Our Mission Annual Report & Strategic Plan Leadership Board of Trustees Trustee Portal Accessibility Equity Land Acknowledgement Press Releases Photo Policy Trustee Login The Frick legacy The Frick Family Historic Home & Gardens Copyright 2018 | The Frick Pittsburgh | Website by Blue Archer × Customer Login Enter your Username and Password to login to your account
+29	 Don't have an account? Contact Us! Forgot Password? × Forgot Password Enter your Username and Password to login to your account
+30	 Don't have an account? Contact Us! × My Account Enter your Username and Password to login to your account
+31	 Don't have an account? Contact Us!
+0	Visit Treasured Ornament For Free Free admission to Treasured Ornament is available for Allegheny County Library Card holders through The Allegheny County Regional Asset District's RAD Pass program at RadPass
+1	org 
+2	 Toggle navigation Blog Calendar Equity Membership Rentals Café Shop Donate Plan Your Visit Visit Hours & Admission Today at the Frick Directions & Transit Site Map Accessibility Tours Group Visits Field Trips Explore The Frick Plan Your Visit See and Do See and Do The Frick Grounds Today at the Frick Programs and Events Events By Age Group Make the most of your visit Plan Ahead Learn Learn For Educators Family Programs Workshops Adult Programs Summer Camps Outreach Explore from anywhere Virtual Museum Exhibitions Exhibitions Current Exhibitions Upcoming Exhibitions Past Exhibitions Virtual Exhibitions Now On View Treasured Ornament Collection Support Membership The Frick Societies Reciprocal Museums Donate Legacy Planning Gifts of Stock Qualified Charitable Distributions Corporate Giving EITC Our Supporters Tickets membership Home Plan Your Visit Plan Your Visit Ready to explore? At The Frick Pittsburgh, get ready to experience art, history, and nature
+3	 To ensure you enjoy as much as possible during your visit, check our calendar for all offerings and get your tickets in advance
+4	 Clayton tours are limited and do sell out! For the best experience, begin your visit at Grable Visitor Center
+5	 A Museum Experience Associate will orient you to our campus and help you purchase day-of tickets, if available
+6	 Tickets Overview Hours & Admission Today at the Frick Directions & Transportation Plan Your Visit Site Map Accessibility Tours Group Visits Visit Hours & Admission Admission to the gardens, permanent collection of The Frick Art Museum, and a section of the Car and Carriage Museum is always free
+7	 Admission fees apply to certain special exhibitions in The Frick Art Museum, Car and Carriage Museum, and to Clayton tours
+8	 Clayton tours do sell out and advanced purchase is strongly recommended
+9	 Tuesday - Sunday 8:00 AM - Dusk Gardens and Grounds 9:30 AM - 3 PM The Café at the Frick 10 AM - 5 PM Grable Visitor Center, The Frick Art Museum, Car and Carriage Museum, Greenhouse, Frick Museum Store 10:15 AM - 3 PM Clayton Tours Monday Closed Current Exhibitions Tickets Closed for New Year's Day, Easter, Memorial Day, Juneteenth, Independence Day, Labor Day, Indigenous Peoples' Day, Thanksgiving Day, Christmas Eve, Christmas Day Download visitor map SEE & DO Today at the Frick Tuesday, October 8 10:00 AM - 5:00 PM Treasured Ornament: 10 Centuries of Islamic Art 10:15 AM - 3:00 PM Signature Clayton Tour Experience: Gilded, Not Golden View All Getting Here Directions to the Frick The Frick is approximately 20 minutes east of downtown Pittsburgh at the corner of Penn and South Homewood avenues in Point Breeze
+10	 The entrance is located on Reynolds Street where parking is available in our free lot
+11	 From downtown Pittsburgh, the Pittsburgh Airport or PA Turnpike, the Frick is reached via the Parkway East (I-376)
+12	 Exit at #77–Edgewood Swissvale (take the Edgewood ramp), follow Braddock Ave
+13	 to Penn Ave
+14	 and turn left
+15	 Continue four blocks and turn left on South Homewood Ave
+16	 Proceed one long block to traffic circle (Reynolds St
+17	) and follow signs to parking lot entrance
+18	 PUBLIC TRANSPORTATION Pittsburgh Regional Transit buses 67, 69, and 71C* provide service from downtown Pittsburgh
+19	 *Starting October 1, 2023, the 71C will terminate in Oakland and no longer serve Uptown and downtown Pittsburgh
+20	 Please plan accordingly
+21	 Learn more about the schedule changes on Pittsburgh Regional Transit's website 
+22	 Get Directions Public Transportation Plan Ahead Make the Most of Your Visit Exhibitions Explore our museums for world-class permanent and temporary exhibitions Learn more Tours Enhance your experience with a docent-led tour Learn More The Café Enjoy a treat at The Café at the Frick Tuesday–Sunday, 9:30 AM–3 PM Learn More Store Visit the Museum Store for a unique and carefully curated selection of gifts Learn More Know Before You Go Familiarize yourself with the Frick's visitation guidelines and policies Learn More Accessibility We are committed to offering an inclusive experience for all visitors Learn More School Visits Let our staff personalize your school group visit Learn More Group Visits Get information on scheduling a customized group visit Learn More Get ready to visit The Frick Pittsburgh Download our Mobile Landscape App to prepare for your visit! Learn More @FrickPgh on Instagram Happening now at the Frick It's free to visit The Frick Pittsburgh
+23	 Admission is required for Clayton tours and special exhibitions
+24	 View Events Keep up to date with news and events from The Frick Pittsburgh newsletter
+25	 The Frick Pittsburgh 7227 Reynolds St
+26	 Pittsburgh, PA 15208 Hours: Monday: Closed Tuesday-Sunday: Gardens and grounds open 8 AM-Dusk
+27	 View detailed hours 412-371-0600 info@thefrickpittsburgh
+28	org Contact Staff Media Inquiries Employment Rentals Partnership Programs Membership About Our Mission Annual Report & Strategic Plan Leadership Board of Trustees Trustee Portal Accessibility Equity Land Acknowledgement Press Releases Photo Policy Trustee Login The Frick legacy The Frick Family Historic Home & Gardens Copyright 2018 | The Frick Pittsburgh | Website by Blue Archer × Customer Login Enter your Username and Password to login to your account
+29	 Don't have an account? Contact Us! Forgot Password? × Forgot Password Enter your Username and Password to login to your account
+30	 Don't have an account? Contact Us! × My Account Enter your Username and Password to login to your account
+31	 Don't have an account? Contact Us!
+0	Visit Treasured Ornament For Free Free admission to Treasured Ornament is available for Allegheny County Library Card holders through The Allegheny County Regional Asset District's RAD Pass program at RadPass
+1	org 
+2	 Toggle navigation Blog Calendar Equity Membership Rentals Café Shop Donate Plan Your Visit Visit Hours & Admission Today at the Frick Directions & Transit Site Map Accessibility Tours Group Visits Field Trips Explore The Frick Plan Your Visit See and Do See and Do The Frick Grounds Today at the Frick Programs and Events Events By Age Group Make the most of your visit Plan Ahead Learn Learn For Educators Family Programs Workshops Adult Programs Summer Camps Outreach Explore from anywhere Virtual Museum Exhibitions Exhibitions Current Exhibitions Upcoming Exhibitions Past Exhibitions Virtual Exhibitions Now On View Treasured Ornament Collection Support Membership The Frick Societies Reciprocal Museums Donate Legacy Planning Gifts of Stock Qualified Charitable Distributions Corporate Giving EITC Our Supporters Tickets membership Home Plan Your Visit Plan Your Visit Ready to explore? At The Frick Pittsburgh, get ready to experience art, history, and nature
+3	 To ensure you enjoy as much as possible during your visit, check our calendar for all offerings and get your tickets in advance
+4	 Clayton tours are limited and do sell out! For the best experience, begin your visit at Grable Visitor Center
+5	 A Museum Experience Associate will orient you to our campus and help you purchase day-of tickets, if available
+6	 Tickets Overview Hours & Admission Today at the Frick Directions & Transportation Plan Your Visit Site Map Accessibility Tours Group Visits Visit Hours & Admission Admission to the gardens, permanent collection of The Frick Art Museum, and a section of the Car and Carriage Museum is always free
+7	 Admission fees apply to certain special exhibitions in The Frick Art Museum, Car and Carriage Museum, and to Clayton tours
+8	 Clayton tours do sell out and advanced purchase is strongly recommended
+9	 Tuesday - Sunday 8:00 AM - Dusk Gardens and Grounds 9:30 AM - 3 PM The Café at the Frick 10 AM - 5 PM Grable Visitor Center, The Frick Art Museum, Car and Carriage Museum, Greenhouse, Frick Museum Store 10:15 AM - 3 PM Clayton Tours Monday Closed Current Exhibitions Tickets Closed for New Year's Day, Easter, Memorial Day, Juneteenth, Independence Day, Labor Day, Indigenous Peoples' Day, Thanksgiving Day, Christmas Eve, Christmas Day Download visitor map SEE & DO Today at the Frick Tuesday, October 8 10:00 AM - 5:00 PM Treasured Ornament: 10 Centuries of Islamic Art 10:15 AM - 3:00 PM Signature Clayton Tour Experience: Gilded, Not Golden View All Getting Here Directions to the Frick The Frick is approximately 20 minutes east of downtown Pittsburgh at the corner of Penn and South Homewood avenues in Point Breeze
+10	 The entrance is located on Reynolds Street where parking is available in our free lot
+11	 From downtown Pittsburgh, the Pittsburgh Airport or PA Turnpike, the Frick is reached via the Parkway East (I-376)
+12	 Exit at #77–Edgewood Swissvale (take the Edgewood ramp), follow Braddock Ave
+13	 to Penn Ave
+14	 and turn left
+15	 Continue four blocks and turn left on South Homewood Ave
+16	 Proceed one long block to traffic circle (Reynolds St
+17	) and follow signs to parking lot entrance
+18	 PUBLIC TRANSPORTATION Pittsburgh Regional Transit buses 67, 69, and 71C* provide service from downtown Pittsburgh
+19	 *Starting October 1, 2023, the 71C will terminate in Oakland and no longer serve Uptown and downtown Pittsburgh
+20	 Please plan accordingly
+21	 Learn more about the schedule changes on Pittsburgh Regional Transit's website 
+22	 Get Directions Public Transportation Plan Ahead Make the Most of Your Visit Exhibitions Explore our museums for world-class permanent and temporary exhibitions Learn more Tours Enhance your experience with a docent-led tour Learn More The Café Enjoy a treat at The Café at the Frick Tuesday–Sunday, 9:30 AM–3 PM Learn More Store Visit the Museum Store for a unique and carefully curated selection of gifts Learn More Know Before You Go Familiarize yourself with the Frick's visitation guidelines and policies Learn More Accessibility We are committed to offering an inclusive experience for all visitors Learn More School Visits Let our staff personalize your school group visit Learn More Group Visits Get information on scheduling a customized group visit Learn More Get ready to visit The Frick Pittsburgh Download our Mobile Landscape App to prepare for your visit! Learn More @FrickPgh on Instagram Happening now at the Frick It's free to visit The Frick Pittsburgh
+23	 Admission is required for Clayton tours and special exhibitions
+24	 View Events Keep up to date with news and events from The Frick Pittsburgh newsletter
+25	 The Frick Pittsburgh 7227 Reynolds St
+26	 Pittsburgh, PA 15208 Hours: Monday: Closed Tuesday-Sunday: Gardens and grounds open 8 AM-Dusk
+27	 View detailed hours 412-371-0600 info@thefrickpittsburgh
+28	org Contact Staff Media Inquiries Employment Rentals Partnership Programs Membership About Our Mission Annual Report & Strategic Plan Leadership Board of Trustees Trustee Portal Accessibility Equity Land Acknowledgement Press Releases Photo Policy Trustee Login The Frick legacy The Frick Family Historic Home & Gardens Copyright 2018 | The Frick Pittsburgh | Website by Blue Archer × Customer Login Enter your Username and Password to login to your account
+29	 Don't have an account? Contact Us! Forgot Password? × Forgot Password Enter your Username and Password to login to your account
+30	 Don't have an account? Contact Us! × My Account Enter your Username and Password to login to your account
+31	 Don't have an account? Contact Us!
+0	Visit Treasured Ornament For Free Free admission to Treasured Ornament is available for Allegheny County Library Card holders through The Allegheny County Regional Asset District's RAD Pass program at RadPass
+1	org 
+2	 Toggle navigation Blog Calendar Equity Membership Rentals Café Shop Donate Plan Your Visit Visit Hours & Admission Today at the Frick Directions & Transit Site Map Accessibility Tours Group Visits Field Trips Explore The Frick Plan Your Visit See and Do See and Do The Frick Grounds Today at the Frick Programs and Events Events By Age Group Make the most of your visit Plan Ahead Learn Learn For Educators Family Programs Workshops Adult Programs Summer Camps Outreach Explore from anywhere Virtual Museum Exhibitions Exhibitions Current Exhibitions Upcoming Exhibitions Past Exhibitions Virtual Exhibitions Now On View Treasured Ornament Collection Support Membership The Frick Societies Reciprocal Museums Donate Legacy Planning Gifts of Stock Qualified Charitable Distributions Corporate Giving EITC Our Supporters Tickets membership Home Plan Your Visit Plan Your Visit Ready to explore? At The Frick Pittsburgh, get ready to experience art, history, and nature
+3	 To ensure you enjoy as much as possible during your visit, check our calendar for all offerings and get your tickets in advance
+4	 Clayton tours are limited and do sell out! For the best experience, begin your visit at Grable Visitor Center
+5	 A Museum Experience Associate will orient you to our campus and help you purchase day-of tickets, if available
+6	 Tickets Overview Hours & Admission Today at the Frick Directions & Transportation Plan Your Visit Site Map Accessibility Tours Group Visits Visit Hours & Admission Admission to the gardens, permanent collection of The Frick Art Museum, and a section of the Car and Carriage Museum is always free
+7	 Admission fees apply to certain special exhibitions in The Frick Art Museum, Car and Carriage Museum, and to Clayton tours
+8	 Clayton tours do sell out and advanced purchase is strongly recommended
+9	 Tuesday - Sunday 8:00 AM - Dusk Gardens and Grounds 9:30 AM - 3 PM The Café at the Frick 10 AM - 5 PM Grable Visitor Center, The Frick Art Museum, Car and Carriage Museum, Greenhouse, Frick Museum Store 10:15 AM - 3 PM Clayton Tours Monday Closed Current Exhibitions Tickets Closed for New Year's Day, Easter, Memorial Day, Juneteenth, Independence Day, Labor Day, Indigenous Peoples' Day, Thanksgiving Day, Christmas Eve, Christmas Day Download visitor map SEE & DO Today at the Frick Tuesday, October 8 10:00 AM - 5:00 PM Treasured Ornament: 10 Centuries of Islamic Art 10:15 AM - 3:00 PM Signature Clayton Tour Experience: Gilded, Not Golden View All Getting Here Directions to the Frick The Frick is approximately 20 minutes east of downtown Pittsburgh at the corner of Penn and South Homewood avenues in Point Breeze
+10	 The entrance is located on Reynolds Street where parking is available in our free lot
+11	 From downtown Pittsburgh, the Pittsburgh Airport or PA Turnpike, the Frick is reached via the Parkway East (I-376)
+12	 Exit at #77–Edgewood Swissvale (take the Edgewood ramp), follow Braddock Ave
+13	 to Penn Ave
+14	 and turn left
+15	 Continue four blocks and turn left on South Homewood Ave
+16	 Proceed one long block to traffic circle (Reynolds St
+17	) and follow signs to parking lot entrance
+18	 PUBLIC TRANSPORTATION Pittsburgh Regional Transit buses 67, 69, and 71C* provide service from downtown Pittsburgh
+19	 *Starting October 1, 2023, the 71C will terminate in Oakland and no longer serve Uptown and downtown Pittsburgh
+20	 Please plan accordingly
+21	 Learn more about the schedule changes on Pittsburgh Regional Transit's website 
+22	 Get Directions Public Transportation Plan Ahead Make the Most of Your Visit Exhibitions Explore our museums for world-class permanent and temporary exhibitions Learn more Tours Enhance your experience with a docent-led tour Learn More The Café Enjoy a treat at The Café at the Frick Tuesday–Sunday, 9:30 AM–3 PM Learn More Store Visit the Museum Store for a unique and carefully curated selection of gifts Learn More Know Before You Go Familiarize yourself with the Frick's visitation guidelines and policies Learn More Accessibility We are committed to offering an inclusive experience for all visitors Learn More School Visits Let our staff personalize your school group visit Learn More Group Visits Get information on scheduling a customized group visit Learn More Get ready to visit The Frick Pittsburgh Download our Mobile Landscape App to prepare for your visit! Learn More @FrickPgh on Instagram Happening now at the Frick It's free to visit The Frick Pittsburgh
+23	 Admission is required for Clayton tours and special exhibitions
+24	 View Events Keep up to date with news and events from The Frick Pittsburgh newsletter
+25	 The Frick Pittsburgh 7227 Reynolds St
+26	 Pittsburgh, PA 15208 Hours: Monday: Closed Tuesday-Sunday: Gardens and grounds open 8 AM-Dusk
+27	 View detailed hours 412-371-0600 info@thefrickpittsburgh
+28	org Contact Staff Media Inquiries Employment Rentals Partnership Programs Membership About Our Mission Annual Report & Strategic Plan Leadership Board of Trustees Trustee Portal Accessibility Equity Land Acknowledgement Press Releases Photo Policy Trustee Login The Frick legacy The Frick Family Historic Home & Gardens Copyright 2018 | The Frick Pittsburgh | Website by Blue Archer × Customer Login Enter your Username and Password to login to your account
+29	 Don't have an account? Contact Us! Forgot Password? × Forgot Password Enter your Username and Password to login to your account
+30	 Don't have an account? Contact Us! × My Account Enter your Username and Password to login to your account
+31	 Don't have an account? Contact Us!
+0	Visit Treasured Ornament For Free Free admission to Treasured Ornament is available for Allegheny County Library Card holders through The Allegheny County Regional Asset District's RAD Pass program at RadPass
+1	org 
+2	 Toggle navigation Blog Calendar Equity Membership Rentals Café Shop Donate Plan Your Visit Visit Hours & Admission Today at the Frick Directions & Transit Site Map Accessibility Tours Group Visits Field Trips Explore The Frick Plan Your Visit See and Do See and Do The Frick Grounds Today at the Frick Programs and Events Events By Age Group Make the most of your visit Plan Ahead Learn Learn For Educators Family Programs Workshops Adult Programs Summer Camps Outreach Explore from anywhere Virtual Museum Exhibitions Exhibitions Current Exhibitions Upcoming Exhibitions Past Exhibitions Virtual Exhibitions Now On View Treasured Ornament Collection Support Membership The Frick Societies Reciprocal Museums Donate Legacy Planning Gifts of Stock Qualified Charitable Distributions Corporate Giving EITC Our Supporters Tickets membership Home Plan Your Visit Plan Your Visit Ready to explore? At The Frick Pittsburgh, get ready to experience art, history, and nature
+3	 To ensure you enjoy as much as possible during your visit, check our calendar for all offerings and get your tickets in advance
+4	 Clayton tours are limited and do sell out! For the best experience, begin your visit at Grable Visitor Center
+5	 A Museum Experience Associate will orient you to our campus and help you purchase day-of tickets, if available
+6	 Tickets Overview Hours & Admission Today at the Frick Directions & Transportation Plan Your Visit Site Map Accessibility Tours Group Visits Visit Hours & Admission Admission to the gardens, permanent collection of The Frick Art Museum, and a section of the Car and Carriage Museum is always free
+7	 Admission fees apply to certain special exhibitions in The Frick Art Museum, Car and Carriage Museum, and to Clayton tours
+8	 Clayton tours do sell out and advanced purchase is strongly recommended
+9	 Tuesday - Sunday 8:00 AM - Dusk Gardens and Grounds 9:30 AM - 3 PM The Café at the Frick 10 AM - 5 PM Grable Visitor Center, The Frick Art Museum, Car and Carriage Museum, Greenhouse, Frick Museum Store 10:15 AM - 3 PM Clayton Tours Monday Closed Current Exhibitions Tickets Closed for New Year's Day, Easter, Memorial Day, Juneteenth, Independence Day, Labor Day, Indigenous Peoples' Day, Thanksgiving Day, Christmas Eve, Christmas Day Download visitor map SEE & DO Today at the Frick Tuesday, October 8 10:00 AM - 5:00 PM Treasured Ornament: 10 Centuries of Islamic Art 10:15 AM - 3:00 PM Signature Clayton Tour Experience: Gilded, Not Golden View All Getting Here Directions to the Frick The Frick is approximately 20 minutes east of downtown Pittsburgh at the corner of Penn and South Homewood avenues in Point Breeze
+10	 The entrance is located on Reynolds Street where parking is available in our free lot
+11	 From downtown Pittsburgh, the Pittsburgh Airport or PA Turnpike, the Frick is reached via the Parkway East (I-376)
+12	 Exit at #77–Edgewood Swissvale (take the Edgewood ramp), follow Braddock Ave
+13	 to Penn Ave
+14	 and turn left
+15	 Continue four blocks and turn left on South Homewood Ave
+16	 Proceed one long block to traffic circle (Reynolds St
+17	) and follow signs to parking lot entrance
+18	 PUBLIC TRANSPORTATION Pittsburgh Regional Transit buses 67, 69, and 71C* provide service from downtown Pittsburgh
+19	 *Starting October 1, 2023, the 71C will terminate in Oakland and no longer serve Uptown and downtown Pittsburgh
+20	 Please plan accordingly
+21	 Learn more about the schedule changes on Pittsburgh Regional Transit's website 
+22	 Get Directions Public Transportation Plan Ahead Make the Most of Your Visit Exhibitions Explore our museums for world-class permanent and temporary exhibitions Learn more Tours Enhance your experience with a docent-led tour Learn More The Café Enjoy a treat at The Café at the Frick Tuesday–Sunday, 9:30 AM–3 PM Learn More Store Visit the Museum Store for a unique and carefully curated selection of gifts Learn More Know Before You Go Familiarize yourself with the Frick's visitation guidelines and policies Learn More Accessibility We are committed to offering an inclusive experience for all visitors Learn More School Visits Let our staff personalize your school group visit Learn More Group Visits Get information on scheduling a customized group visit Learn More Get ready to visit The Frick Pittsburgh Download our Mobile Landscape App to prepare for your visit! Learn More @FrickPgh on Instagram Happening now at the Frick It's free to visit The Frick Pittsburgh
+23	 Admission is required for Clayton tours and special exhibitions
+24	 View Events Keep up to date with news and events from The Frick Pittsburgh newsletter
+25	 The Frick Pittsburgh 7227 Reynolds St
+26	 Pittsburgh, PA 15208 Hours: Monday: Closed Tuesday-Sunday: Gardens and grounds open 8 AM-Dusk
+27	 View detailed hours 412-371-0600 info@thefrickpittsburgh
+28	org Contact Staff Media Inquiries Employment Rentals Partnership Programs Membership About Our Mission Annual Report & Strategic Plan Leadership Board of Trustees Trustee Portal Accessibility Equity Land Acknowledgement Press Releases Photo Policy Trustee Login The Frick legacy The Frick Family Historic Home & Gardens Copyright 2018 | The Frick Pittsburgh | Website by Blue Archer × Customer Login Enter your Username and Password to login to your account
+29	 Don't have an account? Contact Us! Forgot Password? × Forgot Password Enter your Username and Password to login to your account
+30	 Don't have an account? Contact Us! × My Account Enter your Username and Password to login to your account
+31	 Don't have an account? Contact Us!
+0	Visit Treasured Ornament For Free Free admission to Treasured Ornament is available for Allegheny County Library Card holders through The Allegheny County Regional Asset District's RAD Pass program at RadPass
+1	org 
+2	 Toggle navigation Blog Calendar Equity Membership Rentals Café Shop Donate Plan Your Visit Visit Hours & Admission Today at the Frick Directions & Transit Site Map Accessibility Tours Group Visits Field Trips Explore The Frick Plan Your Visit See and Do See and Do The Frick Grounds Today at the Frick Programs and Events Events By Age Group Make the most of your visit Plan Ahead Learn Learn For Educators Family Programs Workshops Adult Programs Summer Camps Outreach Explore from anywhere Virtual Museum Exhibitions Exhibitions Current Exhibitions Upcoming Exhibitions Past Exhibitions Virtual Exhibitions Now On View Treasured Ornament Collection Support Membership The Frick Societies Reciprocal Museums Donate Legacy Planning Gifts of Stock Qualified Charitable Distributions Corporate Giving EITC Our Supporters Tickets membership Home Plan Your Visit Plan Your Visit Ready to explore? At The Frick Pittsburgh, get ready to experience art, history, and nature
+3	 To ensure you enjoy as much as possible during your visit, check our calendar for all offerings and get your tickets in advance
+4	 Clayton tours are limited and do sell out! For the best experience, begin your visit at Grable Visitor Center
+5	 A Museum Experience Associate will orient you to our campus and help you purchase day-of tickets, if available
+6	 Tickets Overview Hours & Admission Today at the Frick Directions & Transportation Plan Your Visit Site Map Accessibility Tours Group Visits Visit Hours & Admission Admission to the gardens, permanent collection of The Frick Art Museum, and a section of the Car and Carriage Museum is always free
+7	 Admission fees apply to certain special exhibitions in The Frick Art Museum, Car and Carriage Museum, and to Clayton tours
+8	 Clayton tours do sell out and advanced purchase is strongly recommended
+9	 Tuesday - Sunday 8:00 AM - Dusk Gardens and Grounds 9:30 AM - 3 PM The Café at the Frick 10 AM - 5 PM Grable Visitor Center, The Frick Art Museum, Car and Carriage Museum, Greenhouse, Frick Museum Store 10:15 AM - 3 PM Clayton Tours Monday Closed Current Exhibitions Tickets Closed for New Year's Day, Easter, Memorial Day, Juneteenth, Independence Day, Labor Day, Indigenous Peoples' Day, Thanksgiving Day, Christmas Eve, Christmas Day Download visitor map SEE & DO Today at the Frick Tuesday, October 8 10:00 AM - 5:00 PM Treasured Ornament: 10 Centuries of Islamic Art 10:15 AM - 3:00 PM Signature Clayton Tour Experience: Gilded, Not Golden View All Getting Here Directions to the Frick The Frick is approximately 20 minutes east of downtown Pittsburgh at the corner of Penn and South Homewood avenues in Point Breeze
+10	 The entrance is located on Reynolds Street where parking is available in our free lot
+11	 From downtown Pittsburgh, the Pittsburgh Airport or PA Turnpike, the Frick is reached via the Parkway East (I-376)
+12	 Exit at #77–Edgewood Swissvale (take the Edgewood ramp), follow Braddock Ave
+13	 to Penn Ave
+14	 and turn left
+15	 Continue four blocks and turn left on South Homewood Ave
+16	 Proceed one long block to traffic circle (Reynolds St
+17	) and follow signs to parking lot entrance
+18	 PUBLIC TRANSPORTATION Pittsburgh Regional Transit buses 67, 69, and 71C* provide service from downtown Pittsburgh
+19	 *Starting October 1, 2023, the 71C will terminate in Oakland and no longer serve Uptown and downtown Pittsburgh
+20	 Please plan accordingly
+21	 Learn more about the schedule changes on Pittsburgh Regional Transit's website 
+22	 Get Directions Public Transportation Plan Ahead Make the Most of Your Visit Exhibitions Explore our museums for world-class permanent and temporary exhibitions Learn more Tours Enhance your experience with a docent-led tour Learn More The Café Enjoy a treat at The Café at the Frick Tuesday–Sunday, 9:30 AM–3 PM Learn More Store Visit the Museum Store for a unique and carefully curated selection of gifts Learn More Know Before You Go Familiarize yourself with the Frick's visitation guidelines and policies Learn More Accessibility We are committed to offering an inclusive experience for all visitors Learn More School Visits Let our staff personalize your school group visit Learn More Group Visits Get information on scheduling a customized group visit Learn More Get ready to visit The Frick Pittsburgh Download our Mobile Landscape App to prepare for your visit! Learn More @FrickPgh on Instagram Happening now at the Frick It's free to visit The Frick Pittsburgh
+23	 Admission is required for Clayton tours and special exhibitions
+24	 View Events Keep up to date with news and events from The Frick Pittsburgh newsletter
+25	 The Frick Pittsburgh 7227 Reynolds St
+26	 Pittsburgh, PA 15208 Hours: Monday: Closed Tuesday-Sunday: Gardens and grounds open 8 AM-Dusk
+27	 View detailed hours 412-371-0600 info@thefrickpittsburgh
+28	org Contact Staff Media Inquiries Employment Rentals Partnership Programs Membership About Our Mission Annual Report & Strategic Plan Leadership Board of Trustees Trustee Portal Accessibility Equity Land Acknowledgement Press Releases Photo Policy Trustee Login The Frick legacy The Frick Family Historic Home & Gardens Copyright 2018 | The Frick Pittsburgh | Website by Blue Archer × Customer Login Enter your Username and Password to login to your account
+29	 Don't have an account? Contact Us! Forgot Password? × Forgot Password Enter your Username and Password to login to your account
+30	 Don't have an account? Contact Us! × My Account Enter your Username and Password to login to your account
+31	 Don't have an account? Contact Us!
+0	Visit Treasured Ornament For Free Free admission to Treasured Ornament is available for Allegheny County Library Card holders through The Allegheny County Regional Asset District's RAD Pass program at RadPass
+1	org 
+2	 Toggle navigation Blog Calendar Equity Membership Rentals Café Shop Donate Plan Your Visit Visit Hours & Admission Today at the Frick Directions & Transit Site Map Accessibility Tours Group Visits Field Trips Explore The Frick Plan Your Visit See and Do See and Do The Frick Grounds Today at the Frick Programs and Events Events By Age Group Make the most of your visit Plan Ahead Learn Learn For Educators Family Programs Workshops Adult Programs Summer Camps Outreach Explore from anywhere Virtual Museum Exhibitions Exhibitions Current Exhibitions Upcoming Exhibitions Past Exhibitions Virtual Exhibitions Now On View Treasured Ornament Collection Support Membership The Frick Societies Reciprocal Museums Donate Legacy Planning Gifts of Stock Qualified Charitable Distributions Corporate Giving EITC Our Supporters Tickets membership Home Plan Your Visit Plan Your Visit Ready to explore? At The Frick Pittsburgh, get ready to experience art, history, and nature
+3	 To ensure you enjoy as much as possible during your visit, check our calendar for all offerings and get your tickets in advance
+4	 Clayton tours are limited and do sell out! For the best experience, begin your visit at Grable Visitor Center
+5	 A Museum Experience Associate will orient you to our campus and help you purchase day-of tickets, if available
+6	 Tickets Overview Hours & Admission Today at the Frick Directions & Transportation Plan Your Visit Site Map Accessibility Tours Group Visits Visit Hours & Admission Admission to the gardens, permanent collection of The Frick Art Museum, and a section of the Car and Carriage Museum is always free
+7	 Admission fees apply to certain special exhibitions in The Frick Art Museum, Car and Carriage Museum, and to Clayton tours
+8	 Clayton tours do sell out and advanced purchase is strongly recommended
+9	 Tuesday - Sunday 8:00 AM - Dusk Gardens and Grounds 9:30 AM - 3 PM The Café at the Frick 10 AM - 5 PM Grable Visitor Center, The Frick Art Museum, Car and Carriage Museum, Greenhouse, Frick Museum Store 10:15 AM - 3 PM Clayton Tours Monday Closed Current Exhibitions Tickets Closed for New Year's Day, Easter, Memorial Day, Juneteenth, Independence Day, Labor Day, Indigenous Peoples' Day, Thanksgiving Day, Christmas Eve, Christmas Day Download visitor map SEE & DO Today at the Frick Tuesday, October 8 10:00 AM - 5:00 PM Treasured Ornament: 10 Centuries of Islamic Art 10:15 AM - 3:00 PM Signature Clayton Tour Experience: Gilded, Not Golden View All Getting Here Directions to the Frick The Frick is approximately 20 minutes east of downtown Pittsburgh at the corner of Penn and South Homewood avenues in Point Breeze
+10	 The entrance is located on Reynolds Street where parking is available in our free lot
+11	 From downtown Pittsburgh, the Pittsburgh Airport or PA Turnpike, the Frick is reached via the Parkway East (I-376)
+12	 Exit at #77–Edgewood Swissvale (take the Edgewood ramp), follow Braddock Ave
+13	 to Penn Ave
+14	 and turn left
+15	 Continue four blocks and turn left on South Homewood Ave
+16	 Proceed one long block to traffic circle (Reynolds St
+17	) and follow signs to parking lot entrance
+18	 PUBLIC TRANSPORTATION Pittsburgh Regional Transit buses 67, 69, and 71C* provide service from downtown Pittsburgh
+19	 *Starting October 1, 2023, the 71C will terminate in Oakland and no longer serve Uptown and downtown Pittsburgh
+20	 Please plan accordingly
+21	 Learn more about the schedule changes on Pittsburgh Regional Transit's website 
+22	 Get Directions Public Transportation Plan Ahead Make the Most of Your Visit Exhibitions Explore our museums for world-class permanent and temporary exhibitions Learn more Tours Enhance your experience with a docent-led tour Learn More The Café Enjoy a treat at The Café at the Frick Tuesday–Sunday, 9:30 AM–3 PM Learn More Store Visit the Museum Store for a unique and carefully curated selection of gifts Learn More Know Before You Go Familiarize yourself with the Frick's visitation guidelines and policies Learn More Accessibility We are committed to offering an inclusive experience for all visitors Learn More School Visits Let our staff personalize your school group visit Learn More Group Visits Get information on scheduling a customized group visit Learn More Get ready to visit The Frick Pittsburgh Download our Mobile Landscape App to prepare for your visit! Learn More @FrickPgh on Instagram Happening now at the Frick It's free to visit The Frick Pittsburgh
+23	 Admission is required for Clayton tours and special exhibitions
+24	 View Events Keep up to date with news and events from The Frick Pittsburgh newsletter
+25	 The Frick Pittsburgh 7227 Reynolds St
+26	 Pittsburgh, PA 15208 Hours: Monday: Closed Tuesday-Sunday: Gardens and grounds open 8 AM-Dusk
+27	 View detailed hours 412-371-0600 info@thefrickpittsburgh
+28	org Contact Staff Media Inquiries Employment Rentals Partnership Programs Membership About Our Mission Annual Report & Strategic Plan Leadership Board of Trustees Trustee Portal Accessibility Equity Land Acknowledgement Press Releases Photo Policy Trustee Login The Frick legacy The Frick Family Historic Home & Gardens Copyright 2018 | The Frick Pittsburgh | Website by Blue Archer × Customer Login Enter your Username and Password to login to your account
+29	 Don't have an account? Contact Us! Forgot Password? × Forgot Password Enter your Username and Password to login to your account
+30	 Don't have an account? Contact Us! × My Account Enter your Username and Password to login to your account
+31	 Don't have an account? Contact Us!

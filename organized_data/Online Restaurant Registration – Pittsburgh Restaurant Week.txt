@@ -1,0 +1,82 @@
+0	Toggle Navigation Get Involved Join Newsletter register for restaurant week updates * indicates required Email Address * First Name Last Name Zip Code Close var fnames = new Array();var ftypes = new Array();fnames[0]=’EMAIL’;ftypes[0]=’email’;fnames[1]=’FNAME’;ftypes[1]=’text’;fnames[2]=’LNAME’;ftypes[2]=’text’;fnames[3]=’ZIP_CODE’;ftypes[3]=’number’; try { var jqueryLoaded=jQuery; jqueryLoaded=true; } catch(err) { var jqueryLoaded=false; } var head= document
+1	getElementsByTagName(‘head’)[0]; if (!jqueryLoaded) { var script = document
+2	createElement(‘script’); script
+3	type = ‘text/javascript’; script
+4	src = ‘http://ajax
+5	googleapis
+6	com/ajax/libs/jquery/1
+7	4
+8	4/jquery
+9	min
+10	js’; head
+11	appendChild(script); if (script
+12	readyState && script
+13	onload!==null){ script
+14	onreadystatechange= function () { if (this
+15	readyState == ‘complete’) mce_preload_check(); } } } var script = document
+16	createElement(‘script’); script
+17	type = ‘text/javascript’; script
+18	src = ‘http://downloads
+19	mailchimp
+20	com/js/jquery
+21	form-n-validate
+22	js’; head
+23	appendChild(script); var err_style = ”; try{ err_style = mc_custom_error_style; } catch(e){ err_style = ‘margin: 1em 0 0 0; padding: 1em 0
+24	5em 0
+25	5em 0
+26	5em; background: FFEEEE none repeat scroll 0% 0%; font-weight: bold; float: left; z-index: 1; width: 80%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: FF0000;’; } var head= document
+27	getElementsByTagName(‘head’)[0]; var style= document
+28	createElement(‘style’); style
+29	type= ‘text/css’; if (style
+30	styleSheet) { style
+31	styleSheet
+32	cssText = ‘
+33	mce_inline_error {‘ + err_style + ‘}’; } else { style
+34	appendChild(document
+35	createTextNode(‘
+36	mce_inline_error {‘ + err_style + ‘}’)); } head
+37	appendChild(style); setTimeout(‘mce_preload_check();’, 250); var mce_preload_checks = 0; function mce_preload_check(){ if (mce_preload_checks>40) return; mce_preload_checks++; try { var jqueryLoaded=jQuery; } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } try { var validatorLoaded=jQuery(“#fake-form”)
+38	validate({}); } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } mce_init_form(); } function mce_init_form(){ jQuery(document)
+39	ready( function($) { var… Online Restaurant Registration ~ Suggest A Restaurant Sponsor the Celebration Pittsburgh Restaurant Week is currently seeking sponsors
+40	  Sponsorship of Pittsburgh Restaurant Week offers Sponsors an opportunity to boost awareness among Pittsburgh consumers
+41	 By supporting Pittsburgh Restaurant Week, Sponsors will receive maximum exposure prior, during and after the event through aggressive marketing and media relations activities
+42	 Benefits of Sponsorship Prominent company name, logo display, website link and background paragraph on www
+43	pittsburghrestaurantweek
+44	com/pghrestaurantwk Honorable mentions on Social Media pages: Facebook – www
+45	facebook
+46	com/PittsburghRestaurantWeek Twitter – www
+47	twitter
+48	com/PitRestaurantWk One e-mail newsletter promoting a service, product, or exclusive deal to all participant contacts
+49	 Sponsors are responsible for providing content for e-mail newsletter
+50	 Banner ad on high-traffic pages on www
+51	pittsburghrestaurantweek
+52	com/pghrestaurantwk   Interesting in being a sponsor?  E-mail info@pittsburghrestaurantweek
+53	com/pghrestaurantwk for more information
+54	 Submit Restaurant Menu Restaurants Summer 2024 Restaurants Past Celebrations Winter 2024 Restaurants Summer 2023 Restaurants Winter 2023 Restaurants Summer 2022 Restaurants Winter 2022 Restaurants Summer 2021 Restaurants Winter 2021 Restaurants Summer 2020 Restaurants Winter 2020 Restaurants Summer 2019 Restaurants Winter 2019 Restaurants Summer 2018 Restaurants Winter 2018 Restaurants Summer 2017 Restaurants Winter 2017 Restaurants Summer 2016 Restaurants Winter 2016 Restaurants Summer 2015 Restaurants Winter 2015 Restaurants Summer 2014 Restaurants Winter 2014 Restaurants Summer 2013 Restaurants Winter 2013 Restaurants Summer 2012 Restaurants Winter 2012 Restaurants Restaurant Roulette Online Restaurant Registration Pittsburgh Restaurant Week is a celebration of restaurants and dining in the steel city
+55	 Started in 2012, it’s been an annual tradition to host a winter edition in January and summer edition in August
+56	 The winter edition focuses of celebrating “New Dishes for the New Year” while the summer edition features dishes taking advantage of the local produce and harvests with lighter fare
+57	 What’s Required? In order to participate in restaurant week, the restaurant is expected to create a limited-time small menu that is offered for dine-in guests during the dinner meals between the dates of the celebration alongside the restaurant’s normal menu
+58	 While many restaurants opt for a multi-course menu with multiple options per course, that is not the designated requirement
+59	 See more details on pricing below
+60	 Get Listed: Complete The Online Registration Process Restaurant registration is accepted on a rolling basis up until the celebration
+61	 A restaurant must complete the online registration form and submit timely payment to appear on the listing of restaurants and on the participating restaurant map
+62	 The registration form will ask for the anticipated pricing structure (multi-course vs special entrees, but the exact pricing structure is NOT locked in until menu is provided
+63	 On the restaurant listing page, the restaurant appears at the bottom of the page until the menu is received
+64	 Get Promoted: Submit Menu For Advertising Once the limited-time menu has been determined, upload the special menu through the website to receive the full benefit of the celebration
+65	 It is recommended the menu is provided as text-only and not embedded in a prepared graphic
+66	 Once the menu is provided, it will be posted to the restaurant’s profile
+67	 Menus submitted before the posted deadline will be formatted and shared through Pittsburgh Restaurant Week’s social media platforms
+68	 Menus provided after the deadline will be posted to the website but will forfeit the benefit of the social media versions being created
+69	 More On Pricing With such a wide variety of establishments participating, a one-size-fits all pricing model doesn’t make sense, so Pittsburgh Restaurant Week has themed pricing of “24-cents” for 2024
+70	 All special menus should follow that pricing model
+71	 Common pricing options include: Fixed-price 3-course meal for $20
+72	24-45
+73	24
+74	 This variable price point allows restaurants to price their menus’ accordingly
+75	 Menu items do not have to come from the restaurant’s regular menu, but should be representative of the restaurant’s style of cooking
+76	 As an example, restaurants whose normal ﬁxed price menu is above $35, create a special menu for Restaurant Week for $35
+77	24
+78	 $20
+79	24 Specialty Items in honor of Restaurant Week 2024
+80	 This could be a specialty entrée, appetizer-entrée combination or even stretched to “Dinner for Two” depending on the pricing structure that best fits the restaurant
+81	 Restaurant Owners: Sign-up to receive exclusive restaurant owner alerts: Receive Restaurateur Alerts About Contact Contest Guidelines © Pittsburgh TasteBuds Ltd

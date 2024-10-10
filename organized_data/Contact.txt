@@ -1,0 +1,60 @@
+0	Time left to complete order Contact Box Office Hours: Monday 10:00 AM – 6:00 PM
+1	 Full-time ticket office staff will work fully remotely on Mondays, and the Ticket Office will be closed to walk-up sales
+2	 Mondays with performances: 10:00 AM - 30 minutes after scheduled showtime
+3	  The ticket office staff will work on site and the ticket office will be open for walk-up sales
+4	 Tuesday to Friday: 10:00 AM – 6:00 PM Weekdays with performances: 10:00 AM - 30 minutes after scheduled showtime
+5	  The ticket office staff will work on site and the ticket office will be open for walk-up sales
+6	 Saturday: performance days 12:00 PM – 8:00 PM, closed on non-performance days Sunday: performance days 12:00 PM – 4:00 PM, closed on non-performance days Please note that ticket office hours may be adjusted as necessary to accommodate show times (i
+7	e Speaker’s Series, etc
+8	) Phone Sales Hours Monday - Friday, 9 am - 5 pm Closed Saturday & Sunday Additional Evening and Weekend hours may vary based on performance schedule
+9	 Heinz Hall 600 Penn Ave Pittsburgh, PA 15222 Departments Tickets & General Information : 412
+10	392
+11	4900 • 800
+12	743
+13	8560 customerservice@pittsburghsymphony
+14	org Subscriber Services Fax : 412
+15	392
+16	3328 Ticket Turnback Line : 412
+17	392
+18	3333 Box Office Fax : 412
+19	392
+20	3311 Outbound Telefunding/Telesales : 412
+21	261
+22	1113 Artsmarketing Services is the PSO's outbound vendor Mozart Room Reservations : 412
+23	392
+24	4879 Concierge Desk (during concerts only): 412
+25	392
+26	2880 Lost & Found : 412
+27	392
+28	4844 Archives : 412
+29	325
+30	8118 archives@pittsburghsymphony
+31	org Development : 412
+32	392
+33	4880 pso_development@pittsburghsymphony
+34	org Education & Community Engagement : 412
+35	392
+36	4841 Group Sales & Student Tickets: 412
+37	392
+38	4819 group_sales@pittsburghsymphony
+39	org Heinz Hall Management : 412
+40	392
+41	4844 Heinz Hall Rentals : 412
+42	392
+43	4850 Marketing & Sales : 412
+44	392
+45	4840 Public Affairs : 412
+46	392
+47	4827 Questions about Tickets, Orders, and other Customer Service Issues If you have questions about ticket availability, lost tickets, ordering problems, delivery issues, or other questions or concerns, please call our Subscriber and Ticket Services department at 412-392-4900
+48	 If you have a question about print at home tickets, please visit the print at home FAQ page 
+49	 If you would like to send us an e-mail, you may direct it to customerservice@pittsburghsymphony
+50	org E-mail correspondence is handled at a lower priority than phone calls
+51	 If you have a concern or question that needs a timely response, please call the Subscriber and Ticket Services line at 412-392-4900
+52	 A reply to your e-mail may take several days
+53	 If you're interested in a ticket donation for an event, visit out ticket donation page 
+54	 Donation requests are not accepted through phone or mail
+55	 General questions, comments and suggestions: questions@pittsburghsymphony
+56	org Website Issues Only Please do not e-mail ticket order requests or any other ticketing issues to the webmaster
+57	 Please direct all ticketing issues to customerservice@pittsburghsymphony
+58	org Website comments, problems, and suggestions: webmaster@pittsburghsymphony
+59	org PSO Staff Listings Pittsburgh Symphony Orchestra Administrative Staff

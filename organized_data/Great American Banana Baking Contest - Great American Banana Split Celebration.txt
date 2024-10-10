@@ -1,0 +1,30 @@
+0	Great American Banana Baking Contest See what's happening
+1	 Contest Information Turn up the heat for the Great American Banana Baking Contest! Contestants will bake a dessert that has to involve bananas in some form
+2	 There are three categories of contestants: Individual, Commercial (Businesses that offer baked goods), and Kids (under 12)
+3	 Details Saturday, August 24, 2024 11am to 12pm WCCC Latrobe Center Rules  Entries must be made from scratch, not store- bought
+4	  MUST CONTAIN BANANA as an ingredient
+5	  No mixes allowed
+6	  The item must be fully baked and ready to serve
+7	  ALL ENTRIES MUST HAVE THE RECIPE ATTACHED, or it will not be accepted  Baked goods should be prepared in a clean and sanitary manner
+8	  Entries should be whole baked goods, such as a full cake or pie, or at least a half dozen of the same item
+9	  Please do not submit any item that requires refrigeration
+10	  Participants should bring their own utensils, such as cake knives or pie servers
+11	  Contestants may need to provide their own dishes and decorations
+12	  Judging will consider appearance, flavor, texture, and other factors
+13	 For example, a coffee cake might be judged on its crust, frosting, filling, and crumb
+14	 Accepted Baked Goods  Breads: Yeast Breads, Quick Breads, & Sweet Breads  Cookies: Any Cookie  Cakes: Any cake  Miscellaneous Sweets: Any dessert item that does not fit in a category listed above  NO Brownies  NO Dips or Spreads
+0	Great American Banana Baking Contest See what's happening
+1	 Contest Information Turn up the heat for the Great American Banana Baking Contest! Contestants will bake a dessert that has to involve bananas in some form
+2	 There are three categories of contestants: Individual, Commercial (Businesses that offer baked goods), and Kids (under 12)
+3	 Details Saturday, August 24, 2024 11am to 12pm WCCC Latrobe Center Rules  Entries must be made from scratch, not store- bought
+4	  MUST CONTAIN BANANA as an ingredient
+5	  No mixes allowed
+6	  The item must be fully baked and ready to serve
+7	  ALL ENTRIES MUST HAVE THE RECIPE ATTACHED, or it will not be accepted  Baked goods should be prepared in a clean and sanitary manner
+8	  Entries should be whole baked goods, such as a full cake or pie, or at least a half dozen of the same item
+9	  Please do not submit any item that requires refrigeration
+10	  Participants should bring their own utensils, such as cake knives or pie servers
+11	  Contestants may need to provide their own dishes and decorations
+12	  Judging will consider appearance, flavor, texture, and other factors
+13	 For example, a coffee cake might be judged on its crust, frosting, filling, and crumb
+14	 Accepted Baked Goods  Breads: Yeast Breads, Quick Breads, & Sweet Breads  Cookies: Any Cookie  Cakes: Any cake  Miscellaneous Sweets: Any dessert item that does not fit in a category listed above  NO Brownies  NO Dips or Spreads

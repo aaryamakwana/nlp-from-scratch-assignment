@@ -1,0 +1,15 @@
+0	Parking Find some space
+1	 Where is parking available? If you are looking for a place to park, no need to worry! These lots will provide free parking and plenty of spaces
+2	 300 Chestnut Street Parking Latrobe Municipal Parking Garage (1099 Court Yard Plaza) Latrobe Municipal Parking Lot (309 Weldon Street) Latrobe Station (329 McKinley Avenue)
+0	Parking Find some space
+1	 Where is parking available? If you are looking for a place to park, no need to worry! These lots will provide free parking and plenty of spaces
+2	 300 Chestnut Street Parking Latrobe Municipal Parking Garage (1099 Court Yard Plaza) Latrobe Municipal Parking Lot (309 Weldon Street) Latrobe Station (329 McKinley Avenue)
+0	Parking Find some space
+1	 Where is parking available? If you are looking for a place to park, no need to worry! These lots will provide free parking and plenty of spaces
+2	 300 Chestnut Street Parking Latrobe Municipal Parking Garage (1099 Court Yard Plaza) Latrobe Municipal Parking Lot (309 Weldon Street) Latrobe Station (329 McKinley Avenue)
+0	Parking Find some space
+1	 Where is parking available? If you are looking for a place to park, no need to worry! These lots will provide free parking and plenty of spaces
+2	 300 Chestnut Street Parking Latrobe Municipal Parking Garage (1099 Court Yard Plaza) Latrobe Municipal Parking Lot (309 Weldon Street) Latrobe Station (329 McKinley Avenue)
+0	Parking Find some space
+1	 Where is parking available? If you are looking for a place to park, no need to worry! These lots will provide free parking and plenty of spaces
+2	 300 Chestnut Street Parking Latrobe Municipal Parking Garage (1099 Court Yard Plaza) Latrobe Municipal Parking Lot (309 Weldon Street) Latrobe Station (329 McKinley Avenue)

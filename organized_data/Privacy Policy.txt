@@ -1,0 +1,237 @@
+0	Time left to complete order Pittsburghsymphony
+1	org Privacy Policy Effective Date: July 24, 2018 This Privacy Policy applies to your use of the website at www
+2	culturaldistrict
+3	org and its co-branded microsites, such as https://pittsburghclo
+4	culturaldistrict
+5	org (collectively, the "Site") in or on which this Privacy Policy is posted The Site is operated by or on behalf of the Pittsburgh Cultural District ("Cultural District") and is dedicated to the promotion of Pittsburgh's Cultural District and its member companies: August Wilson Center, Pittsburgh Ballet Theatre, Pittsburgh CLO, The Pittsburgh Cultural Trust, Pittsburgh Opera, Pittsburgh Public Theater, and Pittsburgh Symphony
+6	 The terms "we," "our," "ours" and "us" refer to the Cultural District and, as appropriate, one or more Member Organizations
+7	 PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE ACCESSING OR USING THE SITE
+8	 BY USING THE SITE YOU CONSENT TO THE COLLECTION, USE AND TRANSFER OF YOUR PERSONAL INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY
+9	 IF YOU DO NOT AGREE WITH ANY PART OF THIS PRIVACY POLICY, THEN PLEASE DO NOT USE THE SITE
+10	 SCOPE This Privacy Policy discloses the information we collect, why we collect it and how we use it
+11	 This Privacy Policy does not apply to information that is collected by any third-party websites or services that you may access through the Site
+12	 This Privacy Policy is incorporated into and made a part of our Terms of Use 
+13	 If you have not done so already, please also review the Terms of Use 
+14	 The Terms of Use include provisions that limit our liability to users and other important terms
+15	 INFORMATION THAT WE COLLECT In this Privacy Policy, "Personal Information" means information that directly or indirectly identifies you as an individual, such as your name, email address, mailing address and telephone number
+16	 "Activity Data" is information that, by itself, does not individually identify you, such as browser type, operating system, the webpages you viewed and how long you viewed them
+17	 We generally do not treat Activity Data as Personal Information
+18	 We may, however, link together different types of Activity Data or link Activity Data to Personal Information
+19	 If linked information identifies (or can be used to identify) an individual person, we treats the linked information as Personal Information
+20	 HOW WE COLLECT INFORMATION We collect information about users that users provide through optional, voluntary submissions to receive electronic newsletters, to submit questions and comments, to share information with a friend, and participation in polls, surveys, and ticket purchases
+21	 Some of this information may be Personal Information
+22	 We collect Activity Data when users visit and use the Site, such as such as how long you spend on various webpages, which webpages you view, your search queries, error and performance reports and the webpages that you visited before and after using the Site, as well as Device identifier or IP address, browser type, time zone and language settings and operating system
+23	 Activity Data allows us to better tailor content to users' interests and to determine traffic through on the Site
+24	 We use cookies, pixel tabs (also known as web beacons, flash cookies and clear GIFs) and similar technology to automatically collect Activity Data
+25	 Web Beacons : A web beacon (also called a pixel tag or clear GIF) is computer code that communicates information from your device to a server
+26	 Some of Cultural District’s content and emails may contain embedded web beacons that allow a server to read certain types of information from your Device, allow us to count the number of people who have viewed content, to know when you opened an email message and the IP address of your Device
+27	 Web beacons help Cultural District develop statistical information to provide better and more personalized content
+28	 Cookies : Cookies are small text files that are sent to or accessed from your web browser or your computer’s hard drive
+29	 A cookie typically contains the name of the domain (internet location) from which the cookie originated, the "lifetime" of the cookie (i
+30	e
+31	, when it expires) and a randomly generated unique number or similar identifier
+32	 A cookie also may contain information about your computer, such as user settings, browsing history and activities conducted while using the Site
+33	 The Site uses the following cookies: Strictly necessary cookies, which are required for the operation of the Site
+34	 Without them, for example, you would not be able to register or log in for the Site that Cultural District offers
+35	 Analytical/performance cookies, which allow Cultural District to recognize and count the number of visitors, learn how visitors navigate the Site and improve the Site
+36	 Functionality cookies, which Cultural District uses to recognize you when you return to the Site
+37	 Interaction cookies, which allow you to recommend Cultural District on Social Media
+38	 To learn more about web beacons and cookies, visit www
+39	allaboutcookies
+40	org 
+41	 Cultural District also uses analytics services, such as Google Analytics, to collect Activity Data
+42	 Generally analytics services do not identify individual users
+43	 Many analytics services allow you to opt out of data collection
+44	 For example, to learn more about Google Analytics practices and to opt out, visit www
+45	google
+46	com/settings/ads or by downloading the Google Analytics opt-out browser add-on at https://tools
+47	google
+48	com/dlpage/gaoptout 
+49	 Your Control of Cookies : Some web browsers (including some mobile web browsers) provide settings that allow you to control or reject cookies or to alert you when a cookie is placed on your device
+50	 You also may be able to reject mobile device identifiers by activating the appropriate setting on your mobile device
+51	 Although you are not required to accept cookies or mobile device identifiers, if you block or reject them, you may not have access to all features available through the Site
+52	 Do Not Track : Some web browsers (including Safari, Internet Explorer, Firefox and Chrome) incorporate a "Do Not Track" ("DNT") or similar feature that signals to websites that a user does not want to have his or her online activity and behavior tracked
+53	 If a website that responds to a particular DNT signal receives the DNT signal, the browser can block that website from collecting certain information about the browser’s user
+54	 Not all browsers offer a DNT option and DNT signals are not yet uniform
+55	 For this reason, many website operators, including Cultural District, do not respond to DNT signals
+56	 HOW INFORMATION IS USED AND SHARED Information collected through the Site is used  for: Electronic  newsletters: We offer free electronic newsletters
+57	 Users may remove themselves  from email distribution by following the unsubscribe link provided in every  email
+58	 "Email  a friend" and other social media services: Users can choose to forward  Site information to someone else
+59	 To do so, the user must provide his or her  email address, as well as the email address of the recipient
+60	 This information  is used only to let the recipient know who sent the email and to send the  email
+61	 Surveys:  We may conduct user surveys to better target our content to our audience
+62	 We  may share audience feedback and aggregated demographic information with our  sponsors, future advertisers and partners
+63	 We do not share information about  specific individuals with any third party
+64	 Donors:  Pittsburgh Symphony, Inc
+65	 places a high priority on protecting any financial  information that you provide
+66	 We do not share or sell any of this information,  whether it is obtained online or offline
+67	 Occasionally, we may provide special offers and promotions for non-profit and entertainment organizations to audience members and those that have signed up to receive cultural information
+68	 We do not release telephone numbers but may utilize phone blasting technology to inform audience members of vital customer service information such as program changes, weather cancellations, travel advisories, and other event-related news
+69	 We also may use the information we collect from users to (a) provide other services that we may offer or that users may request, (b) assess and measure the use of the Site, and (c) customize and improve the Site and its content
+70	 We share information collected through the Site: with service providers that help us with payment card processing, sending emails, order fulfillment, conducting advertising, providing customer service or product support, industry benchmarking, consumer analysis, market research and administering promotions
+71	 if Cultural District is involved in a merger, reorganization, dissolution, bankruptcy or similar change
+72	 if we determine that disclosure of specific information is necessary to comply with the request of a law enforcement or regulatory agency or other legal process; to protect the rights, privacy, property, interests or safety of our company or our affiliates, customers, business partners, employees or the general public; to pursue available remedies or limit the damages; to enforce the Terms of Use or other agreements; and to respond to an emergency
+73	 California Shine the Light Law: California Civil Code Section 1798
+74	83 permits users who are California residents to obtain from us once a year, free of charge, a list of third parties to whom we have disclosed personal information (if any) for direct marketing purposes in the preceding calendar year
+75	 If you are a California resident and you wish to make such a request, please send an e-mail with "California Privacy Rights" in the subject line to contact@trustarts
+76	org , or write us at: Cultural District Website c/o The Pittsburgh Cultural Trust 803 Liberty Avenue, Pittsburgh, PA 15222 CHILDREN’S PRIVACY The Site is not directed to or intended for use by minors
+77	 Consistent with the requirements of the U
+78	S
+79	 Children’s Online Privacy Protection Act, if we learn that we have received any information directly from a child under age 13 without his or her parent’s verified consent, we will use that information only to respond directly to that child (or his or her parent or legal guardian) to inform the child that he or she cannot use the Site and subsequently will delete that information
+80	 California Minors: While the Site is not intended for anyone under the age of 18, if you are a California resident who is under age 18 and you are unable to remove publicly-available content that you have submitted to us, you may request removal by contacting us at: contact@trustarts
+81	org 
+82	 When requesting removal, you must be specific about the information you want removed and provide us with specific information, such as the URL for each page where the information was entered, so that we can find it
+83	 We are not required to remove any content or information that: (1) federal or state law requires us or a third party to maintain; (2) was not posted by you; (3) is anonymized so that you cannot be identified; (4) you don’t follow our instructions for removing or requesting removal; or (5) you received compensation or other consideration for providing the Content or information
+84	 Removal of your content or information from the Site does not ensure complete or comprehensive removal of that content or information from our systems or the systems of our service providers
+85	 We are not required to delete the content or information posted by you; our obligations under California law are satisfied so long as we anonymize the content or information or render it invisible to other users and the public
+86	 LINKS The Site may include links to other websites, such as Social Media, which are not operated by us
+87	 When you click these links, you are navigating away from the Site
+88	 A link to a third-party website or digital service does not mean that we endorse it or the quality or accuracy of information presented on it
+89	 If you decide to visit a third-party website or digital service, you are subject to its privacy practices and policies, not ours
+90	 This Privacy Policy does not apply to any Personal Information that you provide to these other websites and services
+91	 HOW WE PROTECT AND STORE INFORMATION Cultural District takes precautions intended to help protect information that we collect and store
+92	 Unfortunately, however, no system or electronic data transmission is completely secure
+93	 Any transmission is at your own risk and we expect that you will use appropriate security measures to protect your information
+94	 You are responsible for maintaining the security of your account credentials and other authentication involved in obtaining access to password-protected or secure areas of the Site
+95	 Cultural District will treat access to the Site through your account credentials as authorized by you
+96	 Unauthorized access to password-protected or secure areas is prohibited and may lead to criminal prosecution
+97	 We may suspend your use of all or part of the Site without notice if we suspect or detect any breach of security
+98	 If you believe that information you provided to us is no longer secure, please notify us immediately using the contact information provided below
+99	 We retain information for as long as necessary to fulfill the purposes for which you provided the information, to comply with law legal obligations, to resolve disputes, to enforce agreements and similar essential purposes
+100	 HOW TO ACCESS AND CORRECT YOUR PERSONAL INFORMATION If you would like to correct or delete your Personal Information, please send us an e-mail with your request to contact@trustarts
+101	org 
+102	 Cultural District reserves the right to request that you provide information that will enable Cultural District to confirm that you have the authority to correct or delete the Personal Information that you want corrected or deleted
+103	 Cultural District may not be able to correct or delete Personal Information shared with third parties
+104	 NOTICE TO INTERNATIONAL VISITORS The Site is operated by Cultural District in the United States but the information that you provide is accessible to affiliates, vendors and suppliers in other countries
+105	 If you are visiting the Site from a country other than the United States, your communication with Cultural District will necessarily result in the transfer of information across international boundaries
+106	 The level of legal protection for Personal Information is not the same in all countries
+107	 If you are using the Site from outside of the United States, by providing your Personal Information to us, you consent to the transfer of your Personal Information to the United States for processing consistent with this Privacy Policy in the United States and in any country to which we may transfer your information in the course of our business operations CHANGES TO THIS PRIVACY POLICY The Effective Date of this Privacy Policy is set forth at the top of this webpage
+108	 We reserve the right to change our Privacy Policy as business needs require
+109	 If we make material changes to the way we use Personal Information, we will post a notice about the changes prominently in the Sites
+110	 Your continued use of the Site after the Effective Date constitutes your acceptance of the amended Privacy Policy
+111	 The amended Privacy Policy supersedes all previous versions
+112	 CONTACT US If you have any questions about this website or our privacy policy, please contact us at contact@trustarts
+113	org or by mail at: Cultural District Website c/o The Pittsburgh Cultural Trust 803 Liberty Avenue Pittsburgh, PA 15222 Box Office: 412-456-6666
+0	Home about vendors map FAQS buy tickets Privacy Policy Effective date: 2024-01-05 Updated on: 2024-01-05 This Privacy Policy explains the policies of Pittsburgh Taco Festival on the collection 
+and use of the information we collect when you access https://www
+1	pghtacofest
+2	com/ (the “Service”)
+3	 This Privacy Policy describes your 
+privacy rights and how you are protected under privacy laws
+4	 By using our Service, you are consenting to the collection and use of your information in accordance
+    with this Privacy Policy
+5	 Please do not access or use our Service if you do not consent to the collection
+    and use of your information as outlined in this Privacy Policy
+6	 This Privacy Policy has been created with
+    the help of CookieScript Privacy Policy Generator 
+7	 Pittsburgh Taco Festival is authorized to modify this Privacy Policy at any time
+8	
+This may occur without prior notice
+9	 Pittsburgh Taco Festival will post the revised Privacy Policy on the https://www
+10	pghtacofest
+11	com/ website Collection and Use of Your Personal Information Information We Collect When using our Service, you will be prompted to provide us with personal information used to
+contact or identify you
+12	 https://www
+13	pghtacofest
+14	com/ collects the following information: Usage Data Name Email Mobile Number Usage Data includes the following: Internet Protocol (IP) address of computers accessing the site Web page requests Referring web pages Browser used to access site Time and date of access How We Collect Information https://www
+15	pghtacofest
+16	com/ collects and receives information from you in the following manner: When you fill a registration form or otherwise submit your personal information
+17	 When you interact with our Service
+18	 From external, public sources
+19	 Your information will be stored for up to 365 days after it is
+no longer required to provide you the services
+20	 Your information may be retained for longer periods for
+reporting or record- keeping in accordance with applicable laws
+21	 Information which does not identify you
+personally may be stored indefinitely
+22	 How We Use Your Information https://www
+23	pghtacofest
+24	com/ may use your information for the following purposes: Providing and maintaining our Service, as well as monitoring the usage of our Service
+25	 To contact you
+26	 Pittsburgh Taco Festival will contact you by email, phone, SMS, or another form of
+electronic communication related to the functions, products, services, or security updates when
+necessary or reasonable
+27	 Marketing and promotional initiatives
+28	 Pittsburgh Taco Festival will use non-specific information gathered
+from you in order to improve our marketing efforts
+29	 How We Share Your Information Pittsburgh Taco Festival will share your information, when applicable, in the following situations: With your consent
+30	 Pittsburgh Taco Festival will share your information for any purpose with your explicit
+consent
+31	 Third-party Sharing Any third party we share your information with must disclose the purpose for which they intend to use
+your information
+32	 They must retain your information only for the duration disclosed when requesting or
+receiving said information
+33	 The third-party service provider must not further collect, sell, or use your
+personal information except as necessary to perform the specified purpose
+34	 Your information may be shared to a third-party for reasons including: Analytics information
+35	 Your information might be shared with online
+analytics tools in order to track and analyse website traffic
+36	 If you choose to provide such information during registration or 
+otherwise, you are giving Pittsburgh Taco Festival permission to use, share, and store that information in a manner consistent with 
+this Privacy Policy
+37	 Your information may be disclosed for additional reasons, including: Complying with applicable laws, regulations, or court orders
+38	 Responding to claims that your use of our Service violates third-party rights
+39	 Enforcing agreements you make with us, including this Privacy Policy
+40	 Cookies Cookies are small text files that are placed on your computer by websites that you visit
+41	 Websites use
+cookies to help users navigate efficiently and perform certain functions
+42	 Cookies that are required for
+the website to operate properly are allowed to be set without your permission
+43	 All other cookies need
+to be approved before they can be set in the browser
+44	 Strictly necessary cookies
+45	 Strictly necessary cookies allow core website functionality such as
+user login and account management
+46	 The website cannot be used properly without strictly necessary cookies
+47	 Performance cookies
+48	 Performance cookies are used to see how visitors use the website, eg
+49	
+analytics cookies
+50	 Those cookies cannot be used to directly identify a certain visitor
+51	 Targeting cookies
+52	 Targeting cookies are used to identify visitors between different websites, eg
+53	 content partners, banner networks
+54	 Those cookies may be used by companies to build a profile
+of visitor interests or show relevant ads on other websites
+55	 Functionality cookies
+56	 Functionality cookies are used to remember visitor information on the
+website, eg
+57	 language, timezone, enhanced content
+58	 Unclassified cookies
+59	 Unclassified cookies are cookies that do not belong to any other category
+or are in the process of categorization
+60	 You can change your consent to cookie usage below
+61	 Strictly necessary Performance Targeting Functionality Save Cookies consent ID: Strictly necessary Cookie report Name Provider /
+          Domain Expiration Description CookieScriptConsent CookieScript www
+62	pghtacofest
+63	com 1 month This cookie is used by Cookie-Script
+64	com service to remember visitor cookie consent preferences
+65	 It is necessary for Cookie-Script
+66	com cookie banner to work properly
+67	 Performance Cookie report Name Provider /
+          Domain Expiration Description _ga Google LLC 
+68	pghtacofest
+69	com 1 year 1 month This cookie name is associated with Google Universal Analytics - which is a significant update to Google's more commonly used analytics service
+70	 This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier
+71	 It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports
+72	 _ga_0E6L5NHQF3 
+73	pghtacofest
+74	com 1 year 1 month This cookie is used by Google Analytics to persist session state
+75	 Targeting Cookie report Name Provider /
+          Domain Expiration Description Functionality Cookie report Name Provider /
+          Domain Expiration Description Security Your information’s security is important to us
+76	 https://www
+77	pghtacofest
+78	com/ 
+utilizes a range of security measures to prevent the misuse, loss, or alteration of the information you have given us
+79	 
+However, because we cannot guarantee the security of the information you provide us, you must access our service at your
+own risk
+80	 Pittsburgh Taco Festival is not responsible for the performance of websites 
+operated by third parties or your interactions with them
+81	 When you leave this website, we recommend you review the 
+privacy practices of other websites you interact with and determine the adequacy of those practices
+82	 Contact Us For any questions, please contact us through the following methods: Name: Pittsburgh Taco Festival Address: 1040 Downlook St Pittsburgh PA USA 15201 Email: craig@pghtacofestival
+83	com Website: https://www
+84	pghtacofest
+85	com/ Phone: (412) 860-9235 Copyright © Pittsburgh Taco Festival 2024 | All Rights Reserved | PRIVACY POLICY | Website by REFRESH

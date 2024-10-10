@@ -1,0 +1,145 @@
+0	Toggle Navigation Get Involved Join Newsletter register for restaurant week updates * indicates required Email Address * First Name Last Name Zip Code Close var fnames = new Array();var ftypes = new Array();fnames[0]=’EMAIL’;ftypes[0]=’email’;fnames[1]=’FNAME’;ftypes[1]=’text’;fnames[2]=’LNAME’;ftypes[2]=’text’;fnames[3]=’ZIP_CODE’;ftypes[3]=’number’; try { var jqueryLoaded=jQuery; jqueryLoaded=true; } catch(err) { var jqueryLoaded=false; } var head= document
+1	getElementsByTagName(‘head’)[0]; if (!jqueryLoaded) { var script = document
+2	createElement(‘script’); script
+3	type = ‘text/javascript’; script
+4	src = ‘http://ajax
+5	googleapis
+6	com/ajax/libs/jquery/1
+7	4
+8	4/jquery
+9	min
+10	js’; head
+11	appendChild(script); if (script
+12	readyState && script
+13	onload!==null){ script
+14	onreadystatechange= function () { if (this
+15	readyState == ‘complete’) mce_preload_check(); } } } var script = document
+16	createElement(‘script’); script
+17	type = ‘text/javascript’; script
+18	src = ‘http://downloads
+19	mailchimp
+20	com/js/jquery
+21	form-n-validate
+22	js’; head
+23	appendChild(script); var err_style = ”; try{ err_style = mc_custom_error_style; } catch(e){ err_style = ‘margin: 1em 0 0 0; padding: 1em 0
+24	5em 0
+25	5em 0
+26	5em; background: FFEEEE none repeat scroll 0% 0%; font-weight: bold; float: left; z-index: 1; width: 80%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: FF0000;’; } var head= document
+27	getElementsByTagName(‘head’)[0]; var style= document
+28	createElement(‘style’); style
+29	type= ‘text/css’; if (style
+30	styleSheet) { style
+31	styleSheet
+32	cssText = ‘
+33	mce_inline_error {‘ + err_style + ‘}’; } else { style
+34	appendChild(document
+35	createTextNode(‘
+36	mce_inline_error {‘ + err_style + ‘}’)); } head
+37	appendChild(style); setTimeout(‘mce_preload_check();’, 250); var mce_preload_checks = 0; function mce_preload_check(){ if (mce_preload_checks>40) return; mce_preload_checks++; try { var jqueryLoaded=jQuery; } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } try { var validatorLoaded=jQuery(“#fake-form”)
+38	validate({}); } catch(err) { setTimeout(‘mce_preload_check();’, 250); return; } mce_init_form(); } function mce_init_form(){ jQuery(document)
+39	ready( function($) { var… Online Restaurant Registration ~ Suggest A Restaurant Sponsor the Celebration Pittsburgh Restaurant Week is currently seeking sponsors
+40	  Sponsorship of Pittsburgh Restaurant Week offers Sponsors an opportunity to boost awareness among Pittsburgh consumers
+41	 By supporting Pittsburgh Restaurant Week, Sponsors will receive maximum exposure prior, during and after the event through aggressive marketing and media relations activities
+42	 Benefits of Sponsorship Prominent company name, logo display, website link and background paragraph on www
+43	pittsburghrestaurantweek
+44	com/pghrestaurantwk Honorable mentions on Social Media pages: Facebook – www
+45	facebook
+46	com/PittsburghRestaurantWeek Twitter – www
+47	twitter
+48	com/PitRestaurantWk One e-mail newsletter promoting a service, product, or exclusive deal to all participant contacts
+49	 Sponsors are responsible for providing content for e-mail newsletter
+50	 Banner ad on high-traffic pages on www
+51	pittsburghrestaurantweek
+52	com/pghrestaurantwk   Interesting in being a sponsor?  E-mail info@pittsburghrestaurantweek
+53	com/pghrestaurantwk for more information
+54	 Submit Restaurant Menu Restaurants Summer 2024 Restaurants Past Celebrations Winter 2024 Restaurants Summer 2023 Restaurants Winter 2023 Restaurants Summer 2022 Restaurants Winter 2022 Restaurants Summer 2021 Restaurants Winter 2021 Restaurants Summer 2020 Restaurants Winter 2020 Restaurants Summer 2019 Restaurants Winter 2019 Restaurants Summer 2018 Restaurants Winter 2018 Restaurants Summer 2017 Restaurants Winter 2017 Restaurants Summer 2016 Restaurants Winter 2016 Restaurants Summer 2015 Restaurants Winter 2015 Restaurants Summer 2014 Restaurants Winter 2014 Restaurants Summer 2013 Restaurants Winter 2013 Restaurants Summer 2012 Restaurants Winter 2012 Restaurants Restaurant Roulette Summer 2016 Restaurants Restaurants Summer 2016 Restaurants Enjoy the 10th Pittsburgh Restaurant Week event this summer
+55	  Begin the celebration at the Kickoff Party presented by Reinhart® at the National Aviary on August 11 
+56	  Reserve to dine out across Pittsburgh at participating restaurants the entire dining week, Monday August 15 to Sunday August 21 
+57	 Bonus Days : Can’t wait for restaurant week to start? Some restaurants are starting the special menus early, on Friday August 12
+58	 Browse Special Menus Narrow Restaurants & Menus Neighborhoods: Downtown | Strip District | Southside Early Access Outdoor Seating Walk-Ins Welcome Reserve Online Eat Sustainably Alexander's Italian Bistro $20
+59	16 Dinner Bloomfield Avenue B $20
+60	16 Lunch // $35
+61	16 Dinner Shadyside Bar Marco $30
+62	16 Dinner Strip District Benjamin's Western Avenue Burger Bar $20
+63	16 Northside Bigham Tavern $20
+64	16 Dinner Mount Washington Bill's Bar and Burger $20
+65	16 Specialty Downtown Bistro 19 $20
+66	16 Lunch / $30
+67	16 Dinner Mount Lebanon Bistro 9101 $20
+68	16 Specialty North Hills Blue North Restaurant $29
+69	16 Dinner North Hills Bonefish Grill $20
+70	16 Lunch, $35
+71	16 Dinner South Hills Braddock's American Brasserie $20
+72	16 Specialty Downtown BRGR $20
+73	16 Specialty East Liberty Bruceton Grille $20
+74	16 Dinner Pleasant Hills Carmella's Plates and Pints $20
+75	16 Dinner South Side Chaz & Odette $25
+76	16 or $35
+77	16 Dinner Bloomfield Cioppino Restaurant & Cigar Bar $35
+78	16 Dinner Strip District Della Terra $30
+79	16 Dinner Harmony Ditka's Restaurant $35
+80	16 Dinner Robinson Township Ease Modern Comfort Cuisine $20
+81	16 Specialty Regent Square Eddie Merlot's $35
+82	16 Dinner Downtown Eighty Acres Kitchen & Bar $32
+83	16 Dinner East Hills G&G Noodle Bar $25
+84	16 Dinner Downtown Grand Concourse Restaurant $35
+85	16 Dinner Station Square Green Forest Churrascaria $35
+86	16 Dinner Penn Hills Habitat Restaurant $35
+87	16 Dinner Downtown Hyde Park Prime Steakhouse $35
+88	16 Dinner Northshore Istanbul Sofra Sponsored Restaurant Regent Square James Street Gastropub & Speakeasy $20
+89	16 Dinner Northside Kaleidoscope Cafe $20
+90	16 or $35
+91	16 Dinner Lawrenceville LeMont Pittsburgh $30
+92	16 Dinner Mount Washington Lidia's Pittsburgh $35
+93	16 Dinner Strip District Luma $20
+94	16 Lunch, $35
+95	16 Dinner Mt
+96	 Lebanon Mansions on Fifth $20
+97	16 Breakfast / $35
+98	16 Dinner Shadyside Matteo's $26
+99	16 Dinner Lawrenceville McCormick & Schmick's Seafood - South Side $20
+100	16 Lunch // $35
+101	16 Dinner South Side McCormick & Schmick's Seafood - Downtown $20
+102	16 Lunch // $35
+103	16 Dinner Downtown Mitchell's Fish Market - Galleria $20
+104	16 Lunch / $35
+105	16 Dinner Mt
+106	 Lebanon Mitchell's Fish Market - Waterfront $20
+107	16 Lunch / $35
+108	16 Dinner Waterfront Morton's The Steakhouse $35
+109	16 Dinner Downtown Nine on Nine $29
+110	16 Dinner Downtown NOLA on the Square $35
+111	16 Dinner Downtown Osteria 2350 $20
+112	16 Dinner Strip District PAN $20
+113	16 Specialty Lawrenceville Paris 66 $20
+114	16 Lunch / $35
+115	16 Dinner Shadyside Pazzo - An Italian Bistro $25
+116	16 Dinner Upper St
+117	 Clair Pino's Contemporary Italian Kitchen & Wine Bar $35
+118	16 Dinner Point Breeze Poros $35
+119	16 Dinner, $20
+120	16 Brunch Downtown Proper Brick Oven & Tap Room $35
+121	16 Dinner Downtown Revel + Roost $35
+122	16 Dinner Downtown Rumfish Grille $35
+123	16 Dinner Bridgeville Ruth's Chris Steak House $26
+124	16 - $35
+125	16 Dinner Downtown Sarafino's $20
+126	16 Dinner Crafton Sausalido $30
+127	16 Dinner Bloomfield Senti Restaurant $20
+128	16 Lunch / $35
+129	16 Dinner Lawrenceville Six Penn Kitchen $35
+130	16 Dinner Downtown Spoon $35
+131	16 Dinner East Liberty Station $30
+132	16 Dinner Bloomfield Ten Penny $35
+133	16 Dinner Downtown Tender Bar+Kitchen $30
+134	16 Dinner Lawrenceville Texas De Brazil $35
+135	16 Dinner Station Square The Capital Grille $16
+136	16 Lunch / $35
+137	16 Dinner Downtown The Carlton $35
+138	16 Dinner Downtown The Melting Pot $28
+139	16 Dinner Station Square The Porch at Schenley $35
+140	16 Dinner Oakland The Twisted Frenchman $35
+141	16 Dinner East Liberty Union Pig & Chicken $20
+142	16 Dinner East Liberty Wallace's Taproom $35
+143	16 Dinner East Liberty Willow $35
+144	16 Dinner North Hills Additional restaurants participating in Pittsburgh Restaurant Week (menus not yet provided): Industry Public House Mallorca Plum Pan Asian Kitchen Terrace Room Vivo Kitchen About Contact Contest Guidelines © Pittsburgh TasteBuds Ltd

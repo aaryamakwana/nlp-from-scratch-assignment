@@ -1,0 +1,2 @@
+0	404 Page not found We can't find the page you were looking for
+1	 Go to home page
